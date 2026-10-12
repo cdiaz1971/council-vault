@@ -1,6 +1,6 @@
 # Frederick City Council -- Working Instructions
 
-This vault (`C:\Users\cesar\Dropbox\obsidian\Council`) is the complete, self-contained home for César Díaz's work as Frederick City Council President. Everything needed for council work lives somewhere in this vault. Read `Cesar Context -- Council.md` at the vault root first, it has who's who and what's currently active.
+This vault (locally `C:\Users\cesar\Dropbox\obsidian\Council`, on GitHub `cdiaz1971/council-vault`, synced to the phone with `councilsync`) is the complete, self-contained home for César Díaz's work as Frederick City Council President. Everything needed for council work lives somewhere in this vault. Read `Cesar Context -- Council.md` at the vault root first, it has who's who and what's currently active.
 
 ## Scope
 
@@ -45,7 +45,11 @@ For any question about a council topic, answer from the Council vault first. Rea
 
 `197 - Background Reading` holds copies of political theory, philosophy, research, and learning notes from César's Personal vault. It is outside-authority background, not council reference material. Links inside it that point back to the Personal vault are expected to be unresolved.
 
-New material arrives through the single inbox in César's Personal vault (`C:\Users\cesar\Dropbox\obsidian\Personal\00 - Inbox`). The inbox-triage and email-triage skills file council material into this vault.
+New material arrives through the single inbox in César's Personal vault (`00 - Inbox`, locally `C:\Users\cesar\Dropbox\obsidian\Personal\00 - Inbox`, on GitHub `cdiaz1971/personal-vault`). The inbox-triage and email-triage skills file council material into this vault.
+
+## Vault Access
+
+When César's computer is reachable, read and write the local files. When it isn't, use the GitHub repo `cdiaz1971/council-vault` and follow the Obsidian skill's GitHub mode rules: pull first, commit, `git pull --rebase`, push to `main`, never force-push or reset, then tell César to run `councilsync`. Never use Dropbox for vault reads or writes.
 
 ## Note Creation
 
