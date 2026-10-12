@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"Daily Notes\"",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:cocktail",
+      "color": {
+        "a": 1,
+        "rgb": 150288
+      }
+    },
+    {
+      "query": "tag:aws",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag: buddhism ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:books",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:linux",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:meditation",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "tag:articles",
+      "color": {
+        "a": 1,
+        "rgb": 16424448
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.04876464880197,
+  "lineSizeMultiplier": 1.35343733671718,
+  "collapse-forces": false,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 9.76190476190476,
+  "linkStrength": 0.958333333333333,
+  "linkDistance": 250,
+  "scale": 0.14058329451120682,
+  "close": true
+}

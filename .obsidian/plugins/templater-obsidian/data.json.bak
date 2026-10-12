@@ -1,0 +1,37 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "regex",
+  "auto_jump_to_cursor": true,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "/bin/bash",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "Cocktails",
+      "template": "Templates/cocktail-template.md"
+    },
+    {
+      "folder": "/",
+      "template": "Templates/newnote.md"
+    }
+  ],
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": "Templates/Inbox Note.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Templates/Youtube.md",
+    "Templates/Journal Entry.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": [],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,39 @@
+{
+  "enabledPlugins": [],
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "page-preview": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "open-with-default-app": true,
+    "file-recovery": true
+  },
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "insert-template",
+    "editor:set-heading",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard"
+  ],
+  "promptDelete": false,
+  "useTab": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false,
+  "mobilePullAction": "daily-notes"
+}
