@@ -34,4 +34,4 @@ The author predicts the governing parties will not touch EU citizens' rights bec
 This is the real-world test of the earlier note's warning: when data is released without a ready normative defense of need-based allocation, nativist framing fills the gap. For Frederick, the lesson applies to any eligibility rules for city-funded affordable housing and to how the city publishes demographic data on program participants. Have the need-based rationale ready before anyone asks for the breakdown.
 
 ## Source
-Rory Hearne? No author byline in email. The Week in Housing, Substack, October 9, 2026. https://theweekinhousing.substack.com/p/social-housing-immigration-rents
+The Week in Housing, Substack, October 9, 2026. https://theweekinhousing.substack.com/p/social-housing-immigration-rents
