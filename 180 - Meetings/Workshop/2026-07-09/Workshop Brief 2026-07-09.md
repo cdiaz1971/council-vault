@@ -14,7 +14,7 @@ tags:
 - topic/governance
 - topic/legislation
 - topic/housing
-- topic/housing/tenant-protection
+- topic/housing/tenant-protections
 - topic/transportation
 - topic/zoning
 title: Council Work Session Brief -- 2026-07-09

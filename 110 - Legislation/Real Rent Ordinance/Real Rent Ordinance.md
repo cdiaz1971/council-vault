@@ -1,3 +1,15 @@
+---
+title: "An Ordinance Establishing Real Rent Requirements for Rental Licensing and Tenant Protection"
+date_saved: 2026-10-02
+source: "César Díaz, draft ordinance"
+tags:
+  - council
+  - topic/housing
+  - topic/housing/tenant-protections
+  - topic/legislation
+summary: "César's draft ordinance requiring landlords, as a condition of rental licensing, to disclose the full Real Rent of a unit, meaning base rent plus all mandatory charges and costs of leasing."
+author: "César Díaz"
+---
 # Title: An Ordinance Establishing Real Rent Requirements for Rental Licensing and Tenant Protection
 
 Introduced by: Council President César Díaz

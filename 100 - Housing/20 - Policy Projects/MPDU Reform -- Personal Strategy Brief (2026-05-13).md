@@ -11,7 +11,7 @@ summary: Personal strategy brief on MPDU system reform -- payment-in-lieu rate i
 tags:
 - topic/housing
 - topic/housing/affordability
-- topic/housing/MPDU
+- topic/housing/mpdu
 - topic/housing/strategy
 title: MPDU Reform -- Personal Strategy Brief (2026-05-13)
 ---

@@ -5,7 +5,7 @@ source: "City Code Ch. 19, Ch. 4, Ch. 8, Ch. 12.5; vault synthesis (MPDU strateg
 tags:
   - topic/housing
   - topic/housing/affordability
-  - topic/housing/MPDU
+  - topic/housing/mpdu
   - topic/housing/finance
   - topic/legislation
 summary: "Agenda Item 3. Use the payment-in-lieu recalculation that Chapter 19 already requires to reset the MPDU fee, pair it with a tiered threshold and a CLT compliance option, and give the City's housing fund real revenue streams by amending rather than competing with the Housing Solutions Fund ordinance in Public Works. Target: formula data by January 2027, ordinance effective July 1, 2027 with FY2028 appropriation."

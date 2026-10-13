@@ -1,3 +1,15 @@
+---
+title: "Letter to the Editor: Turning Vacant Storefronts into Opportunity"
+date_saved: 2026-10-08
+source: "César Díaz, draft letter"
+tags:
+  - council
+  - topic/communications
+  - topic/economic-development
+  - topic/economic-development/small-business
+summary: "Draft letter to the editor proposing a City initiative to fill vacant storefronts with businesses started by residents from historically marginalized communities, using startup grants, no-interest microloans, first-year rent subsidies, CDFI partnerships, and technical assistance."
+author: "César Díaz"
+---
 Letter to the Editor: Turning Vacant Storefronts into Opportunity
 
 Dear Editor,

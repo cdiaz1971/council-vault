@@ -15,7 +15,7 @@ summary: Detailed analysis of the Mayor's Affordable Housing Task Force Final Re
 tags:
 - topic/housing
 - topic/housing/affordability
-- topic/housing/MPDU
+- topic/housing/mpdu
 - topic/housing/production
 - topic/housing/zoning
 - topic/housing/strategy

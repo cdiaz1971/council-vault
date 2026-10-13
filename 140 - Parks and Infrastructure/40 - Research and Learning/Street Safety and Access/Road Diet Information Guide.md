@@ -1,3 +1,16 @@
+---
+title: "Road Diet Information Guide"
+date_saved: 2026-10-03
+source: "FHWA Safety Program"
+tags:
+  - council
+  - topic/transportation
+  - topic/transportation/road-diets
+  - topic/transportation/safety
+summary: "Extracted full text of the FHWA Road Diet Information Guide, covering when converting four-lane roads to three lanes with a center turn lane improves safety, the feasibility criteria, and design and evaluation guidance."
+author: "Federal Highway Administration"
+url: "https://highways.dot.gov/safety/other/road-diets"
+---
 # Road Diet Information Guide
 
 Source: [[Road Diet Information Guide.pdf]]

@@ -9,7 +9,7 @@ summary: Planning outline of the 14 MAHTF recommendations as work areas for coun
 tags:
 - topic/housing
 - topic/housing/affordability
-- topic/housing/MPDU
+- topic/housing/mpdu
 - topic/housing/production
 - topic/housing/zoning
 - topic/housing/strategy

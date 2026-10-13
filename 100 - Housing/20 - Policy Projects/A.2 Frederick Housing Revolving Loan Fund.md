@@ -1,3 +1,15 @@
+---
+title: "Frederick Housing Accelerator Fund -- Revolving Loan Fund Proposal"
+date_saved: 2026-09-29
+source: "Ryan P. Trout presentation to the Government Operations Committee"
+tags:
+  - council
+  - topic/housing
+  - topic/housing/finance
+  - topic/housing/revolving-loan-fund
+summary: "Slide-style summary of the Frederick Housing Accelerator Fund proposal: a $15 million bond explored for FY2028 to fund loans covering 20 to 25 percent of mixed-income rental project costs, repaid and relent through an independent nonprofit."
+author: "Ryan P. Trout"
+---
 Establishing a Bond-Funded Housing
 Production Revolving Loan Fund
 A proposal to capitalize the Frederick Housing Accelerator Fund (HAF)

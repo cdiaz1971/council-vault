@@ -6,7 +6,7 @@ author: "Diana Ionescu"
 url: "https://www.planetizen.com/news/2026/07/138097-flock-cameras-are-now-6000-us-communities"
 tags:
   - topic/surveillance
-  - topic/surveillance/ALPR
+  - topic/surveillance/alpr
   - topic/civil-liberties
   - topic/immigration
   - topic/governance/technology

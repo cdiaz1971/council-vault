@@ -5,7 +5,7 @@ source: "Planetizen / DC News Now"
 author: "Diana Ionescu"
 tags:
   - topic/housing/eviction
-  - topic/housing/tenant-protection
+  - topic/housing/tenant-protections
   - topic/peer-cities
 summary: "Alexandria, Virginia's Office of Housing launched an eviction diversion program letting tenants behind on rent stay in their homes by paying 10 percent of what they owe upfront and the remainder in installments, aimed at renters set back by one-time expenses like car repairs or medical bills."
 url: "https://www.planetizen.com/news/2026/08/138176-alexandria-eviction-diversion-program-will-let-tenants-pay-back-rent"

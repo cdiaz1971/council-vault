@@ -1,3 +1,15 @@
+---
+title: "Establishing a Bond-Funded Housing Production Revolving Loan Fund"
+date_saved: 2026-09-29
+source: "Ryan P. Trout memo to the Government Operations Committee"
+tags:
+  - council
+  - topic/housing
+  - topic/housing/finance
+  - topic/housing/revolving-loan-fund
+summary: "Ryan Trout's memo to the Government Operations Committee proposing a $15 million general obligation bond to capitalize a Frederick Housing Accelerator Fund, a revolving public lender for mixed-income rental housing modeled on Montgomery County and Chattanooga."
+author: "Ryan P. Trout"
+---
 MEMORANDUM
 TO: Councilwoman Katie Nash, Chair, Government Operations Committee, and Members of
 the Committee
