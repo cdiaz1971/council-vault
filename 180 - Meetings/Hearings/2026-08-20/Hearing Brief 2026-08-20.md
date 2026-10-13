@@ -67,7 +67,7 @@ Mixed Use Vertical needs a decision on the 35,000 square foot threshold before t
 
 ## Related Notes
 
-[[Council Hearing Brief Non-Gateway Items 2026-08-06]] -- prior brief where the Mixed Use Vertical design-standard question was first flagged at introduction.
+[[Hearing Brief - Non-Gateway Items 2026-08-06|Council Hearing Brief Non-Gateway Items 2026-08-06]] -- prior brief where the Mixed Use Vertical design-standard question was first flagged at introduction.
 [[FY2027 Budget Tax Rate and Fee Schedule Passed 6-0]] -- background on the FY27 fee schedule amended by G-26-8.
 
 ## Meeting Notes

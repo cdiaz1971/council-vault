@@ -5,7 +5,7 @@ related:
 - '[[Surveillance Vendor Capture -- How Technology Gets Into Local Government Against
   Community Will]]'
 - '[[Municipal Technology Strategy]]'
-- '[[When AI Governs vs When AI Assists -- Procurement Distinctions for Local Government]]'
+- '[[When AI Governs vs When AI Assists Procurement Distinctions for Local Government]]'
 source: Stateline / Route Fifty
 summary: Emerging 'agentic policing' systems integrate body cameras, sensor networks,
   and case files into a single AI that generates investigative leads -- effectively
@@ -37,7 +37,7 @@ This is not a distant future scenario. Current platforms from Axon, Motorola Sol
 The report also documents individual misuse: a former Costa Mesa officer pleaded guilty to using Flock Safety cameras and law enforcement databases to surveil his wife, a mistress, and romantic rivals. Similar cases have surfaced in Florida, Georgia, Idaho, Illinois, Kansas, Pennsylvania, Tennessee, and Wisconsin.
 
 ## Relevance
-This connects the surveillance procurement thread directly to the GovTech AI governance thread in a way that has immediate Frederick implications. The question of whether Frederick has a procurement policy that applies to surveillance technology is already open in the Surveillance Technology Procurement Governance thread. Agentic policing is the logical end-state of Flock ALPR contract expansion without governance guardrails -- it does not require a new decision, just continued drift. The [[Surveillance Vendor Capture -- How Technology Gets Into Local Government Against Community Will]] synthesis note describes exactly how that drift happens. The answer-first problem also frames why the distinction between AI as workflow tool and AI as decision-actor matters so much for César's procurement governance work. See [[When AI Governs vs When AI Assists -- Procurement Distinctions for Local Government]] for the synthesis.
+This connects the surveillance procurement thread directly to the GovTech AI governance thread in a way that has immediate Frederick implications. The question of whether Frederick has a procurement policy that applies to surveillance technology is already open in the Surveillance Technology Procurement Governance thread. Agentic policing is the logical end-state of Flock ALPR contract expansion without governance guardrails -- it does not require a new decision, just continued drift. The [[Surveillance Vendor Capture -- How Technology Gets Into Local Government Against Community Will]] synthesis note describes exactly how that drift happens. The answer-first problem also frames why the distinction between AI as workflow tool and AI as decision-actor matters so much for César's procurement governance work. See [[When AI Governs vs When AI Assists Procurement Distinctions for Local Government|When AI Governs vs When AI Assists -- Procurement Distinctions for Local Government]] for the synthesis.
 
 ## Source
 Amanda Watford, Stateline, "Police use of artificial intelligence grows as rules lag behind," published via Route Fifty, June 26, 2026. https://www.route-fifty.com/artificial-intelligence/2026/06/police-use-artificial-intelligence-grows-rules-lag-behind/414495/

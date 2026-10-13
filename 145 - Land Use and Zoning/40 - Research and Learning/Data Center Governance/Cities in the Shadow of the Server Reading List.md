@@ -48,7 +48,7 @@ The reading list:
 
 ## Relevance
 
-This reading list is direct background material for Frederick's active data center permitting work. The Sidewalk Labs case in particular is a useful reference point: a tech giant, a secretive deal, community organizing, and a fight over who controls the city's future. Frederick is not Toronto, but the structural dynamics are the same. The Eubanks book is also directly relevant to any future conversation about AI tools in city operations -- see [[AI for Housing Permitting -- Use Cases and Guardrails]].
+This reading list is direct background material for Frederick's active data center permitting work. The Sidewalk Labs case in particular is a useful reference point: a tech giant, a secretive deal, community organizing, and a fight over who controls the city's future. Frederick is not Toronto, but the structural dynamics are the same. The Eubanks book is also directly relevant to any future conversation about AI tools in city operations -- see [[AI for Housing Permitting Use Cases and Guardrails|AI for Housing Permitting -- Use Cases and Guardrails]].
 
 The framing from "A City Is Not a Computer" -- that the city-as-computer metaphor erases local knowledge -- is a useful counterweight when vendors pitch algorithmic planning tools to council.
 

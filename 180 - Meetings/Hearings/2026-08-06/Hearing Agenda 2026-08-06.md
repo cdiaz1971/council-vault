@@ -13,7 +13,7 @@ summary: "Stub note -- no agenda on file for this meeting date."
 > [!warning] No agenda on file
 > This is a placeholder note. No agenda document was found in the vault for this meeting date. Retrieve and process the agenda to complete this note.
 
-Pre-hearing research for this meeting exists as two separate briefs rather than a single agenda note. [[Council Hearing Brief Gateway Property 2026-08-06]] covers the Gateway rezoning and annexation resolution. [[Council Hearing Brief Non-Gateway Items 2026-08-06]] covers the Hood lease, Rodent Control, Fee Schedule, Special Events Commission, and Mixed Use Vertical items.
+Pre-hearing research for this meeting exists as two separate briefs rather than a single agenda note. [[Hearing Brief - Gateway Property 2026-08-06|Council Hearing Brief Gateway Property 2026-08-06]] covers the Gateway rezoning and annexation resolution. [[Hearing Brief - Non-Gateway Items 2026-08-06|Council Hearing Brief Non-Gateway Items 2026-08-06]] covers the Hood lease, Rodent Control, Fee Schedule, Special Events Commission, and Mixed Use Vertical items.
 
 ## Meeting Notes
 

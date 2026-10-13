@@ -1,7 +1,7 @@
 ---
 date_saved: 2026-05-26
 related:
-- '[[Public Works Committee Brief -- 2026-05-26]]'
+- '[[Public Works Committee Brief 2026-05-26]]'
 source: Public Works Committee backup materials, Google Drive; Maryland Transportation
   Article; AMAC letter (May 5, 2026); Constituent email, Raymond Brown
 summary: Detailed brief on draft ordinance G-26-____ regulating Electrically Powered

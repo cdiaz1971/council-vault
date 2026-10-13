@@ -100,7 +100,7 @@ Everything else tonight is clean. Let the Gateway items take the time they need 
 
 ## Related Notes
 
-[[Real Rent Ordinance - Workshop Talking Points]] -- Chapter 12.5 namespace collision directly relevant to Rodent Control drafting sequencing.
+[[Real Rent Ordinance Workshop Talking Points|Real Rent Ordinance - Workshop Talking Points]] -- Chapter 12.5 namespace collision directly relevant to Rodent Control drafting sequencing.
 
 ## Meeting Navigation
 

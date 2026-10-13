@@ -2,7 +2,7 @@
 date_saved: 2026-05-29
 related:
 - '[[Cesar Context -- Council]]'
-- '[[Public Works Committee Brief -- 2026-05-26]]'
+- '[[Public Works Committee Brief 2026-05-26]]'
 source: manual
 summary: The FY2027 budget, tax rate, and fee schedule all passed 6-0 at the May 28,
   2026 special session. Council Member Joe Adkins was not present.
