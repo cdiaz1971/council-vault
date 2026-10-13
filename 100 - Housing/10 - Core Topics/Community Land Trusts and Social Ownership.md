@@ -2,8 +2,8 @@
 title: "Community Land Trusts and Social Ownership"
 type: council-decision-reference
 date_saved: 2026-09-26
-date_updated: 2026-09-29
-source_reviewed: 2026-09-26
+date_updated: 2026-10-13
+source_reviewed: 2026-10-13
 source: "vault synthesis and external primary research"
 status: active
 confidence: medium
@@ -17,6 +17,7 @@ related:
   - "[[Housing Finance and Preservation]]"
   - "[[Housing -- In-Progress Plans]]"
   - "[[Tenant Protections]]"
+last_synthesized: 2026-10-13
 ---
 
 # Community Land Trusts and Social Ownership
@@ -86,6 +87,8 @@ The central tradeoff in resale-restricted ownership is **access for future house
 
 **Community investment trusts (Portland, Oregon).** A community investment trust lets neighborhood residents who are not accredited investors buy small shares in local commercial property. The East Portland CIT bought Plaza 122, a 29,000-square-foot strip mall with about 30 tenants, for $1.2 million in 2014 and opened it to resident investors in 2017. Investors must live in four East Portland zip codes, complete a free six-hour financial course, and may invest up to $5,000. The operator reports 330 investing households, about $648,000 invested, a share price that rose from $10 to $19.65, and dividends averaging roughly 7% a year; its page does not date those totals.[^cit] Shelterforce reports higher figures for 2024 (345 households, $767,000); treat the operator's page as controlling and the difference as a reporting-date question.[^shelterforce-cit] The same article's Lansing, Rhode Island, and crowdfunding examples are unverified leads. This is a tool for commercial displacement and resident wealth-building, not housing production, and it depends on a securities structure and a guaranteed cash-out mechanism. Any City role would need City Attorney review. César's note [[Community Investment Trusts Let Low-Income Residents Own Local Commercial Real Estate]] connects the model to the Golden Mile's commercial parcels; that application is his analysis, not a finding of the sources.
 
+**Buyer first-claim and buyer agreements (New York City).** A Community Opportunity to Purchase Act (COPA) gives approved nonprofit buyers, such as land trusts and mission-driven developers, a first chance to buy multifamily buildings when they sell, so distressed buildings do not cycle between speculative owners. New York's Council passed a version in December 2025 that the outgoing mayor vetoed; the override was never brought up.[^copa-fail] Council Member Nurse reintroduced it with 30 sponsors and the current mayor's support, and it was laid over in committee in September 2026 (current status: verify).[^copa-nextcity] San Francisco runs a COPA program that advocates credit with preventing displacement. Without a COPA law, Brooklyn's Dukler tenant union negotiated legally binding agreements with the buyer of its buildings at auction: the new owner honors the rent strike, makes repairs, and after six years brings in help to convert the buildings to a co-op. Tenants call it a partial win because the co-op step depends on the owner following through ([[Buyer MOUs Can Bind New Owners to a Tenant Co-op Pathway]]; [[Community Opportunity to Purchase Gives Mission-Driven Buyers First Claim on Distressed Buildings]]). Maryland's right-of-first-refusal options and Frederick's authority to create one are a City Attorney question; until then, a buyer agreement is the tool tenants and nonprofits can use without new law.
+
 ## Maryland framework
 
 **Existing land-trust law.** Maryland's 2010 Affordable Housing Land Trust Act is codified at Real Property §§14-501–14-511. It defines eligible trusts, permits agreements with repurchase or transfer restrictions, and provides for recording and enforcement. Section 14-502 says an agreement under this subtitle **is not a ground lease**. This corrects the question in César's earlier brief about whether Maryland has a land-trust-specific enabling framework. It does not determine which legal structure would be best for a particular Frederick project.[^md-landtrust]
@@ -128,6 +131,8 @@ This section records local facts and César's questions and proposals. It does n
 [^pensacola]: City of Pensacola, [“City, Habitat Writing the Next Chapter in Attainable Housing”](https://cityofpensacola.com/CivicSend/ViewMessage/message/285129), August/September 2026; [earlier recommendation for the site](https://cityofpensacola.com/CivicSend/ViewMessage/message/235096).
 [^cit]: Community Investment Trust, [East Portland CIT](https://investcit.org/east-portland-cit/), investor eligibility, terms, property, and cumulative results, checked 2026-09-29.
 [^shelterforce-cit]: Steve Dubb, [“New Models Emerge to Facilitate Community Land Ownership”](https://shelterforce.org/2026/09/28/new-models-emerge-to-facilitate-community-land-ownership/), Shelterforce, September 28, 2026. Secondary reporting; used for the 2024 figures and as a lead for other models.
+[^copa-fail]: Next City, ["NYC's COPA Bill Has Failed. What's Next For This Anti-Displacement Measure?"](https://nextcity.org/urbanist-news/nycs-copa-bill-has-failed-whats-next-for-this-anti-displacement-measure), January 30, 2026.
+[^copa-nextcity]: Next City, ["Tenants got rid of negligent landlords. Now they want to own their building"](https://nextcity.org/urbanist-news/tenants-got-rid-of-negligent-landlords-now-they-want-to-own-their-building), October 2026.
 [^cambridge]: City of Cambridge, [Social Housing Task Force](https://www.cambridgema.gov/departments/mayorsoffice/socialhousingtaskforce), including first meeting June 24, 2026.
 
 ### Vault research preserved for later integration

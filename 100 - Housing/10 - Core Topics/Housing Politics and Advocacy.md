@@ -2,11 +2,12 @@
 title: Housing Politics and Advocacy
 type: council-decision-reference
 jurisdiction: [City of Frederick]
-date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+date_updated: 2026-10-13
+source_reviewed: 2026-10-13
 status: active
 confidence: medium-high
 tags: [housing, public-participation, advocacy, zoning, council]
+last_synthesized: 2026-10-13
 ---
 
 # Housing Politics and Advocacy
@@ -60,6 +61,8 @@ Do not label every objection “NIMBY.” Classify it:
 - **System-level:** concern about cumulative supply, affordability, segregation, displacement, or climate.
 
 The response should match the dispute. More data can resolve a factual question; it will not by itself resolve a value conflict.
+
+Allocation disputes are their own category. When Dublin City Council released social-housing waiting-list data by citizenship, it showed non-Irish households were 42% of the list and received 32% of offers, and the release prompted calls for citizen-only allocation even though non-Irish residents' share of the list reflected higher need and lower homeownership ([[Dublin Social Housing Waiting List by Citizenship]]; see also [[The Allocation Question Cannot Be Messaged Away]]). Any Frederick program that publishes who receives scarce units should expect the same question and should publish its need-based criteria alongside the numbers. Under the [[City Values Act]], the City should not collect immigration status for allocation at all.
 
 ## Evidence standard for advocacy claims
 

@@ -2,9 +2,9 @@
 title: Homelessness
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-13
+source_reviewed: 2026-10-13
+last_synthesized: 2026-10-13
 status: active
 confidence: medium-high
 tags: [housing, homelessness, shelter, supportive-housing, council]
@@ -77,6 +77,10 @@ The policy choice is therefore not “Housing First or services.” It is whethe
 Shared housing, two or more unrelated adults splitting an existing market-rate unit and its costs, is a tool for the "short-term housing crisis" and "safe alternative available" rows above because it uses existing inventory rather than new construction, which makes it fast to stand up with limited funds. Camden County, New Jersey built a shared-housing pilot system entirely from existing resources: the county paid for roughly 80 local providers to complete a Shared Housing Institute training program, then required master leasing, where a nonprofit rather than the individual tenant holds the lease and absorbs tenant-matching risk, as a funding condition for its highest-acuity populations. Landlord participation depended more on guaranteed rent and reduced turnover costs than on cash incentives. [Shelterforce, "How Camden County Is Using Shared Housing to Tackle Homelessness Without New Funding," April 10, 2026](https://shelterforce.org/2026/04/10/how-camden-county-is-using-shared-housing-to-tackle-homelessness-without-new-funding/)
 
 This is a New Jersey county's reported program design, not an evaluated outcome study, and it is not evidence that shared housing works for every household; it is best suited to people who can safely cohabit and benefit from reduced isolation alongside reduced cost. For Frederick, the transferable question is whether the City's housing trust fund terms could seed a small landlord incentive pool and whether a local nonprofit (reentry-serving organizations are the most likely candidates) has the capacity to serve as master lessee. That is an unanswered local capacity question, not a recommendation that the City adopt the model.
+
+### Flexible one-time cash for youth
+
+Most youth homelessness starts with a specific financial shock, such as a deposit, a bill that eats the rent, or lost campus housing, and existing aid is often too small, too slow, or restricted to the wrong expense. Point Source Youth's Targeted Housing Assistance Program pairs a housing plan written with a trained provider with one flexible payment for whatever the plan needs. A Johns Hopkins evaluation of a seven-state pilot covering 345 youth households (623 people with dependents) reported that about 92% had not entered the homelessness system six months later; the Oregon summary does not describe a comparison group, so this shows feasibility and short-term outcomes, not a causal effect ([Oregon DHS summary](https://apps.oregon.gov/oregon-newsroom/OR/ODHS/Posts/Post/johns-hopkins-study-one-time-cash-payments-have-potential-to-prevent-youth-homelessness-in-oregon); [[Flexible One-Time Cash Prevents Youth Homelessness Before Shelter Entry]]). Baltimore is testing it locally. It fits the "safe alternative available with modest help" row above, and the local question is whether an existing Frederick prevention fund could allow flexible single payments for young people.
 
 ## Authority map
 

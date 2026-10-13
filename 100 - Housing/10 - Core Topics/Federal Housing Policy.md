@@ -3,8 +3,8 @@ title: "Federal Housing Policy"
 type: council-decision-reference
 jurisdiction: [Federal, City of Frederick]
 date_saved: 2026-09-25
-date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+date_updated: 2026-10-13
+source_reviewed: 2026-10-13
 status: active
 confidence: medium
 tags:
@@ -20,6 +20,7 @@ related:
   - "[[Community Land Trusts and Social Ownership]]"
   - "[[Corporate Landlords and Private Equity]]"
   - "[[Housing -- In-Progress Plans]]"
+last_synthesized: 2026-10-13
 ---
 
 # Federal Housing Policy
@@ -88,6 +89,7 @@ Federal homelessness funding and the Continuum of Care litigation are on [[Homel
 
 - **Incentive size.** Before enactment, an Urban Institute analysis summarized in the vault found the CDBG-linked bonus too small to change local behavior (a median of about $55,000 a year per recipient) and warned that new duties land on a HUD with deep staffing cuts ([[Federal Housing Bills ROAD Act and H21 -- Incentive Structures and Their Weaknesses]]). The figure predates the final Sec. 213 design and has not been checked against it. **Verify.**
 - **Supply without subsidy.** Critics argue the law helps middle-income renters but does little for extremely low-income households, most of whom receive no voucher; the National Housing Law Project called it "progress but … no silver bullet" ([[21st Century ROAD to Housing Act Critique Supply Without Subsidy Won't Fix the Crisis]]). This is an advocacy position, not a measured outcome.
+- **No pass-through requirement.** Most of the law's provisions cut soft costs and review time, and nothing requires those savings to reach renters or buyers. PolicyLink's Tram Hoang argues deed restrictions for ownership units and rent regulation for rentals are what would carry savings through; LISC's Mark Kudlowitz counters that time savings will let marginal projects pencil. The Innovation Fund pays localities $10,000 to $250,000 for demonstrated supply growth only if Congress appropriates the money, which it has not, and HUD staffing has fallen from about 8,800 to 5,800, which analysts doubt can support new programs.[^nextcity-road] The same question applies to any Frederick permitting reform sold as an affordability measure: what carries the savings to residents? ([[ROAD to Housing Act Savings Carry No Requirement to Reach Tenants]]; [[ROAD to Housing Act Innovation Fund Rewards Local Zoning Reform Only If Congress Funds It]])
 - **Time limits.** CBPP estimated in July 2025 that a two-year time limit, applied to current households, would put 3.3 million people at risk nationally, including 1.7 million children, and 69,500 people in Maryland.[^cbpp] That estimate models a strict mandatory limit; the proposed rule is optional for each PHA, so actual exposure depends on local adoption.
 - **Family Self-Sufficiency.** The administration has moved to defund FSS, citing a HUD evaluation that found no earnings gain; program rules changed during that study, which weakens the comparison ([[Family Self-Sufficiency Program -- HUD Defunding Context]]). Congress funded FSS in FY2026.[^fy26]
 
@@ -154,6 +156,7 @@ The earlier concept page is preserved as [[Federal Housing Policy - Concept Snap
 [^cbpp]: Center on Budget and Policy Priorities, ["Rental Assistance Time Limits Would Place More Than 3 Million People, Half of Them Children, at Risk of Eviction and Homelessness"](https://www.cbpp.org/research/housing/rental-assistance-time-limits-would-place-more-than-3-million-people-half-of-them), July 18, 2025.
 [^city-cdbg]: City of Frederick, [Community Development Action Plans](https://www.cityoffrederickmd.gov/414/Community-Development-Action-Plans) and [Resolution 19-05 approving the CDBG Annual Action Plan](https://www.cityoffrederickmd.gov/DocumentCenter/View/12590/19-05-To-Approve-the-Community-Development-Block-Grant-Annual-Action-Plan).
 [^hacf]: Housing Authority of the City of Frederick, [Housing programs](https://www.hacfrederick.org/housing/).
+[^nextcity-road]: Next City, ["Will the ROAD to Housing Act actually boost America's housing supply?"](https://nextcity.org/urbanist-news/will-the-road-to-housing-act-actually-boost-americas-housing-supply), October 2026.
 
 ## Related pages
 

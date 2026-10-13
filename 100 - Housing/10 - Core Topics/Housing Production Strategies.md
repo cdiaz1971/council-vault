@@ -2,9 +2,9 @@
 title: "Housing Production Strategies"
 type: council-decision-reference
 date_saved: 2026-09-25
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-13
+source_reviewed: 2026-10-13
+last_synthesized: 2026-10-13
 source: "vault research, official plans, legislation, and program records"
 status: active
 confidence: medium
@@ -130,6 +130,8 @@ The following is an analytical comparison framework. It does not assert that eve
 | Fee relief or tax incentives | Changes project costs or operating income | Additional production attributable to the incentive and foregone public revenue |
 | Affordable-housing requirements or subsidy | Directs a share of production toward specified households | Feasibility, income depth, actual rent, duration, enforcement, and selection |
 | Preservation and rehabilitation | Retains useful homes and prevents losses | Physical needs, tenant protections, long-term affordability, and net-unit accounting |
+
+Small-scale local builders are a production channel the table does not capture on its own. In Memphis, a builder trained through the Incremental Development Alliance built Malone Park Commons, a 35-unit for-rent pocket neighborhood of cottages and fourplexes, in phases over five years, revising the pro forma more than 30 times and stabilizing each phase before starting the next; his earlier work pushed Memphis to reduce minimum lot sizes ([[Incremental Developer Builds a 35-Unit Affordable For-Rent Pocket Neighborhood in Memphis]]). The account comes from an Alliance faculty member, so treat it as a case study. For Frederick, the lesson is that phased small projects depend on predictable small-lot rules and small-loan financing more than on large subsidies.
 
 Financing details belong in [[Housing Finance and Preservation]], zoning in [[Zoning Reform]], and design/code options in [[Building Types and Codes]]. The production strategy should connect those instruments to one implementation schedule.
 

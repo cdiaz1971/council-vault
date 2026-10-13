@@ -1,12 +1,12 @@
 ---
 title: Corporate Landlords and Private Equity
 date_saved: 2026-09-25
-date_updated: 2026-10-04
+date_updated: 2026-10-13
 source: synthesis
 type: council-decision-reference
 status: active
-source_reviewed: 2026-10-04
-last_synthesized: 2026-10-04
+source_reviewed: 2026-10-13
+last_synthesized: 2026-10-13
 confidence: high
 tags:
   - housing
@@ -55,6 +55,8 @@ The strongest national conclusion is narrower than the former version of this pa
 - A peer-reviewed study of institutional single-family rental mergers found rent increases in neighborhoods where merging firms' portfolios overlapped; it also found reduced crime near the properties. This shows why an analysis should test specific outcomes and tradeoffs rather than infer them from an ownership label. [Gurun, Wu, Xiao, and Xiao, *Review of Financial Studies*](https://academic.oup.com/rfs/article/36/1/70/6550515)
 
 These sources justify scrutiny of scale, leverage, fees, maintenance, eviction practices, and acquisition patterns. They do **not** support a claim that private equity owns a fixed share of all U.S. apartments, that all corporate owners follow one business model, or that national findings describe Frederick without a local ownership analysis.
+
+Institutional landlord conduct can also become a national political event. In Madrid, the eviction of an 87-year-old tenant after her institutional landlord raised her rent from 500 to 2,650 euros set off national protests and a government housing bill (bans on speculative purchases, rent freezes, indefinite leases) that then failed in Parliament ([[Spain Eviction Protests and the Failed Housing Bill]]). The source is commentary from a housing researcher; it is context for how quickly a single case can reframe the issue, not evidence about U.S. owners.
 
 ## Mechanisms to test
 
