@@ -31,14 +31,13 @@ The framing -- "Solo el Pueblo Salva al Pueblo" (Only the People Save the People
 
 ## Why This Matters for Cesar
 
-The [[Frederick Rapid Response Network]] is the local infrastructure Frederick has been building to respond to exactly these kinds of enforcement moments. Hunger strikes in distant facilities are not disconnected from what happens locally -- they reflect the same enforcement machinery that operates in Frederick County. Staying connected to national immigration organizing signals (NDLON, Centro Hispano, SSCM) helps calibrate the local threat environment and shapes what the [[City Values Act]] is meant to protect against.
+The Frederick Rapid Response Network is the local infrastructure Frederick has been building to respond to exactly these kinds of enforcement moments. Hunger strikes in distant facilities are not disconnected from what happens locally -- they reflect the same enforcement machinery that operates in Frederick County. Staying connected to national immigration organizing signals (NDLON, Centro Hispano, SSCM) helps calibrate the local threat environment and shapes what the [[City Values Act]] is meant to protect against.
 
 The petition ask for Ramiro Santiago Pacheco Ramirez -- detained while picking up medication -- is a direct example of the chilling effect that [[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]] documents at the aggregate level.
 
 ## Related Notes
 
 - [[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]]
-- [[Frederick Rapid Response Network]]
 - [[City Values Act]]
 - [[NDLON -- A Song for Adelanto, Serenata at Immigration Detention]]
 - [[Local Government Resistance to ICE Detention Centers -- Romulus Michigan Case]]

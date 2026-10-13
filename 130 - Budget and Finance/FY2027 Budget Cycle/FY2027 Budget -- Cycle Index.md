@@ -81,7 +81,7 @@ Add department heads as they present at hearings.
 
 ## Hearing Index Notes
 
-- [[FY2027 Budget -- April 8 Hearing Index]]
+- [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]]
 - FY2027 Budget -- April 9 Hearing Index (to be created)
 - FY2027 Budget -- April 15 Hearing Index (to be created)
 - FY2027 Budget -- April 22 Hearing Index (to be created)

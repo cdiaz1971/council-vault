@@ -2,7 +2,6 @@
 author: Noelle Knell, GovTech
 date_saved: 2026-05-11
 related:
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 source: GovTech Newsletter
 summary: San Diego's 2026 AI deployment report found 98% of tech staff say AI saves
   time and boosts accuracy, with CIO Jonathan Behnke framing AI literacy as a core

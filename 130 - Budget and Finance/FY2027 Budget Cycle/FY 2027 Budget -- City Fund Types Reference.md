@@ -54,4 +54,4 @@ The fund type determines council leverage. Governmental funds are where budget n
 
 When the Mayor cites fiscal constraints as a reason to resist council priorities, he is primarily defending the General Fund. The City Housing Fund's thin capitalization is a policy choice, not a structural inevitability -- it is a governmental fund and can be appropriated to. That is the argument to make on April 9.
 
-See also: [[FY2027 Budget Work Session Briefing -- 2026-04-01]]
+See also: [[Workshop Brief 2026-04-01|FY2027 Budget Work Session Briefing -- 2026-04-01]]

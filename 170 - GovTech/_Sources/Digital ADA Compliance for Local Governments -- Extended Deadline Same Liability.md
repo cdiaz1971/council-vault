@@ -46,7 +46,6 @@ The Maryland data privacy story (covered in a separate note) is the more immedia
 
 ## Related Notes
 
-- [[Peer City -- Durham NC Appoints New Technology Director]]
 - [[Municipal Technology Strategy]]
 - [[AI Governance and Public Sector Procurement]]
 - [[Maryland Data Privacy and Protection Act 2026 -- Agency and Vendor Requirements]]

@@ -4,7 +4,7 @@ related:
 - '[[Maryland Community Trust Act -- Governor Allows Law Without Signature]]'
 - '[[Frederick County Sheriff Joins Lawsuit Challenging Community Trust Act]]'
 - '[[IAC Meeting Briefing -- May 27 2026]]'
-- '[[City Values Act -- Ordinance G-26-1]]'
+- '[[City Values Act -- Enacted Ordinance G-26-1]]'
 - '[[Immigrant Legal Services -- Peer City Funding Models and Frederick Options]]'
 source: Synthesis -- Maryland Matters (May 22 and May 27, 2026); IAC Meeting Briefing
   May 27 2026

@@ -28,7 +28,6 @@ This connects directly to [[AI in Civic Services -- Workflow Integration vs Repl
 
 ## Related
 
-- [[Peer City -- Durham NC Appoints New Technology Director]]
 - [[AI for Housing Permitting Use Cases and Guardrails]]
 - [[AI in Civic Services -- Workflow Integration vs Replacement]]
 

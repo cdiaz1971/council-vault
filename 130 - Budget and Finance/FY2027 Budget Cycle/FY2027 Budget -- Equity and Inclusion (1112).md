@@ -55,7 +55,7 @@ The Mayor is cutting the office explicitly named for equity while standing up tw
 
 ## Relevance
 
-For César, this is both a values question and a political opportunity. Restoring the cut position in Equity and Inclusion -- offset by a reduction elsewhere in the Mayor's cluster -- is a concrete amendment that is easy to explain and defend publicly. The training utilization failure also deserves accountability: what is the plan to actually spend the $60K on programming that reaches staff? See [[FY2027 Budget -- April 8 Hearing Index]], [[FY2027 Budget -- Office of Opportunities and Transformation (1115)]], [[FY2027 Budget -- Office of Vendor Engagement and Compliance (1116)]].
+For César, this is both a values question and a political opportunity. Restoring the cut position in Equity and Inclusion -- offset by a reduction elsewhere in the Mayor's cluster -- is a concrete amendment that is easy to explain and defend publicly. The training utilization failure also deserves accountability: what is the plan to actually spend the $60K on programming that reaches staff? See [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]], [[FY2027 Budget -- Office of Opportunities and Transformation (1115)]], [[FY2027 Budget -- Office of Vendor Engagement and Compliance (1116)]].
 
 ## Source
 

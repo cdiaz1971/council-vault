@@ -31,6 +31,6 @@ A resolution establishing a formal housing production target for the City of Fre
 
 ## Related Notes
 
-- [[FY2027 Budget Work Session Briefing -- 2026-04-01]]
+- [[Workshop Brief 2026-04-01|FY2027 Budget Work Session Briefing -- 2026-04-01]]
 - [[Housing Preservation -- Durability as Affordability Policy]]
 - [[FY2027 Budget -- Housing and Human Services April 9 Session]]

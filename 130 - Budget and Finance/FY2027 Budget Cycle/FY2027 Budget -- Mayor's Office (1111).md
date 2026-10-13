@@ -45,7 +45,7 @@ The Mayor's Office covers the Mayor's core staff and administrative operations. 
 
 ## Relevance
 
-This is the first budget hearing of the FY2027 cycle. The Mayor's Office budget sets the tone for executive branch spending priorities. The travel cluster size and the unexplained equipment rental are fair targets for reduction if the council needs to find offsets for additions elsewhere. See also [[FY2027 Budget -- April 8 Hearing Index]] for cross-department context and the structural fund balance concern.
+This is the first budget hearing of the FY2027 cycle. The Mayor's Office budget sets the tone for executive branch spending priorities. The travel cluster size and the unexplained equipment rental are fair targets for reduction if the council needs to find offsets for additions elsewhere. See also [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]] for cross-department context and the structural fund balance concern.
 
 ## Source
 

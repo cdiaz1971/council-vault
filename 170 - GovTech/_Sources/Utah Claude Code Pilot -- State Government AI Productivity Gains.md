@@ -3,7 +3,6 @@ author: Theo Douglas
 date_saved: 2026-04-29
 related:
 - '[[AI Governance Gap -- Who Controls the Surface Where AI Acts]]'
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 source: GovTech, April 29, 2026
 summary: Utah's Director of AI Christian Napier reports that piloting Claude Code
   at state agencies saved 40 hours of developer work over a four-week period, representing

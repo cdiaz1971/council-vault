@@ -26,7 +26,7 @@ The Maryland House of Delegates gave final approval to the No Kings Act on April
 **Passage timing:** Final House vote came April 11, 2026, the last Saturday before the legislature's April 13 adjournment. The bill had already passed the Senate.
 
 ## Relevance
-The No Kings Act connects directly to Frederick's City Values Act work and the broader immigration protection framework. If signed, it creates a legal tool residents could use against federal agents whose actions violate constitutional rights -- relevant context for how the city frames its non-cooperation posture. The Hagerstown detention center situation is directly relevant to Frederick's regional context: if a detention facility opens in the western Maryland corridor, it would become a live issue for Frederick's immigrant community and the organizations César works with. Connect to [[City Values Act]], [[Frederick Rapid Response Network]], and the ongoing community trust framework.
+The No Kings Act connects directly to Frederick's City Values Act work and the broader immigration protection framework. If signed, it creates a legal tool residents could use against federal agents whose actions violate constitutional rights -- relevant context for how the city frames its non-cooperation posture. The Hagerstown detention center situation is directly relevant to Frederick's regional context: if a detention facility opens in the western Maryland corridor, it would become a live issue for Frederick's immigrant community and the organizations César works with. Connect to [[City Values Act]], Frederick Rapid Response Network, and the ongoing community trust framework.
 
 ## Source
 Maryland Matters, April 11, 2026

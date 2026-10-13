@@ -2,7 +2,6 @@
 author: Route-Fifty staff
 date_saved: 2026-05-16
 related:
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 - '[[AI for Housing Permitting Use Cases and Guardrails]]'
 source: Route-Fifty
 summary: 'Minnesota DHS developed a four-question LLM evaluation framework for government

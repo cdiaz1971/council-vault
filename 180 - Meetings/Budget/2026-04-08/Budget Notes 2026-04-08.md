@@ -36,7 +36,7 @@ The downtown-only project list is a geographic equity problem. César and Nash's
 
 The PIA framing deserves attention: characterizing increased public records requests as constituent "difficulty" runs counter to transparency norms and may merit a direct response from the Council President.
 
-See also: [[FY2027 Budget -- Finance (1221)]], [[FY2027 Budget -- Legal Services (1121)]], [[FY2027 Budget -- April 8 Hearing Index]]
+See also: [[FY2027 Budget -- Finance (1221)]], [[FY2027 Budget -- Legal Services (1121)]], [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]]
 
 ## Source
 

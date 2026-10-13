@@ -43,4 +43,4 @@ This is directly relevant to the governance framework work underway at [[150 - G
 ## Related
 
 - [[Data Centers -- National Security Concerns in Local Land Use Decisions]]
-- [[Peer City -- Durham NC Appoints New Technology Director]]
+- Peer City -- Durham NC Appoints New Technology Director

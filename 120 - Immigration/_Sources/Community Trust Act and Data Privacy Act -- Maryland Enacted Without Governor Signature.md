@@ -24,7 +24,7 @@ As of late May 2026, both the Community Trust Act and the Maryland Data Privacy 
 
 ## Key Points
 
-The Community Trust Act focuses local government resources on community safety rather than ICE collaboration. It restricts how local law enforcement agencies can cooperate with federal immigration enforcement -- a structural equivalent at the state level of what Frederick has been attempting through the [[City Values Act]] and the [[Frederick Rapid Response Network]].
+The Community Trust Act focuses local government resources on community safety rather than ICE collaboration. It restricts how local law enforcement agencies can cooperate with federal immigration enforcement -- a structural equivalent at the state level of what Frederick has been attempting through the [[City Values Act]] and the Frederick Rapid Response Network.
 
 The Data Privacy Act protects personal information from being used in immigration enforcement contexts. One of the primary vectors for immigration enforcement escalation has been data sharing -- across agencies, with private databases, and with federal partners. A state law limiting this creates significant leverage.
 
@@ -39,7 +39,6 @@ Maryland's statewide immigrant protection framework now strengthens the ground F
 ## Related Notes
 
 - [[City Values Act]]
-- [[Frederick Rapid Response Network]]
 - [[Maryland No Kings Act -- Civil Liability for Federal Constitutional Violations]]
 - [[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]]
 

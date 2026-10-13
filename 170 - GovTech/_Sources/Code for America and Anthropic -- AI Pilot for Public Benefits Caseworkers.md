@@ -2,7 +2,6 @@
 author: GovTech staff
 date_saved: 2026-05-13
 related:
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 source: GovTech Newsletter
 summary: Code for America is partnering with Anthropic on a pilot to help government
   caseworkers more efficiently administer public benefits by using an AI-powered tool

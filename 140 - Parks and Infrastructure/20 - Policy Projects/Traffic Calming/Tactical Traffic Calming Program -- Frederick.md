@@ -30,7 +30,7 @@ A proposed capital program in the Nash FY2027 budget request at $150k, paired wi
 
 ## Related Notes
 
-- [[FY2027 Budget Work Session Briefing -- 2026-04-01]]
+- [[Workshop Brief 2026-04-01|FY2027 Budget Work Session Briefing -- 2026-04-01]]
 - [[Pedestrian Safety -- 2025 Deaths Show Largest Drop in 15 Years but Remain Above Pre-Pandemic Levels]]
 
 ## Wiki navigation

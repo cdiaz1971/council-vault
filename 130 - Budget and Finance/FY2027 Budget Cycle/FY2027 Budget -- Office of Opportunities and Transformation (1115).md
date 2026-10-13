@@ -55,7 +55,7 @@ The youth employment and apprenticeship programs are the strongest lines in this
 
 ## Relevance
 
-The workforce programs themselves align with César's priorities -- youth employment and apprenticeships in an ALICE-majority city are exactly the right investments. The accountability gap is the problem. Conditioning full funding on submission of a Year 1/Year 2 outcomes report is a reasonable council ask. Misaligned line items (bus lane, BGov) should be moved or eliminated. See [[FY2027 Budget -- April 8 Hearing Index]] for full hearing context.
+The workforce programs themselves align with César's priorities -- youth employment and apprenticeships in an ALICE-majority city are exactly the right investments. The accountability gap is the problem. Conditioning full funding on submission of a Year 1/Year 2 outcomes report is a reasonable council ask. Misaligned line items (bus lane, BGov) should be moved or eliminated. See [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]] for full hearing context.
 
 ## Source
 

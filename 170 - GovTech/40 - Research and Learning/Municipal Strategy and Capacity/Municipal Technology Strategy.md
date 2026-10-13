@@ -154,7 +154,7 @@ Charlotte CIO Markell Storay required AI and cloud certifications for IT staff b
 
 Frederick does not have a dedicated technology director or CIO-equivalent. Technology decisions are made departmentally (law enforcement buys ALPR, Planning procures permitting software, Parks buys sensor infrastructure) without coordinated governance. This organizational structure produces the reactive pattern: each procurement is evaluated on its own terms, without a shared framework for assessing community impact, data governance, or workforce readiness.
 
-The most impactful single organizational change Frederick could make is creating a technology coordination function -- not necessarily a full CIO role, but at minimum a technology policy staff position with cross-departmental authority. [[Peer City -- Durham NC Appoints New Technology Director]] documents a peer city making exactly this move.
+The most impactful single organizational change Frederick could make is creating a technology coordination function -- not necessarily a full CIO role, but at minimum a technology policy staff position with cross-departmental authority. Peer City -- Durham NC Appoints New Technology Director documents a peer city making exactly this move.
 
 ### The M365 and Copilot Context
 
@@ -204,7 +204,6 @@ Drawing from the full vault picture, the council-level interventions that would 
 - [[Community Benefit Agreements Relational vs Transactional Model]]
 - [[AI for Housing Permitting Use Cases and Guardrails]]
 - [[Housing Production Target Resolution]]
-- [[Peer City -- Durham NC Appoints New Technology Director]]
 - [[AI Governance and Public Sector Procurement]]
 - [[NLC Programs and Frederick Participation]]
 

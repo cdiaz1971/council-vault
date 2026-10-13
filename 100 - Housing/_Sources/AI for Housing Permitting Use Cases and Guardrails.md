@@ -3,7 +3,6 @@ author: Rochelle Haynes
 date_saved: 2026-04-30
 related:
 - '[[Housing Production Target Resolution]]'
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 - '[[Cities in the Shadow of the Server Reading List]]'
 source: Next City / In the Shadow of the Server
 summary: Cities using data and AI to streamline permitting and track housing production

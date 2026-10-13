@@ -21,6 +21,8 @@ Companion reports live in the other two vaults: `MOC/Vault Audit -- Personal.md`
 
 - **Batch A, done 2026-10-13.** Redirect note [[AI Governance and Public Sector Procurement]] created in `170 - GovTech`, pointing to [[AI Governance and Procurement]]. No source notes edited. The Work-vault version was skipped.
 
+- **Batch B, done 2026-10-13.** 17 regular links pointed straight at their current notes (City Values Act enacted ordinance, Budget Brief 2026-04-08, Workshop Brief 2026-04-01). Five redirect notes added for links inside `_Sources`: the two old City Values Act names, Flock ALPR, Maryland Housing Certainty Act, and the April 1 work session briefing. Frederick Rapid Response Network created as a historical page, since the network no longer exists. The Durham technology director note was left unresolved.
+
 ## How to approve
 
 Reply with batch letters, for example "approve A, C" or "approve D except the Road Diet guide."

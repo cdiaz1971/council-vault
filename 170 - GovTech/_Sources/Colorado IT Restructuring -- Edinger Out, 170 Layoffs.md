@@ -27,7 +27,6 @@ Colorado's IT restructuring is a peer-state signal worth watching. Large-scale g
 
 ## Related Notes
 
-- [[Peer City -- Durham NC Appoints New Technology Director]]
 - [[AI for Municipal Permitting -- Emerging Vendor Landscape]]
 - [[Trump AI + Cybersecurity Executive Order -- What Gov IT Leaders Should Expect]]
 

@@ -30,7 +30,6 @@ Worth watching as a peer model. If Anthropic is partnering with Code for America
 ## Related
 
 - [[AI for Public Comment Analysis -- California's Approach]]
-- [[Peer City -- Durham NC Appoints New Technology Director]]
 - [[AI in Civic Services -- Workflow Integration vs Replacement]]
 
 ## Source

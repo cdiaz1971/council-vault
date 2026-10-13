@@ -45,7 +45,7 @@ The Office of Vendor Engagement and Compliance is proposed as a new FY2027 funct
 
 ## Relevance
 
-From a progressive procurement standpoint, a disparity study and MWBE compliance function are genuinely valuable. Frederick almost certainly has contracting inequity that a study would document. The question is whether this office is structured to produce real change or to produce a report. César should press for binding commitments in the hearing and consider amending the budget to add a reporting requirement back to the council before any procurement reforms are finalized. See [[FY2027 Budget -- April 8 Hearing Index]] for full hearing context.
+From a progressive procurement standpoint, a disparity study and MWBE compliance function are genuinely valuable. Frederick almost certainly has contracting inequity that a study would document. The question is whether this office is structured to produce real change or to produce a report. César should press for binding commitments in the hearing and consider amending the budget to add a reporting requirement back to the council before any procurement reforms are finalized. See [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]] for full hearing context.
 
 ## Source
 

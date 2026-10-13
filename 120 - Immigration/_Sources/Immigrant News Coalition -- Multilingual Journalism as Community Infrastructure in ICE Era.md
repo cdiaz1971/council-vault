@@ -2,7 +2,6 @@
 date_saved: 2026-05-27
 related:
 - '[[City Values Act -- Ordinance G-26-1]]'
-- '[[Frederick Rapid Response Network]]'
 - '[[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]]'
 - '[[Immigration Enforcement -- Frederick County WYPR]]'
 source: Next City

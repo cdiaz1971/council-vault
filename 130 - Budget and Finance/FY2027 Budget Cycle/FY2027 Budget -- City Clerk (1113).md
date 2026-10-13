@@ -50,7 +50,7 @@ The City Clerk manages legislative records, board and commission administration,
 
 ## Relevance
 
-The commission stipend is directly aligned with César's citizen participation priority. If resources are available later in the budget cycle, expanding the stipend amount or eligibility scope is worth considering. The Granicus and Docusign cost reviews could generate savings that offset additions elsewhere. See [[FY2027 Budget -- April 8 Hearing Index]].
+The commission stipend is directly aligned with César's citizen participation priority. If resources are available later in the budget cycle, expanding the stipend amount or eligibility scope is worth considering. The Granicus and Docusign cost reviews could generate savings that offset additions elsewhere. See [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]].
 
 ## Source
 

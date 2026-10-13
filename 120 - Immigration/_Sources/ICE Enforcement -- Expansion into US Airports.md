@@ -31,7 +31,7 @@ The Trump administration began deploying ICE agents into major US airports in Ma
 
 ## Relevance
 
-Directly relevant to Frederick's [[City Values Act]] and immigrant community protection work. Airport enforcement expansion is a federal action but shapes the threat environment facing immigrant residents. Community partners like [[Centro Hispano de Frederick]], [[Spanish Speaking Community of Maryland]], and [[Frederick Rapid Response Network]] may be fielding concerns about this. Worth flagging in any immigration policy briefing or community communications. Also connects to the broader pattern of enforcement expanding into previously protected or neutral public spaces.
+Directly relevant to Frederick's [[City Values Act]] and immigrant community protection work. Airport enforcement expansion is a federal action but shapes the threat environment facing immigrant residents. Community partners like [[Centro Hispano de Frederick]], [[Spanish Speaking Community of Maryland]], and Frederick Rapid Response Network may be fielding concerns about this. Worth flagging in any immigration policy briefing or community communications. Also connects to the broader pattern of enforcement expanding into previously protected or neutral public spaces.
 
 ## Source
 

@@ -67,7 +67,7 @@ Drawing from the Rainy Day Fund to cover operating and capital costs means recur
 
 ## Relevance
 
-The fund balance draw is the most consequential item in the entire April 8 hearing and arguably in the whole budget cycle. César should ask CFO Barkdoll this question directly, on the record, at the hearing -- not in a follow-up. The credit card fee question is a concrete equity ask that has a clear mechanism and a known cost ($125K). Increasing internal audit from $50K to $100-125K would be a defensible addition with a clear rationale. See [[FY2027 Budget -- Cycle Index]], [[FY2027 Budget -- April 8 Hearing Index]].
+The fund balance draw is the most consequential item in the entire April 8 hearing and arguably in the whole budget cycle. César should ask CFO Barkdoll this question directly, on the record, at the hearing -- not in a follow-up. The credit card fee question is a concrete equity ask that has a clear mechanism and a known cost ($125K). Increasing internal audit from $50K to $100-125K would be a defensible addition with a clear rationale. See [[FY2027 Budget -- Cycle Index]], [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]].
 
 ## Source
 

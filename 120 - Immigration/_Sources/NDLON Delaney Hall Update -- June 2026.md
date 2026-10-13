@@ -36,7 +36,7 @@ NDLON's Director of Organizing Jorge Torres sent this update marking approximate
 
 ## Why This Matters for Cesar
 
-This connects directly to the [[City Values Act]] and Frederick's [[Municipal ID program]] threads. The Delaney Hall campaign is a model of what sustained community organizing looks like in the face of expanding federal immigration enforcement. NDLON is a key national partner, and their escalation strategy -- detainee-led, faith and media amplified, coalition-built -- may be instructive for Frederick's rapid response infrastructure conversations with [[Frederick Rapid Response Network]] and [[Centro Hispano de Frederick]].
+This connects directly to the [[City Values Act]] and Frederick's [[Municipal ID program]] threads. The Delaney Hall campaign is a model of what sustained community organizing looks like in the face of expanding federal immigration enforcement. NDLON is a key national partner, and their escalation strategy -- detainee-led, faith and media amplified, coalition-built -- may be instructive for Frederick's rapid response infrastructure conversations with Frederick Rapid Response Network and [[Centro Hispano de Frederick]].
 
 The ICE Out of NJ coalition structure is also worth tracking as a model for how municipalities and community organizations coordinate when federal enforcement pressure escalates.
 

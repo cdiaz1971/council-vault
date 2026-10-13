@@ -5,7 +5,6 @@ related:
   Enforcement]]'
 - '[[Divided Dublin -- Knowledge Economy Concentration and Housing Inequality]]'
 - '[[City Values Act]]'
-- '[[Frederick Rapid Response Network]]'
 - '[[Housing Production Target Resolution]]'
 source: Synthesis -- César Diaz / Claude session, June 20 2026
 summary: 'Synthesis note connecting Ohio voter registration enforcement and Dublin
@@ -57,7 +56,7 @@ In Frederick, these two dynamics are active simultaneously:
 
 The displacement dynamic: the DC/NOVA tech corridor functions like Dublin relative to Frederick -- high-wage workers priced out of core metros have pushed housing demand and prices up, displacing lower-income residents from established neighborhoods. The Golden Mile corridor, East Frederick, and affordable rental stock are under this pressure. The [[Housing Production Target Resolution]] and Real Rent Ordinance are responses to the displacement layer.
 
-The enforcement intimidation dynamic: the voter fraud + noncitizens fusion narrative being built at the federal level targets exactly the communities the [[City Values Act]] and [[Frederick Rapid Response Network]] are designed to protect. If enforcement adopts Ohio-style procedures in Frederick, the chilling effect on civic participation -- community meetings, voter registration, engagement with city services -- is real and compounding.
+The enforcement intimidation dynamic: the voter fraud + noncitizens fusion narrative being built at the federal level targets exactly the communities the [[City Values Act]] and Frederick Rapid Response Network are designed to protect. If enforcement adopts Ohio-style procedures in Frederick, the chilling effect on civic participation -- community meetings, voter registration, engagement with city services -- is real and compounding.
 
 These two dynamics reinforce each other. Displacement makes communities more vulnerable to enforcement intimidation (transient residents are harder to organize and harder to protect). Enforcement intimidation makes communities more vulnerable to displacement (fear suppresses access to tenant protections, legal aid, and political voice).
 

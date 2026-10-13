@@ -32,6 +32,6 @@ The April 9 departmental review session covers Housing and Human Services, the h
 
 ## Related Notes
 
-- [[FY2027 Budget Work Session Briefing -- 2026-04-01]]
+- [[Workshop Brief 2026-04-01|FY2027 Budget Work Session Briefing -- 2026-04-01]]
 - [[Housing Production Target Resolution]]
 - [[Housing Preservation -- Durability as Affordability Policy]]

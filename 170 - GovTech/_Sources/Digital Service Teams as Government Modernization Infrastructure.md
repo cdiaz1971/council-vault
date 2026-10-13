@@ -2,7 +2,6 @@
 author: GovTech Editorial
 date_saved: 2026-05-15
 related:
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 - '[[Municipal Technology Strategy]]'
 - '[[AI Governance and Public Sector Procurement]]'
 source: GovTech Newsletter / Beeck Center Report

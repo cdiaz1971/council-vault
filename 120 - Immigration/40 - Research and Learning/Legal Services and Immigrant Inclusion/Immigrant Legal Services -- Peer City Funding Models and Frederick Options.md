@@ -7,7 +7,7 @@ related:
 - '[[New Jersey Codifies Immigrant Trust Directive -- Statutory Durability vs Executive
   Policy]]'
 - '[[Standing Immigrant Advisory Commission as Low-Cost Governance Infrastructure]]'
-- '[[City Values Act -- Frederick Ordinance G-26-1]]'
+- '[[City Values Act -- Enacted Ordinance G-26-1]]'
 source: Synthesis of Harris County, Portland, and New Jersey coverage
 summary: 'Three peer city cases -- Harris County''s legally upheld nonprofit appropriation,
   Portland''s $150K reserve fund draw, and New Jersey''s statutory codification --

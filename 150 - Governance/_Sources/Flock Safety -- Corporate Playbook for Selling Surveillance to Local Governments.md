@@ -3,7 +3,6 @@ author: Jason Koebler
 date_saved: 2026-05-21
 related:
 - '[[Bandera Texas Cancels Flock Contract After Community Resistance]]'
-- '[[Peer City -- Durham NC Appoints New Technology Director]]'
 source: 404 Media -- Jason Koebler
 summary: Flock Safety uses a systematic playbook to penetrate local government markets
   -- state grant subsidies, former elected officials as lobbyists, and police training
@@ -45,7 +44,7 @@ This note functions as a reference for technology vendor evaluation. The Flock p
 
 The question for Frederick is whether the council has a procurement framework that would surface these dynamics before adoption rather than after. The GovTech / [[Municipal Technology Strategy]] work is the right home for that conversation.
 
-Related notes: [[Bandera Texas Cancels Flock Contract After Community Resistance]], [[Peer City -- Durham NC Appoints New Technology Director]]
+Related notes: [[Bandera Texas Cancels Flock Contract After Community Resistance]], Peer City -- Durham NC Appoints New Technology Director
 
 ## Source
 

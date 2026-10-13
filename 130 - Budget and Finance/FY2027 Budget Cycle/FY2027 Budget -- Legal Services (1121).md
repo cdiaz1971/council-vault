@@ -48,7 +48,7 @@ The Legal department provides in-house counsel for the city, handles public info
 
 ## Relevance
 
-Legal is directly relevant to César's legislative agenda. Rachel Gray's department is the gateway for preemption review on the junk fees ordinance, the housing production target resolution, and any future tenant protection or immigrant protection measures. The department's capacity and institutional knowledge directly affect the council's ability to move legislation. A senior departure in Legal is worth tracking -- a less experienced department could mean slower turnaround on preemption opinions. See [[FY2027 Budget -- Cycle Index]], [[FY2027 Budget -- April 8 Hearing Index]].
+Legal is directly relevant to César's legislative agenda. Rachel Gray's department is the gateway for preemption review on the junk fees ordinance, the housing production target resolution, and any future tenant protection or immigrant protection measures. The department's capacity and institutional knowledge directly affect the council's ability to move legislation. A senior departure in Legal is worth tracking -- a less experienced department could mean slower turnaround on preemption opinions. See [[FY2027 Budget -- Cycle Index]], [[Budget Brief 2026-04-08|FY2027 Budget -- April 8 Hearing Index]].
 
 ## Source
 

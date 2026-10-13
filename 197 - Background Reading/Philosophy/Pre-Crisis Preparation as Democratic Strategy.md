@@ -42,4 +42,4 @@ When the trigger moment arrives, the effective democratic response names the pol
 
 The Frederick Rapid Response Network, Centro Hispano, SSCM, and the coalition around the City Values Act are exactly the pre-crisis infrastructure this analysis describes. The question worth asking is: what is the narrative Frederick can deploy within 48 hours of a major crisis, and who are the messengers?
 
-[[Disaster Authoritarianism -- How Crises Become Authorization for Power Consolidation]] | [[Climate Fascism -- The Walled-Garden Response to Climate Collapse]] | [[Frederick Rapid Response Network]]
+[[Disaster Authoritarianism -- How Crises Become Authorization for Power Consolidation]] | [[Climate Fascism -- The Walled-Garden Response to Climate Collapse]] | Frederick Rapid Response Network

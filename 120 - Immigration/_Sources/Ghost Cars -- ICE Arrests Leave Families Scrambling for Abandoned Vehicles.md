@@ -49,7 +49,7 @@ This is a direct operational dimension of the ICE enforcement environment in Mar
 
 The community volunteer coordination model also points to organizational infrastructure questions: does Frederick Rapid Response Network or another organization have the capacity to track and respond to ghost cars in the Frederick area?
 
-Related: [[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]], [[Community Trust Act -- CTA Sheriffs Lawsuit Synthesis]], [[City Values Act]], [[Frederick Rapid Response Network]]
+Related: [[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]], [[Community Trust Act -- CTA Sheriffs Lawsuit Synthesis]], [[City Values Act]], Frederick Rapid Response Network
 
 ## Source
 

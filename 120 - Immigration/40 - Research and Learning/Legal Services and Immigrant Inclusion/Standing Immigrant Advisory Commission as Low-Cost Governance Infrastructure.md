@@ -2,7 +2,7 @@
 date_saved: 2026-05-20
 related:
 - '[[Portland 150K Immigrant Legal Services Appropriation -- Model and Internal Tensions]]'
-- '[[City Values Act -- Frederick Ordinance G-26-1]]'
+- '[[City Values Act -- Enacted Ordinance G-26-1]]'
 source: Oregon Public Broadcasting (extracted from Portland legal services coverage)
 summary: Portland's New Portlanders Policy Commission -- a standing volunteer advisory
   body advising the council on how policies affect immigrant and refugee communities
