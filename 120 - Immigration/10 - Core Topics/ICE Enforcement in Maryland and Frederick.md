@@ -3,9 +3,9 @@ title: "ICE Enforcement in Maryland and Frederick"
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
 date_saved: 2026-09-23
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 source: "Synthesis of enacted law, official correspondence, reporting, and retained local records"
 status: active
 confidence: medium
@@ -45,6 +45,13 @@ This page distinguishes an event, a reported allegation, an official request for
 | City implementation | Ordinance G-26-1 took effect April 6, 2026; its reporting, facility-access, information-access, and property provisions provide an existing oversight framework. | Enactment alone does not demonstrate training, signage, reporting, or compliance. Obtain the implementation record. |
 
 The congressional letter seeks responses by **September 30, 2026** and asks about the operation timeline, force, warrants, identification of observers, and agency command. Its account includes a vehicle on the sidewalk, baton use, and alleged intimidation of an elected official. This review does not independently authenticate the videos or establish the federal response. [September 17 delegation letter](https://www.vanhollen.senate.gov/news/press-releases/maryland-delegation-members-call-for-answers-investigation-following-alarming-ice-operation-in-frederick).
+
+Follow-up reporting adds the local response and the competing accounts of police authority ([Baltimore Banner](https://www.thebanner.com/community/local-news/ice-agents-clash-frederick-protestors-next-steps-PLMNNZV2AVCABNG7NGE2MUISL4/); [[Frederick After the ICE Clash Police Role and City Response]]):
+
+- **FPD's stated role.** Chief Meyer said officers cannot interfere with a federal operation, were present to deter excessive force, and kept body cameras running. ICE would not tell FPD whether it held a warrant. A retired Howard County police colonel noted federal agencies normally notify local police before operating in a jurisdiction.
+- **Mayor's position.** Mayor O'Connor said officers who observe a rights violation must decide what level of intervention is needed to stop it, a broader view than the Chief's, and said he would review the bodycam footage with the Chief. The difference matters for any written FPD guidance and for the City's request to the Attorney General.
+- **Sheriff's position.** Sheriff Jenkins, a plaintiff in the sheriffs' suit against the state non-cooperation laws, attributes the surge to those laws. That is a causal claim the record does not establish.
+- **Community infrastructure.** Clergy trained as ICE observers after watching the Minneapolis surge, and volunteers were already walking children home from school, delivering groceries to families with a detained relative, and circulating neighborhood alerts before the clash. These networks are a resource for rapid response and for documenting incidents.
 
 The detailed local chronology and competing accounts remain in [[ICE Raid Press Coverage Brief -- 2026-09-09]] and the original concept snapshot. Do not count several articles reproducing the same video or statement as independent corroboration. Preserve original files, timestamps, provenance, and the distinction between firsthand observations and subsequent summaries.
 

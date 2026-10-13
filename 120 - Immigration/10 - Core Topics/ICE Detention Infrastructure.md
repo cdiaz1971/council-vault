@@ -3,8 +3,8 @@ title: "ICE Detention Infrastructure"
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
 date_saved: 2026-09-23
-date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
 source: "Synthesis of enacted law, a federal court opinion, official statements, and retained research"
 status: active
 confidence: medium
@@ -23,6 +23,7 @@ related:
   - "[[ICE Surveillance and Data]]"
   - "[[Immigrant Legal Services and Local Support]]"
   - "[[Immigration - In-Progress Plans]]"
+last_synthesized: 2026-10-12
 ---
 
 # ICE Detention Infrastructure
@@ -112,6 +113,8 @@ The Pennsylvania fiscal example in [[ICE Detention Infrastructure Fiscal Fallout
 A siting decision is not a complete detention-conditions review. If a facility is proposed or operating, obtain the applicable contract and standards, inspection findings and corrective actions, medical and disability-access provisions, grievance procedures, attorney visitation and confidential communication arrangements, language access, and emergency plans.
 
 The retained Rodney Taylor, Delaney Hall, and Adelanto notes raise disability, medical-care, and detained-person advocacy concerns. Attribute claims to the specific letter, report, or organization and date; neither an allegation nor an operator's compliance statement substitutes for inspection evidence. They do not establish conditions at a Maryland site.
+
+Out-of-state transfer is the common path for Maryland arrests, and it moves people beyond the reach of family, counsel, and Maryland officials. Julián Curo-Churata, a Laurel resident of 17 years, died after being taken from Richwood Correctional Center in Monroe, Louisiana, to a hospital; ICE says he received proper care, his family's attorney is investigating reports that guards ignored urgent requests for medical attention, the cause of death awaited autopsy, and Sen. Van Hollen called for an independent investigation. Richwood has a documented record, including a federal jury award of more than $40 million over a 2015 death in custody ([Baltimore Banner](https://www.thebanner.com/community/local-news/julian-curo-churata-lawyer-ice-DGMNGS4ELZDZZMPHJF7NMEJYRI/); [[Laurel Man Dies in ICE Custody After Medical Pleas Ignored]]). For the City, the case supports rapid-response legal support and family notification at the point of arrest, since conditions oversight is out of reach once a person leaves Maryland.
 
 For private-operator analysis, distinguish contract ceiling, guaranteed payments, actual expenditures, occupancy, and profit. [[Private Prison Corporations and the Deportation Industrial Complex]] is a policy/advocacy analysis, not a parcel-specific contract audit. Legal services and family access are covered in [[Immigrant Legal Services and Local Support]].
 

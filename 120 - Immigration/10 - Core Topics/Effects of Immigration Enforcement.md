@@ -5,9 +5,9 @@ aliases:
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
 date_saved: 2026-09-23
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 source: synthesis
 status: active
 confidence: medium
@@ -91,6 +91,8 @@ This is an enacted statutory change, not a modeled scenario, and it reaches peop
 ### Housing, work, and civic participation
 
 The Minnesota and Memphis accounts in [[ICE Enforcement Chilling Effect -- Economic and Housing Disruption]] identify a plausible chain: disrupted work and movement, reduced earnings, rent arrears, and increased requests for help. Their wage-loss, eviction, and rental-assistance numbers are outside-jurisdiction reporting and estimates; this review does not independently validate them or use them to size a Frederick appropriation.
+
+Labor effects are now being estimated directly. One study estimated Minnesota's Operation Metro Surge cost about 4,600 hospitality jobs and $71 million in wages over three months ([Minnesota Reformer](https://minnesotareformer.com/2026/06/02/study-operation-metro-surge-cost-minnesota-an-estimated-4600-hospitality-jobs-in-3-months/)). A larger figure of 32,000 fewer jobs, attributed to the Immigration Research Initiative in a news roundup, could not be traced to the underlying study (verify). Reporting also links enforcement and an aging workforce to skilled-trades shortages ([[Immigration Crackdown Driving Skilled Trades Labor Shortage]]). For Frederick the relevant point is that housing production and capital projects depend on trades labor, so enforcement-driven shortages can raise local construction costs and delay projects. That is a mechanism to monitor, not a measured local effect.
 
 [[ICE at Military Graduations -- Chilling Effect on Immigrant Families]] preserves a reported example of avoiding a civic milestone. It illustrates a mechanism, not a measured national attendance effect.
 

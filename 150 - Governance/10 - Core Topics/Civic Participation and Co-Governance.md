@@ -3,9 +3,9 @@ title: Civic Participation and Co-Governance
 type: council-decision-reference
 area: Governance
 jurisdiction: [City of Frederick, Maryland]
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 status: active
 confidence: medium
 tags: [council, governance, civic-participation, participatory-budgeting, neighborhood-advisory-councils, elections, public-comment]
@@ -61,6 +61,8 @@ This page supports Council decisions about how residents take part in City gover
 - Frederick has no participatory budgeting program. Priority-driven budgeting, which scores programs against community priorities, has been proposed as a reform to the current incremental process ([[Priority-Driven Budgeting -- Frederick Application]]).
 
 ## Evidence on co-governance tools
+
+- **Two ends of the PB spectrum.** The Chicago Park District ran a $500,000 citywide pilot from its capital budget with projects sized near $50,000; residents submitted 1,082 ideas, staff screened them for cost and safety, and residents voted on categories rather than individual projects, which keeps the ballot manageable but returns discretion to staff. Two parks also fund PB from a share of large-event permit fees ([Chicago Park District](https://www.chicagoparkdistrict.com/participatory-budgeting); [[Chicago Park District Citywide Participatory Budgeting Pilot]]). Portland's Measure 26-267, on the November 2026 ballot, would write a permanent set-aside of at least 2% of discretionary General Fund spending (about $16 million a year) into the charter, with a binding resident vote. The mayor, labor unions, and the Oregonian editorial board oppose it during a roughly $160 million shortfall ([Multnomah County voters' guide](https://multco.us/info/measure-26-267-amends-charter-portland-residents-decide-2-citys-annual-discretionary-budget); [[Portland Measure 26-267 Participatory Budgeting Charter Set-Aside and Opposition]]). For Frederick, the Chicago model (small, administratively owned, capital-only, renewable each year) fits a first pilot better than a charter mandate.
 
 - **Participatory budgeting and turnout.** A 2023 peer-reviewed study of New York City PB found participation raised voter turnout by an average of 8.4 percentage points, with larger effects for young, lower-income, less-educated, and Black voters and for residents who are the minority race in their neighborhood (Johnson, Carlson, and Reynolds, *Political Behavior* 45(1); [summary](https://researchers.kean.edu/en/publications/testing-the-participation-hypothesis-evidence-from-participatory-/)).
 - **Scale.** In 2026 more than 93,000 New York residents voted on $30 million through the citywide People's Money program; Cambridge, Massachusetts finished its 12th PB cycle with ballots in ten languages ([[Civic Brief - 051926]]).

@@ -3,9 +3,9 @@ title: "Federal Immigration Policy"
 date_saved: 2026-09-23
 source: synthesis
 type: council-decision-reference
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 jurisdiction: [federal, Maryland, Frederick]
 status: active
 confidence: medium
@@ -40,6 +40,10 @@ Keep citizenship, lawful permanent residence, temporary protection, parole, work
 ## National baseline: useful context, not a Frederick count
 
 MPI estimates **15.8 million unauthorized immigrants in mid-2024**. That is a dated national estimate, not a September 2026 count or a local population estimate. The underlying category can include people with temporary protection or permission to remain; it should not be translated into a claim that everyone counted entered unlawfully or lacks work authorization. Two retained notes summarize the same article, so they are not independent corroboration. The note titled “From 2026 Peak” should be read with the corrected **2024** reference year. [MPI estimate](https://www.migrationpolicy.org/press-release/us-unauthorized-immigrant-population-reaches-new-levels-and-diversifies-mpi-estimates).
+
+The ACLU's review of mass deportation enforcement describes more than 2,000 federal, state, and local agencies participating, over 25,000 federal agents plus 287(g)-deputized officers, about $240 billion in congressional enforcement funding, roughly 6.1 million people losing legal status, and a reported 75% drop in the naturalization rate over two years. These are advocacy-organization figures with recommendations attached (a path to citizenship, replacing ICE, ending functional immunity for agents); use them as attributed claims and check each figure against the underlying federal data before citing it as fact (verify) ([ACLU](https://www.aclu.org/news/immigrants-rights/we-launched-the-first-comprehensive-civil-rights-review-of-mass-deportations-heres-how-its-impacting-democracy); [[ACLU Report Finds Mass Deportation Enforcement Is Eroding Democratic Safeguards]]).
+
+Support for work authorization is not confined to the left. More than 250 Latino leaders, including a former chair of the Republican National Hispanic Assembly, signed a Comite de 100 letter asking the President and Congress for work permits and legal protections for long-term undocumented workers, citing polling that 75% of Latino voters would favor a candidate who backs work permits ([[Comite de 100 Letter Shows Bipartisan Latino Demand for Work Permits]]). The polling is the coalition's own citation, not an independent survey reviewed here.
 
 For Frederick, request aggregated service-demand indicators from trusted providers rather than attempting to enumerate residents by immigration status. National changes can affect mixed-status households, employers and schools, but do not establish the size or direction of a particular local effect.
 
