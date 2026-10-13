@@ -19,6 +19,8 @@ Companion reports live in the other two vaults: `MOC/Vault Audit -- Personal.md`
 
 - **Batch F, done 2026-10-13.** Frontmatter added to [[A.1 Frederick Housing Fund Memo]], [[A.2 Frederick Housing Revolving Loan Fund]], [[Real Rent Ordinance]], [[letter to editor]], and the research-folder copy of the Road Diet Information Guide. Tags merged to `topic/housing/mpdu` (5 notes outside `_Sources`), `topic/housing/tenant-protections` (1 source note), and `topic/surveillance/alpr` (1 source note), with your approval for the two `_Sources` edits. The camel-case items listed below are hashtags inside Bluesky post drafts and a saved SRO thread, not vault tags, so they were left unchanged. Root, template, and other `_Sources` files without frontmatter were also left as they are.
 
+- **Batch A, done 2026-10-13.** Redirect note [[AI Governance and Public Sector Procurement]] created in `170 - GovTech`, pointing to [[AI Governance and Procurement]]. No source notes edited. The Work-vault version was skipped.
+
 ## How to approve
 
 Reply with batch letters, for example "approve A, C" or "approve D except the Road Diet guide."
