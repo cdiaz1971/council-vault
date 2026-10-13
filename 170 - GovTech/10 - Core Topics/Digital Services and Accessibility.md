@@ -3,9 +3,9 @@ title: Digital Services and Accessibility
 type: council-decision-reference
 area: GovTech
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 status: active
 confidence: medium
 tags: [council, govtech, accessibility, ada, digital-services, broadband, service-design]
@@ -29,6 +29,7 @@ This page supports Council decisions on how residents reach City services online
 - **One door.** Maryland's single application for five benefit programs reached 500,000 users in its first year and cut delivery times.
 - **Small fixes.** North Carolina cut SNAP payment errors with one caseworker prompt used over 20,000 times.
 - **Procedural loss.** About 320,000 of Maryland's 1.47 million Medicaid enrollees face new federal work reporting and six-month redetermination rules; most coverage losses are expected among eligible people who miss a notice. Maryland is redesigning notices and caseworker tools with Code for America. City services that help residents through these systems face the same risk.
+- **Small teams.** Broward County, Florida, runs its public website with a four-person team that is using AI to rebuild the site on a commercial platform, with the stated goal of organizing official content once so it stays accurate when search engines and AI tools summarize it ([Sitecore announcement](https://www.sitecore.com/company/newsroom/press-releases/2026/03/broward-county-selects-sitecoreai-to-help-ensure-residents-find-clear-trusted-information-online); [[Broward County Four-Person Web Team Uses AI to Rebuild County Website]]). The relevant lessons for the City are the staffing ratio and the AI-search goal; the platform choice is a long vendor commitment that belongs in [[AI Governance and Procurement]] review.
 - **Modernization.** Kansas replaced 1970s unemployment systems in 29 months, moving availability from about 65% to around the clock and cutting training from eight weeks to two.
 - **Federal systems.** Federal tools do not always fit local needs; most states declined CMS's free Medicaid verification tools.
 - **Identity.** States are building unified digital ID to cut fraud and simplify access; any City use must respect immigrant residents' privacy under the [[City Values Act]].

@@ -5,8 +5,9 @@ aliases:
 date_saved: 2026-09-23
 source: synthesis
 type: council-decision-reference
-date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 jurisdiction: [Frederick, Maryland]
 status: active
 confidence: medium
@@ -84,6 +85,8 @@ The law defines covered inlets and exclusions; it does not require repair of eve
 
 The retained program note describes an administrative residential shutoff threshold above $350, payment plans and one-time leak forgiveness. Treat these as **documented practices at the note's date**, not permanent statutory rights or a guarantee for a particular account. Verify current written rules, notices, appeal procedures and eligibility with Finance. [[Water Shutoff Prevention -- Frederick Existing Programs and Proposed Legislative Actions]].
 
+**State and national context:** a Food and Water Watch analysis of the 500 largest U.S. community water systems found average bills rose 62% over the ten years through 2025, faster than overall inflation, and placed Maryland among four states where water bills grew about twice as fast as household incomes ([Stateline](https://stateline.org/?p=18753); [[Water Bills Rising Twice as Fast as Incomes in Maryland]]). The study averages large systems and does not report Frederick's own rates, and the same analysis found publicly owned systems charge less than for-profit ones, which describes Frederick's public utility. For Council the finding supports rate design and relief rather than an ownership change. Compare Frederick's residential bill growth with local median household income before citing the state figure as a Frederick trend (verify).
+
 Reported leak credits were $68,742 across 55 accounts in FY2025 and $48,038 across 26 accounts in FY2026 **through February 17**. The second period is incomplete; it cannot establish an annual increase or decrease.
 
 Pending ideas include interest relief during repayment, turn-on/turn-off fee flexibility, a funded assistance program, voluntary bill contributions and codification. Their dated roadmap status belongs in [[Parks and Infrastructure - In-Progress Plans]]. Before adoption, define eligibility, funding, landlord/tenant access, application burden, interaction with leak credits, service protections, fiscal controls and an appeal route.
@@ -133,6 +136,7 @@ Linked primary material supersedes conflicting summaries. Retained notes remain 
 - [[Potomac Sewage Spill -- Sediment Persistence and Lingering Public Health Risk]]
 - [[Developer Sediment Enforcement -- Maryland $4.1M Gunpowder River Settlement]]
 - [[Permeable Parking as Stormwater and Heat Island Mitigation]]
+- [[Water Bills Rising Twice as Fast as Incomes in Maryland]]
 
 **Cited in place (18)**
 - [[Water Shutoff Prevention -- Frederick Existing Programs and Proposed Legislative Actions]]

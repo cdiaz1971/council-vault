@@ -5,8 +5,9 @@ aliases:
 date_saved: 2026-09-23
 source: synthesis
 type: council-decision-reference
-date_updated: 2026-09-30
-source_reviewed: 2026-09-30
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 jurisdiction: [City of Frederick, Frederick County, Maryland]
 status: active
 confidence: medium
@@ -103,6 +104,12 @@ The stronger claims in those notes—that demonstrations must precede reform, th
 
 Better Block's retained bulletins describe places where temporary projects were followed by permanent facilities, businesses or grants. These are implementer-reported examples without a common comparison group or full account of unsuccessful projects. Follow-on investment does not by itself establish the pilot's causal effect or financial return. Use the examples to design a trial, not to promise a funding multiplier.
 
+The closest Maryland example cuts both ways. Better Block reports that pop-up plazas and storefronts in Suitland, Largo and Riverdale moved Prince George's County from shelved town-center plans to permanent commitments, including a civic plaza in Largo ([[Government as Partners in Tactical Urbanism]]). The Largo plaza, a roughly $10 million project in front of the county administration building, was completed and then fenced off and closed to the public after a new county administration objected to its playground and dog park and raised safety concerns; the county has said it will modify and reopen it ([WJLA](https://wjla.com/news/local/story/largo-maryland-government-building-civic-plaza-dog-park-play-ground-art-project-10-million-wayne-k-curry-angela-alsobrook-prince-george-county-executive)). A demonstration can build commitment to a capital project, but the permanent version still needs a design, operating owner and political support that survive a change in leadership.
+
+The same bulletin cites Dallas, where a temporary food park that drew more than 5,500 visitors helped persuade the City Council to change a food-truck rule. That is the more transferable lesson for Frederick: a pilot can test a code barrier as well as a physical design ([[Government as Partners in Tactical Urbanism]]).
+
+For measurement, Better Block's study of a 56-day pedestrian installation on Downtown Dallas' Main Street is a usable template. It collected 406 survey responses and observed 586 pedestrian crossings; 95% of respondents supported a more pedestrian-friendly street, 74% reported discovering a business they had not visited, and observers logged 137 curb uses for deliveries, ride-share and pickups. These are implementer-collected results from a self-selected sample during a major event, so they show what a Frederick pilot should measure (support, perceived walkability, business discovery and actual curb activity) rather than what it would find ([[Dallas Activate Main Street Pedestrian Data Study]]).
+
 The unnamed Japanese study in [[Tactical Urbanism Produces Measurable Economic Benefits]] cannot support a transferable economic estimate until its citation, method, outcome and context are identified. More pedestrians, longer visits, higher sales and net local economic gains are different outcomes. A festival may redistribute spending or attract visitors who do not return on ordinary days.
 
 ## What the design evidence supports
@@ -160,6 +167,7 @@ Recruit beyond existing meeting attendees and disclose who was reached and misse
 | Access and belonging | Route barriers, ability to use seating/facilities, user feedback and participation reach | Satisfaction among attendees omits nonusers |
 | Safety and comfort | Speeds/conflicts where relevant, visibility, shade, perceived safety | Short trials rarely establish changes in rare crashes or crime |
 | Business opportunity | Participating local firms, openings/retention, consenting merchants' comparable sales data | Weather, seasonality, other investment and displaced spending affect results |
+| Curb use | Observed deliveries, ride-share, pickups and parking turnover by time of day | Event periods inflate activity; compare ordinary days |
 | Delivery and stewardship | Full public cost, maintenance hours, defects, complaints resolved and removal/conversion cost | Volunteer work and in-kind City services are not costless |
 | Equitable benefit | Investment and usable access by neighborhood; participation costs and retention | Spending totals alone do not establish fairness |
 
@@ -207,6 +215,8 @@ Primary sources are linked beside the claims they support. Original research not
 - [[Why the New School for City Builders -- Seth Zeren on Urbanism Education]]
 - [[New Urbanism Conference Venue Criteria -- Two Tests for Ideal Host Cities]]
 - [[The City of Curfews -- SF Convenience Store Policy as Visibility Management]]
+- [[Government as Partners in Tactical Urbanism]]
+- [[Dallas Activate Main Street Pedestrian Data Study]]
 
 **Cited in place (8)**
 - [[The Imagination Problem in Housing Reform -- Why Code Change Is Step 3 Not Step 1]]

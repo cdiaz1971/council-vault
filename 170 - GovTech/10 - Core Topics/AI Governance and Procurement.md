@@ -3,11 +3,12 @@ title: AI Governance and Procurement
 type: council-decision-reference
 area: GovTech
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-02
-source_reviewed: 2026-10-02
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
 status: active
 confidence: medium
 tags: [council, govtech, ai, procurement, vendor-contracts, language-access, transparency]
+last_synthesized: 2026-10-12
 ---
 
 # AI Governance and Procurement
@@ -68,6 +69,11 @@ Drawn from [[Municipal Tech Consent Architecture -- Contract Language, Audit Sta
 | Notice | Plain-language public notice before deployment; annual use report |
 | Change | Council notice before new uses, integrations, or data sharing |
 | Breach | Unauthorized access or use is a material breach allowing termination |
+| Cost | Usage caps, monthly usage reporting, and a forecast method for token or consumption pricing before approval |
+
+**Paying for AI.** Usage-based AI pricing (per token or per transaction) scales with use and is hard to forecast in an annual budget, unlike seat licenses. State IT leaders describe this as an unsolved budgeting problem ([[AI Tokenomics and Challenge Procurement in State Government]]). A contract without a cap or usage reporting moves the cost risk to the City.
+
+**Speed versus deliberation.** Connecticut used a challenge-based procurement to buy a Medicaid work-requirements tool in about 10 weeks instead of its usual 18-month cycle: about 30 vendors already on state contract gave demonstrations against a draft statement of work, with shared criteria and answers. The state's CIO said it fit a clear objective with a hard deadline and may not suit uncertain goals, and legal staff viewed the compressed review as riskier ([GovTech](https://www.govtech.com/biz/one-states-challenge-based-procurement-delivered-in-weeks-not-months)). For the City, the format is worth knowing for well-defined service tools, but its speed works against the public notice and Council review this page recommends for any tool that affects residents' rights.
 
 ## Authority map
 

@@ -3,9 +3,9 @@ title: Maryland Legislature and State Landscape
 type: council-decision-reference
 area: Maryland Politics
 jurisdiction: [Maryland, Frederick County, City of Frederick]
-date_updated: 2026-10-04
-source_reviewed: 2026-10-04
-last_synthesized: 2026-10-04
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 status: active
 confidence: medium-high
 tags: [council, maryland, general-assembly, state-politics, elections, frederick-delegation]
@@ -42,6 +42,8 @@ This page supports the City's work with Annapolis: who holds power, what the 202
 ## Fiscal pressure
 
 Maryland faces a projected $3 billion structural gap, Blueprint education costs that exceed dedicated revenue from FY2028, and pressure to shift costs to local governments ([[City Budget and Fiscal Condition]]). The Governor plans to seek repeal of the data center sales tax exemption in 2027.
+
+The Strategic Energy Investment Fund has become a budget-balancing source. Alternative compliance payments, which electricity suppliers make when they cannot buy enough renewable energy credits and pass through to ratepayers, rose from $77 million in FY2022 to $365 million in FY2025, more than half of SEIF revenue. For FY2027 the Governor proposed moving about $292 million from SEIF to close the budget gap and $100 million to a one-time residential bill credit ([Maryland Matters](https://marylandmatters.org/2026/02/01/climate-groups-caught-by-surprise-last-year-fight-to-protect-maryland-energy-fund-in-2026/)); the amount enacted: verify. Republican critics now frame rising electricity prices as a state leadership failure and cite more than $500 million diverted from SEIF over two years ([[Maryland SEIF Diversion and Renewable Compliance Payments Drive Electricity Costs]], opinion). Expect that message in the 2026 and 2027 cycles. The budget-integrity point, that money collected from ratepayers for relief and clean generation should go there, is one the City can make on its own terms because energy costs fall hardest on ALICE households.
 
 ## What the City needs from the State
 

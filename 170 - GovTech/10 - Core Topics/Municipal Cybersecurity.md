@@ -3,9 +3,9 @@ title: Municipal Cybersecurity
 type: council-decision-reference
 area: GovTech
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-12
+source_reviewed: 2026-10-12
+last_synthesized: 2026-10-12
 status: active
 confidence: medium
 tags: [council, govtech, cybersecurity, critical-infrastructure, grants, incident-response]
@@ -19,7 +19,7 @@ This page supports Council oversight of the City's cybersecurity: legal duties, 
 
 ## Maryland requirements for local governments
 
-Under Maryland's 2022 law (SB 754, Chapter 241), local governments must report cybersecurity incidents to the local emergency manager and the State Security Operations Center, and certify compliance with the State's minimum cybersecurity standards, first by June 30, 2023 and annually from June 30, 2024 for Network Maryland connections. Counties, school systems, and health departments must keep preparedness plans and assessments, and water and wastewater systems with 10,000 or more users that receive State aid had to assess their vulnerability by December 1, 2023 ([Maryland DoIT](https://doit.maryland.gov/cybersecurity/Pages/LGR-Legal-Requirements.aspx)). Whether the City has filed each certification: verify.
+Under Maryland's 2022 law (SB 754, Chapter 241), local governments must report cybersecurity incidents to the local emergency manager and the State Security Operations Center, and certify compliance with the State's minimum cybersecurity standards, first by June 30, 2023 and annually from June 30, 2024 for Network Maryland connections. Counties, school systems, and health departments must keep preparedness plans and assessments, and water and wastewater systems with 10,000 or more users that receive State aid had to assess their vulnerability by December 1, 2023 ([Maryland DoIT](https://doit.maryland.gov/cybersecurity/Pages/LGR-Legal-Requirements.aspx)). 2025 legislation extended the water and wastewater assessment and planning requirement to systems serving more than 3,300 customers, and more than 85% of Maryland residents are served by systems that have completed assessments ([Pew](https://www.pew.org/en/research-and-analysis/articles/2026/09/22/cyber-threats-put-water-systems-at-risk); [[Cybersecurity Risk and Cost Pressure on Water Utilities]]). The City's utility is above both thresholds; whether its assessment and plan are current and budgeted: verify. Whether the City has filed each certification: verify.
 
 Maryland's Cybersecurity and Privacy Policy Suite is designed so local governments can adopt it voluntarily ([[State Cybersecurity Policy as a Local Government Model]]). Maryland was among the states passing the most cyber bills in 2025.
 
@@ -28,7 +28,7 @@ Maryland's Cybersecurity and Privacy Policy Suite is designed so local governmen
 - **AI-accelerated attacks.** Advanced AI can find and chain vulnerabilities faster than patch cycles; in one documented test, models escaped a sealed environment and reached production servers.
 - **Single-vendor failure.** An attack on one regional telecom provider cut internet service to 23 Maine municipalities at once ([[Cyberattack on Telecom Vendor Shuts Down 23 Municipal Governments]]).
 - **Credential leaks.** A CISA contractor exposed government cloud keys in a public code repository for six months.
-- **Utilities.** Water and wastewater systems are frequent targets; New York funds cyber upgrades for them.
+- **Utilities.** Water and wastewater systems are frequent targets. The FBI received reports of incidents affecting water systems in at least seven states within a few days in July 2026, and a coordinated attack disrupted utilities in more than 30 Minnesota communities. Most incidents have not contaminated water, but the fiscal exposure is real: Baltimore's 2019 ransomware attack halted water billing for months, and credit analysts have begun weighing cyber resilience in utility credit ([[Cybersecurity Risk and Cost Pressure on Water Utilities]]). New York pairs aligned health and environmental rules with a state grant program for local water systems and estimates compliance at up to $150,000 a year for systems serving 3,300 to 50,000 people; that is a New York figure, not a Maryland estimate ([Pew](https://www.pew.org/en/research-and-analysis/articles/2026/09/22/cyber-threats-put-water-systems-at-risk)). The Maryland Association of Counties called the 2025 expansion an untenable fiscal burden as introduced.
 - **AI agents and open-weight models.** AI agents should not be treated as ordinary service accounts, and open-weight AI models need separate evaluation from open-source software ([[Open Source Software Security Principles for Government Agencies]]).
 - **Large events.** World Cup security planned for simultaneous physical, cyber, and information attacks, relevant to large City events such as the planned Gateway stadium.
 
