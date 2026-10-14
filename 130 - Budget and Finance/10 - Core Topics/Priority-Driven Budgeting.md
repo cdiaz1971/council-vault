@@ -24,7 +24,7 @@ lead: Díaz
 queue: Active
 stage: In Progress
 next_action: ""
-blocker: Nash controls pace.
+blocker:
 review_on: ""
 migration_review: false
 notion_source: https://app.notion.com/374109f3c1558129842ffd22afc67fa9

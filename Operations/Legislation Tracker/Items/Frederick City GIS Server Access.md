@@ -1,24 +1,28 @@
 ---
-title: "Frederick City GIS Server Access"
-date_saved: "2026-10-13"
+title: Frederick City GIS Server Access
+date_saved: 2026-10-13
 source: "[[Council Active Threads#Frederick City GIS Server Access]]"
-tags: ["council","tracker"]
-summary: "Confirm whether the remaining GIS workflow decision is still open; choose reference-note or reusable-skill approach if needed."
+tags:
+  - council
+  - tracker
+summary: Confirm whether the remaining GIS workflow decision is still open; choose reference-note or reusable-skill approach if needed.
 council_tracker: true
-tracker_title: "Frederick City GIS Server Access"
-track: "Constituent & Admin"
+tracker_title: Frederick City GIS Server Access
+track: Constituent & Admin
 topics: []
-lead: "Díaz"
-queue: "Active"
-stage: "In Progress"
-next_action: "Confirm whether the remaining GIS workflow decision is still open; choose reference-note or reusable-skill approach if needed."
+lead: Díaz
+queue: Closed
+stage:
+next_action: Confirm whether the remaining GIS workflow decision is still open; choose reference-note or reusable-skill approach if needed.
 blocker: ""
 review_on: ""
 migration_review: false
-coverage_added_on: "2026-10-13"
-stage_source_date: "2026-09-27"
-legal_review: "Unknown"
-tracker_sources: ["[[Council Active Threads#Frederick City GIS Server Access]]","[[Frederick City GIS Server -- Query Reference]]"]
+coverage_added_on: 2026-10-13
+stage_source_date: 2026-09-27
+legal_review: Unknown
+tracker_sources:
+  - "[[Council Active Threads#Frederick City GIS Server Access]]"
+  - "[[Frederick City GIS Server -- Query Reference]]"
 ---
 
 # Frederick City GIS Server Access
