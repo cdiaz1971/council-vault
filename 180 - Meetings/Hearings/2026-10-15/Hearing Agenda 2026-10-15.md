@@ -71,6 +71,7 @@ VII.A.1 Executive Summary, VII.A.2 GOCPP BJAG award packet, VII.A.3 Special Ordi
 ## Related Notes
 
 [[Hearing Brief 2026-10-15]]
+[[Hearing Brief - ForceMetrics Questions 2026-10-15]]
 
 ## Meeting Navigation
 
