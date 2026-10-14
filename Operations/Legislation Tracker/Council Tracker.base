@@ -1,5 +1,6 @@
 filters:
   and:
+    - stage != "Passed"
     - file.ext == "md"
     - council_tracker == true
     - '!file.inFolder("Templates")'
@@ -149,7 +150,9 @@ views:
       formula.initiative: 430
   - type: table
     name: Implementation and monitoring
-    filters: queue == "Monitoring" || (stage == "Passed" && next_action)
+    filters:
+      and:
+        - 'queue == "Monitoring" '
     order:
       - formula.initiative
       - stage
