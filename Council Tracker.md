@@ -28,8 +28,8 @@ The primary working tracker for the 49 initiatives migrated from Notion on Octob
 - **Blocker** is empty when none is known. Put context and dependencies in the body.
 - **Legal review** is Unknown, Pending, Cleared, or Not applicable. Unchecked Notion flags imported as Unknown; legal review is advisory, not a pipeline gate.
 - **Target period** preserves quarter-only planning (FY2027 Q1 means Jul–Sep 2026). Exact target dates supply a computed fiscal quarter when a planning period is absent. A target date is not automatically a passage date.
-- Use **Tracker title** for the displayed name. Existing `status` properties describe other note roles and were retained; **stage** is the tracker property.
-- After resolving an item, clear **Migration review**, and record the evidence/date in its note. Import dates and source edit dates do not prove a current stage.
+- Click **Initiative** to open its canonical note. Use **Tracker title** in the note properties to change the displayed name. Existing `status` properties describe other note roles and were retained; **stage** is the tracker property.
+- **Needs review** is a migration flag: checked means conflicting or missing information needs review, not that the initiative is complete. Open the initiative and read **Items to reconcile**. After resolving that question, uncheck **Needs review** and record the evidence/date in its note. Import dates and source edit dates do not prove a current stage.
 - For a new initiative, use [[Templates/Council Initiative]] and set `council_tracker: true`. Link drafts and sources; do not track every draft as a separate initiative.
 
 ## Scope and continuity
