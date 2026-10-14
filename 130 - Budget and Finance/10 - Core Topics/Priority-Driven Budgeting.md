@@ -2,29 +2,37 @@
 title: Priority-Driven Budgeting
 type: council-decision-reference
 area: Budget and Finance
-jurisdiction: [City of Frederick]
+jurisdiction:
+  - City of Frederick
 date_updated: 2026-10-02
 source_reviewed: 2026-10-02
 status: active
 confidence: medium-high
-tags: [council, budget, budget-process, priority-driven-budgeting, equity, performance]
+tags:
+  - council
+  - budget
+  - budget-process
+  - priority-driven-budgeting
+  - equity
+  - performance
 council_tracker: true
-tracker_title: "Priority-Driven Budgeting"
-track: "Study & Monitoring"
-topics: ["Budget and Finance"]
-lead: "Nash"
-queue: "Active"
-stage: "In Progress"
+tracker_title: Priority-Driven Budgeting
+track: Study & Monitoring
+topics:
+  - Budget and Finance
+lead: Díaz
+queue: Active
+stage: In Progress
 next_action: ""
-blocker: "Nash controls pace."
+blocker: Nash controls pace.
 review_on: ""
 migration_review: false
-notion_source: "https://app.notion.com/374109f3c1558129842ffd22afc67fa9"
-imported_on: "2026-10-13"
-stage_source_date: "2026-08-24"
-legal_review: "Unknown"
-target_period: "FY2027 Q2"
-vehicle: "Policy / Resolution"
+notion_source: https://app.notion.com/374109f3c1558129842ffd22afc67fa9
+imported_on: 2026-10-13
+stage_source_date: 2026-08-24
+legal_review: Unknown
+target_period: FY2027 Q2
+vehicle: Policy / Resolution
 ---
 
 # Priority-Driven Budgeting

@@ -1,28 +1,33 @@
 ---
-title: "LMC Amendment -- Convenience Stores with Gas Sales (PC25-248ZTA, Wormald)"
-date_saved: "2026-10-13"
-source: "https://app.notion.com/3c6109f3c155817996d8cc25c5da8840"
-tags: ["council","tracker"]
-summary: "Filed by The Wormald Companies, LLC after their Monocacy Center site plan was constrained by pump-count rules. Planning Commission voted 5-0 (4/13/26) to recommend approval; staff supports. Reclassifi"
+title: LMC Amendment -- Convenience Stores with Gas Sales (PC25-248ZTA, Wormald)
+date_saved: 2026-10-13
+source: https://app.notion.com/3c6109f3c155817996d8cc25c5da8840
+tags:
+  - council
+  - tracker
+summary: Filed by The Wormald Companies, LLC after their Monocacy Center site plan was constrained by pump-count rules. Planning Commission voted 5-0 (4/13/26) to recommend approval; staff supports. Reclassifi
 council_tracker: true
-tracker_title: "LMC Amendment -- Convenience Stores with Gas Sales (PC25-248ZTA, Wormald)"
-track: "Legislation"
-topics: ["Land Management Code"]
-lead: "Planning Department"
-queue: "Active"
-stage: "Workshop"
-next_action: "Introduction expected at a Regular Meeting following the Aug. 27, 2026 work session discussion; then Second Read."
+tracker_title: LMC Amendment -- Convenience Stores with Gas Sales (PC25-248ZTA, Wormald)
+track: Legislation
+topics:
+  - Land Management Code
+lead: Planning Department
+queue: Closed
+stage: Passed
+next_action: Introduction expected at a Regular Meeting following the Aug. 27, 2026 work session discussion; then Second Read.
 blocker: ""
 review_on: ""
 migration_review: true
-notion_source: "https://app.notion.com/3c6109f3c155817996d8cc25c5da8840"
-imported_on: "2026-10-13"
-stage_source_date: "2026-08-24"
-legal_review: "Unknown"
-priority: "Normal"
-target_period: "FY2027 Q1"
-legislation_ids: ["PC25-248ZTA"]
-tracker_sources: ["[[145 - Land Use and Zoning/30 - Development Cases/LMC Text Amendment -- Convenience Stores with Gas Sales (Wormald)]]"]
+notion_source: https://app.notion.com/3c6109f3c155817996d8cc25c5da8840
+imported_on: 2026-10-13
+stage_source_date: 2026-08-24
+legal_review: Unknown
+priority: Normal
+target_period: FY2027 Q1
+legislation_ids:
+  - PC25-248ZTA
+tracker_sources:
+  - "[[145 - Land Use and Zoning/30 - Development Cases/LMC Text Amendment -- Convenience Stores with Gas Sales (Wormald)]]"
 ---
 
 # LMC Amendment -- Convenience Stores with Gas Sales (PC25-248ZTA, Wormald)
