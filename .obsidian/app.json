@@ -35,5 +35,6 @@
   "useTab": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
-  "mobilePullAction": "daily-notes"
+  "mobilePullAction": "daily-notes",
+  "readableLineLength": false
 }

@@ -64,11 +64,11 @@
           "direction": "ASC"
         }
       ],
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     },
     {
@@ -100,11 +100,11 @@
         "property": "note.stage",
         "direction": "ASC"
       },
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     },
     {
@@ -131,11 +131,11 @@
           "direction": "ASC"
         }
       ],
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     },
     {
@@ -167,11 +167,11 @@
           "direction": "ASC"
         }
       ],
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     },
     {
@@ -201,11 +201,11 @@
         "property": "note.queue",
         "direction": "ASC"
       },
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     },
     {
@@ -230,11 +230,11 @@
           "direction": "ASC"
         }
       ],
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     },
     {
@@ -256,11 +256,11 @@
           "direction": "ASC"
         }
       ],
-      "rowHeight": "extra",
+      "rowHeight": "medium",
       "columnSize": {
-        "note.tracker_title": 320,
-        "note.next_action": 440,
-        "note.lead": 155
+        "note.tracker_title": 430,
+        "note.next_action": 700,
+        "note.lead": 180
       }
     }
   ]

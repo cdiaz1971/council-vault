@@ -1,6 +1,10 @@
-/* Council Tracker dashboard only: use the full pane and wrap table text. */
-.council-tracker-wide { --file-line-width: 100%; }
-.markdown-preview-view.council-tracker-wide .markdown-preview-sizer,
-.markdown-source-view.council-tracker-wide .cm-sizer { max-width: none !important; width: 100%; }
+/* Full-width Council Tracker, in reading view and Live Preview. */
+.council-tracker-wide { --file-line-width: 100vw; }
+.council-tracker-wide .markdown-preview-sizer,
+.council-tracker-wide .markdown-preview-section,
+.council-tracker-wide .cm-sizer,
+.council-tracker-wide .cm-contentContainer { max-width: none !important; width: 100% !important; margin-left: 0 !important; margin-right: 0 !important; }
+.council-tracker-wide .bases-embed,
+.council-tracker-wide .bases-view { width: 100% !important; max-width: none !important; }
 .council-tracker-wide .bases-table-cell,
 .council-tracker-wide .bases-table-cell .internal-link { white-space: normal !important; overflow-wrap: anywhere; text-overflow: clip !important; }
