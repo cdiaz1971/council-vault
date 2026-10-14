@@ -1,5 +1,6 @@
 filters:
   and:
+    - 'defer_until.isEmpty() || date(defer_until) <= today()'
     - stage != "Passed"
     - file.ext == "md"
     - council_tracker == true

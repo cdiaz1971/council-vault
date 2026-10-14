@@ -38,6 +38,8 @@ The primary working tracker for the 49 initiatives migrated from Notion on Octob
 
 ## Scope and continuity
 
-This migration covers the Notion roadmap, not every Council workstream. [[Council Active Threads]] and [[Council Watch List]] retain wider work, narrative context, and initiatives absent from Notion (including Ranked Choice Voting / Charter Reform, LMC Review Commission, and Data Center ZTA). Keep those notes; adding such initiatives to this tracker requires a deliberate record and evidence rather than automatic inference.
+Coverage checked October 13, 2026 against [[Council Active Threads]] and [[Council Watch List]]. Fifteen missing workstreams were added with links to their saved source descriptions. Existing initiatives were matched without duplicate records. Those two notes retain narrative context and completed history; tracker properties hold working status. See [[Council Tracker Coverage Check 2026-10-13]].
+
+Deferred November reviews for Data Center ZTA, Community Bridge, and collective bargaining use **Defer until** to keep them out of default views until November 1. That is the earliest resurfacing boundary, not a meeting date. The default exclusion of Passed items remains in place.
 
 For all records, quarter views, and backlog, open [[Operations/Legislation Tracker/Council Tracker.base|Council Tracker views]]. See [[Council Tracker Migration 2026-10-13]] for the mapping and reconciliation list, and [[Council Tracker - Notion Capture 2026-10-13]] for original properties.
