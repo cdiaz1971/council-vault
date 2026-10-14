@@ -1,0 +1,6 @@
+/* Council Tracker dashboard only: use the full pane and wrap table text. */
+.council-tracker-wide { --file-line-width: 100%; }
+.markdown-preview-view.council-tracker-wide .markdown-preview-sizer,
+.markdown-source-view.council-tracker-wide .cm-sizer { max-width: none !important; width: 100%; }
+.council-tracker-wide .bases-table-cell,
+.council-tracker-wide .bases-table-cell .internal-link { white-space: normal !important; overflow-wrap: anywhere; text-overflow: clip !important; }

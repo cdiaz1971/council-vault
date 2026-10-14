@@ -63,7 +63,13 @@
           "property": "note.review_on",
           "direction": "ASC"
         }
-      ]
+      ],
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
+      }
     },
     {
       "type": "table",
@@ -72,15 +78,13 @@
         "and": [
           "track == \"Legislation\"",
           "formula.is_open == true",
-          "queue != \"Backlog\""
+          "queue == \"Active\""
         ]
       },
       "order": [
         "note.tracker_title",
-        "note.queue",
-        "note.lead",
         "note.next_action",
-        "note.blocker"
+        "note.lead"
       ],
       "sort": [
         {
@@ -95,6 +99,12 @@
       "groupBy": {
         "property": "note.stage",
         "direction": "ASC"
+      },
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
       }
     },
     {
@@ -120,7 +130,13 @@
           "property": "note.review_on",
           "direction": "ASC"
         }
-      ]
+      ],
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
+      }
     },
     {
       "type": "table",
@@ -150,7 +166,13 @@
           "property": "note.review_on",
           "direction": "ASC"
         }
-      ]
+      ],
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
+      }
     },
     {
       "type": "table",
@@ -178,6 +200,12 @@
       "groupBy": {
         "property": "note.queue",
         "direction": "ASC"
+      },
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
       }
     },
     {
@@ -201,7 +229,13 @@
           "property": "note.review_on",
           "direction": "ASC"
         }
-      ]
+      ],
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
+      }
     },
     {
       "type": "table",
@@ -221,7 +255,13 @@
           "property": "note.tracker_title",
           "direction": "ASC"
         }
-      ]
+      ],
+      "rowHeight": "extra",
+      "columnSize": {
+        "note.tracker_title": 320,
+        "note.next_action": 440,
+        "note.lead": 155
+      }
     }
   ]
 }

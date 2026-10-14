@@ -2,5 +2,8 @@
   "baseFontSize": 16,
   "accentColor": "",
   "cssTheme": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "council-tracker-layout"
+  ]
 }

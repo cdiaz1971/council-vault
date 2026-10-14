@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - council-tracker-wide
+---
+
 # Council Tracker
 
 The primary working tracker for the 49 initiatives migrated from Notion on October 13, 2026. Each row opens its canonical note; edit properties there or in the table. Notion is retained as a reference archive.
