@@ -34,3 +34,6 @@ Discussed at the August 13, 2026 work session (workshop item, no vote). Updates 
 
 ### Items to reconcile
 - No queue was recorded; assigned Unassigned for review, without inferring active ownership.
+
+### Evidence log
+- 2026-10-14: Official minutes confirm G-26-13 was introduced October 1, 2026; the October 15 packet schedules second read and approval, with companion fee ordinance G-26-14. Revised version mitigates specimen trees at twice mature canopy area, drops street trees from bonding, and sets penalty fees at $3.64 per square foot. The revised executive summary does not address the topsoil standard or grandfathering. Stage unchanged pending the October 15 vote. See [[Hearing Brief 2026-10-15]].

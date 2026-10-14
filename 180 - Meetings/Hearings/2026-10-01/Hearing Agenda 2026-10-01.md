@@ -67,6 +67,7 @@ Three minutes per speaker. No scheduled speakers on the published agenda.
 ## Related Notes
 
 [[Hearing Brief 2026-10-01]]
+[[Hearing Minutes 2026-10-01]]
 
 ## Meeting Navigation
 

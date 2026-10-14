@@ -40,3 +40,6 @@ PASSED 6-0 at Oct 1, 2026 Regular Public Meeting as Resolution 26-15. Fully revi
 
 ### Supporting notes
 - [[180 - Meetings/Workshop/2026-09-10/Workshop Brief - Affordable Housing Action Resolution 2026-09-10]]
+
+### Evidence log
+- 2026-10-14: Official minutes of the October 1, 2026 meeting (in the October 15 packet) confirm Resolution 26-15 passed 6-0 on a Brehm/Nash motion, no public comments. Stage unchanged. See [[Hearing Minutes 2026-10-01]].
