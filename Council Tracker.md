@@ -9,6 +9,10 @@ The primary working tracker for the 49 initiatives migrated from Notion on Octob
 
 ![[Operations/Legislation Tracker/Council Tracker.base#My next actions]]
 
+## Díaz — All items
+
+![[Operations/Legislation Tracker/Council Tracker.base#Díaz — All items]]
+
 ## Review first
 
 ![[Operations/Legislation Tracker/Council Tracker.base#Needs attention]]

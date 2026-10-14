@@ -189,3 +189,21 @@ views:
       note.next_action: 700
       note.lead: 180
       formula.initiative: 430
+  - type: table
+    name: Díaz — All items
+    filters: lead == "Díaz" || lead == "Diaz"
+    order:
+      - formula.initiative
+      - next_action
+      - stage
+      - queue
+      - track
+      - blocker
+      - review_on
+    sort:
+      - property: tracker_title
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      formula.initiative: 430
+      note.next_action: 700
