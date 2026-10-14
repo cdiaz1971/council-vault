@@ -2,6 +2,8 @@
 
 Last updated: 2026-09-27 (weekly review maintenance pass: Brehm site plan amendment updated after the September 24 work session; Priority-Driven Budgeting updated with the SPARK deadline; UMD lecture status corrected to Tuesday September 29; Housing Production Target Resolution noted against the state 5,194-unit target, 4,000-unit goal unchanged; Data Center ZTA revisit moved to November in [[Council Watch List]]); prior update 2026-09-20 (weekly review maintenance pass: G-26-11 Maryland Housing Certainty Act implementation ordinance added to Completed, passed 5-0 September 17; LMC Review Commission updated to flag the vesting-clock interaction now that G-26-11 is law; RISE / IRC Coalition Conflict updated with a personal-reconciliation note re Hazel); prior update 2026-09-07 (weekly review maintenance pass: G-26-8 Fee Schedule and G-26-10 Mixed Use Vertical moved to Completed, both confirmed passed 6-0 on August 20 against official minutes; Data Center ZTA PC25-626ZTA removed from here and consolidated into [[Council Watch List]] only, to stop the two notes drifting apart); prior update 2026-08-29 (Frederick Arts Council Partnership -- Westside Regional Park art piece and Utility Box Art Program -- added as a new active thread, tracked via the Notion Legislative Roadmap, per the Sept 3 Culture and Community Committee agenda; prior update 2026-08-20: Automated Enforcement Ordinance G-26-4 moved to Completed -- passed 5-0 with Nash abstaining due to an outside employment conflict; prior update 2026-08-16: RISE / IRC Coalition Conflict updated with the Ariel rumor and RISE's first solo event since the split; prior update 2026-08-14: Automated Enforcement Ordinance G-26-4 added as active thread; Fee Schedule G-26-8 and Mixed Use Vertical G-26-10 updated to confirmed second read/vote August 20; agenda note and hearing brief prepared for August 20 Regular Public Meeting)
 
+Legislation tracking moved to [[Council Tracker]] on October 13, 2026. This note retains broader workstreams and narrative context; tracker properties take precedence for migrated initiatives.
+
 This note tracks everything César is actively trying to move forward. Read it at the start of any session to orient before diving into work. Update it when thread status changes. Weekly review includes a maintenance pass. See [[Council Watch List]] for items being monitored but not actively driven.
 
 ---
@@ -9,7 +11,7 @@ This note tracks everything César is actively trying to move forward. Read it a
 ## Council
 
 ### Frederick Arts Council Partnership (Westside Regional Park Art Piece + Utility Box Art Program)
-**Status:** See [[Legislative Roadmap FY2027|Notion Legislative Roadmap]] -- tracked there as "Ready to Introduce," not restated here.
+**Status:** See [[Council Tracker]] — canonical initiative properties hold the working stage and next action.
 New thread, added 2026-08-29. Surfaced via the Sept 3, 2026 Culture and Community Committee agenda (Item II, review of the Aug 6 minutes): the Committee agreed to advance a Frederick Arts Council partnership -- a $182K Westside Regional Park art piece plus a $68K Utility Box Art Program -- to full Council for a vote. Not yet on a published hearing agenda; the exact legislative vehicle and vote count are unconfirmed pending the formal Aug 6 minutes. Full context in [[Culture and Community Committee Brief 2026-09-03]].
 
 ### Real Rent Ordinance

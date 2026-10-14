@@ -54,7 +54,7 @@ United Way 2026 report (2024 data). City ALICE rate: 43% vs. 32% county (the 45%
 
 ## Active Legislation and Projects
 
-Status for all active legislation lives in the Notion Legislative Roadmap (`collection://7378a456-724f-4d13-a65b-83ba14aae2f8`), the source of truth per the Active Threads convention. Query Notion directly for current status, track, and legal review flag on any bill.
+[[Council Tracker]] and its canonical initiative-note properties are the primary working source for legislative status. Use `stage`, `queue`, `track`, `next_action`, and `legal_review`; retain source evidence and its date. Notion is a migration reference archive. Update a stage only for an unambiguous outcome (an explicit vote or stated committee action); otherwise flag `migration_review` and explain the uncertainty. Legal review is advisory, not a pipeline gate.
 
 ## Key City Staff Contacts
 

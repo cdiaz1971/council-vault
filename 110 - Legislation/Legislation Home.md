@@ -19,7 +19,7 @@ This is the entry point for bill work in `110 - Legislation`. Each existing bill
 - [[Progressive Policy Ideas Master Note]] - ideas not yet developed into proposals
 - [[Concept Pages]] - durable subject references across Council topic folders
 
-Current legislative status lives in the live Notion Legislative Roadmap, as described in this folder's `_Instructions.md`. The local files are a working and historical record; their dates and status fields do not replace that system. Legal review is advisory rather than a pipeline stage.
+Current legislative status lives in [[Council Tracker]] and canonical initiative-note properties, as described in this folder's `_Instructions.md`. Draft and source-note status fields do not replace the tracker. Legal review is advisory rather than a pipeline stage.
 
 ## Bill and proposal folders
 
@@ -54,7 +54,7 @@ Idea links in the master note may name notes proposed for future development. Th
 - [[Legislative Priorities]] - retained November 2025 priorities note
 - [[Legislative Roadmap FY2027]] - dated local roadmap capture
 
-Both records remain in `_Sources`. Use them as historical evidence, not a present status report. The live Notion Legislative Roadmap is the status source of truth.
+Both records remain in `_Sources`. Use them as historical evidence, not a present status report. Use [[Council Tracker]] for working status; Notion is retained as a reference archive.
 
 ## Related areas
 

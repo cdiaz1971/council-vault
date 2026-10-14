@@ -16,7 +16,7 @@ Full stage-by-stage detail, the Charter rules (veto, override, passage), and the
 
 ## Folder Structure
 
-This folder is the working folder for César's own legislation. Each drafted ordinance or resolution has its own subfolder holding the draft versions and its working notes: memos, legal review prep, talking points, and research done for that bill, including peer-jurisdiction models. Proposals that are not yet drafted as legislation stay in their topic folder (for example `100 - Housing/20 - Policy Projects`) and move here when drafting starts. Background research on a subject goes to its topic folder, not here. [[Progressive Policy Ideas Master Note]] is the index of ideas not yet developed into proposals. `_Sources` holds dated tracking notes kept as history; current status lives in Notion.
+This folder is the working folder for César's own legislation. Each drafted ordinance or resolution has its own subfolder holding the draft versions and its working notes: memos, legal review prep, talking points, and research done for that bill, including peer-jurisdiction models. Proposals that are not yet drafted as legislation stay in their topic folder (for example `100 - Housing/20 - Policy Projects`) and move here when drafting starts. Background research on a subject goes to its topic folder, not here. [[Progressive Policy Ideas Master Note]] is the index of ideas not yet developed into proposals. `_Sources` holds dated tracking notes kept as history; current status lives in [[Council Tracker]].
 
 ## Legislative Drafting Conventions
 
@@ -43,6 +43,6 @@ Check the other topic folders in this vault (Housing, Immigration, Budget and Fi
 
 Housing is organized as a wiki. Start at `100 - Housing/Housing Home.md`, then the matching page in `100 - Housing/10 - Core Topics/`, which are sourced Council decision references. César's plans that haven't been introduced yet live in `100 - Housing/Housing -- In-Progress Plans.md`. Treat anything in `100 - Housing/_Sources/` as history, not current fact, especially files named `Concept Snapshot`.
 
-## Legislative Status (Notion)
+## Legislative Status (Council Vault)
 
-**Notion Legislative Roadmap** (`collection://7378a456-724f-4d13-a65b-83ba14aae2f8`) is the source of truth for legislative status, not prose in vault notes. It has a Track property (Legislation / Study & Monitoring / Constituent & Admin) and a Status property scoped to each track, plus a Legal Review Cleared checkbox that is a flag, not a pipeline stage. Check it before stating where a bill stands, and update it directly when drafting or research here surfaces a status change. Only apply a status change when the outcome is unambiguous (an explicit vote result, a stated committee action); if unclear, leave Notion alone and flag the ambiguity instead of guessing.
+[[Council Tracker]] and its canonical initiative-note properties are the primary working source for legislative status. Use `stage`, `queue`, `track`, `next_action`, and `legal_review`; retain source evidence and its date. Notion is a migration reference archive. Update a stage only for an unambiguous outcome (an explicit vote or stated committee action); otherwise flag `migration_review` and explain the uncertainty. Legal review is advisory, not a pipeline gate.
