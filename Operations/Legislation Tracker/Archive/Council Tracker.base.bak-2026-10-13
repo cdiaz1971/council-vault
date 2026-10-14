@@ -1,0 +1,213 @@
+filters:
+  and:
+    - defer_until.isEmpty() || date(defer_until) <= today()
+    - stage != "Passed"
+    - file.ext == "md"
+    - council_tracker == true
+    - '!file.inFolder("Templates")'
+formulas:
+  is_open: stage != "Passed" && stage != "Vetoed / Failed" && stage != "Withdrawn" && stage != "Closed"
+  current_period: '"FY" + (today().year + if(today().month >= 7, 1, 0)) + " Q" + (((today().month + 5) % 12 / 3).floor() + 1)'
+  planned_period: if(target_period, target_period, if(target_date, "FY" + (date(target_date).year + if(date(target_date).month >= 7, 1, 0)) + " Q" + (((date(target_date).month + 5) % 12 / 3).floor() + 1), ""))
+  priority_rank: if(priority == "High", 1, if(priority == "Low", 3, 2))
+  needs_attention: migration_review == true || (review_on && date(review_on) <= today()) || (queue != "Closed" && blocker) || (queue == "Active" && next_action.isEmpty()) || queue == "Unassigned"
+  initiative: link(file.path, if(tracker_title, tracker_title, file.name))
+properties:
+  note.tracker_title:
+    displayName: Initiative
+  note.next_action:
+    displayName: Next action
+  note.review_on:
+    displayName: Review on
+  note.legal_review:
+    displayName: Legal review
+  formula.planned_period:
+    displayName: Target period
+  formula.priority_rank:
+    displayName: Priority order
+  note.migration_review:
+    displayName: Needs review
+  formula.initiative:
+    displayName: Initiative
+views:
+  - type: table
+    name: My next actions
+    filters:
+      and:
+        - lead == "Díaz"
+        - queue == "Active" || queue == "Monitoring"
+        - stage != "Passed"
+    order:
+      - formula.initiative
+      - stage
+      - lead
+      - next_action
+      - blocker
+      - review_on
+    sort:
+      - property: formula.priority_rank
+        direction: ASC
+      - property: review_on
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: Legislative pipeline
+    filters:
+      and:
+        - track == "Legislation"
+        - formula.is_open == true
+        - queue == "Active"
+    groupBy:
+      property: stage
+      direction: ASC
+    order:
+      - formula.initiative
+      - next_action
+      - lead
+    sort:
+      - property: formula.priority_rank
+        direction: ASC
+      - property: review_on
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: Needs attention
+    filters:
+      and:
+        - formula.needs_attention == true
+        - stage != "Withdrawn"
+    order:
+      - formula.initiative
+      - stage
+      - lead
+      - next_action
+      - blocker
+      - review_on
+      - migration_review
+      - stage_source_date
+    sort:
+      - property: formula.priority_rank
+        direction: ASC
+      - property: review_on
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: This fiscal quarter
+    filters:
+      and:
+        - formula.planned_period == formula.current_period
+        - queue != "Closed"
+    order:
+      - formula.initiative
+      - stage
+      - lead
+      - next_action
+      - blocker
+      - review_on
+      - formula.planned_period
+      - target_date
+    sort:
+      - property: formula.priority_rank
+        direction: ASC
+      - property: review_on
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: Queued and backlog
+    filters: queue == "Queued" || queue == "Backlog"
+    groupBy:
+      property: queue
+      direction: ASC
+    order:
+      - formula.initiative
+      - stage
+      - lead
+      - next_action
+      - blocker
+      - review_on
+      - formula.planned_period
+    sort:
+      - property: formula.planned_period
+        direction: ASC
+      - property: formula.priority_rank
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: Implementation and monitoring
+    filters:
+      and:
+        - 'queue == "Monitoring" '
+    order:
+      - formula.initiative
+      - stage
+      - lead
+      - next_action
+      - blocker
+      - review_on
+    sort:
+      - property: formula.priority_rank
+        direction: ASC
+      - property: review_on
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: All initiatives
+    order:
+      - formula.initiative
+      - track
+      - queue
+      - stage
+      - lead
+      - formula.planned_period
+      - next_action
+      - legal_review
+    sort:
+      - property: tracker_title
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      note.next_action: 700
+      note.lead: 180
+      formula.initiative: 430
+  - type: table
+    name: Díaz — All items
+    filters: lead == "Díaz" || lead == "Diaz"
+    order:
+      - formula.initiative
+      - next_action
+      - stage
+      - queue
+      - track
+      - blocker
+      - review_on
+    sort:
+      - property: tracker_title
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      formula.initiative: 430
+      note.next_action: 700

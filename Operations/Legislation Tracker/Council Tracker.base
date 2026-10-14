@@ -1,7 +1,6 @@
 filters:
   and:
-    - 'defer_until.isEmpty() || date(defer_until) <= today()'
-    - stage != "Passed"
+    - defer_until.isEmpty() || date(defer_until) <= today()
     - file.ext == "md"
     - council_tracker == true
     - '!file.inFolder("Templates")'
@@ -80,7 +79,11 @@ views:
       formula.initiative: 430
   - type: table
     name: Needs attention
-    filters: formula.needs_attention == true
+    filters:
+      and:
+        - formula.needs_attention == true
+        - stage != "Withdrawn"
+        - stage != "Passed"
     order:
       - formula.initiative
       - stage
@@ -106,6 +109,7 @@ views:
       and:
         - formula.planned_period == formula.current_period
         - queue != "Closed"
+        - stage != "Passed"
     order:
       - formula.initiative
       - stage
@@ -127,7 +131,10 @@ views:
       formula.initiative: 430
   - type: table
     name: Queued and backlog
-    filters: queue == "Queued" || queue == "Backlog"
+    filters:
+      and:
+        - queue == "Queued" || queue == "Backlog"
+        - stage != "Passed"
     groupBy:
       property: queue
       direction: ASC
@@ -173,6 +180,7 @@ views:
       formula.initiative: 430
   - type: table
     name: All initiatives
+    filters: stage != "Passed"
     order:
       - formula.initiative
       - track
@@ -192,7 +200,10 @@ views:
       formula.initiative: 430
   - type: table
     name: Díaz — All items
-    filters: lead == "Díaz" || lead == "Diaz"
+    filters:
+      and:
+        - lead == "Díaz" || lead == "Diaz"
+        - stage != "Passed"
     order:
       - formula.initiative
       - next_action
