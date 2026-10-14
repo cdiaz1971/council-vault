@@ -29,7 +29,7 @@ SORT file.ctime ASC
 ## Modified Today
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Note", file.folder AS "Folder"
+TABLE WITHOUT ID file.link AS "Note", file.folder AS "Folder", file.ctime as "Created at"
 WHERE file.mday = date(this.file.name)
   AND file.cday != date(this.file.name)
   AND file.path != this.file.path
