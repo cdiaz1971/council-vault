@@ -14,5 +14,6 @@
   "obsidian-spaced-repetition",
   "obsidian-icon-folder",
   "obsidian-html-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-pandoc"
 ]
