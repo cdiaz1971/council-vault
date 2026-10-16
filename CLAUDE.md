@@ -27,9 +27,9 @@ Each function has its own folder and its own `_Instructions.md`. Go to the match
 | People research -- political profiles | `195 - Political People/_Instructions.md` |
 | GIS -- Frederick address, parcel, zoning, district lookups | `165 - GIS/Frederick City GIS Server -- Query Reference.md` |
 
-Topic folders (Housing, Immigration, Budget and Finance, Parks and Infrastructure, Land Use and Zoning, Governance, Maryland Politics, GovTech, Organizations) hold the actual research and are read from, not written to, as instructions. `110 - Legislation` is the working folder for César's drafted bills, one subfolder per bill; see its `_Instructions.md`.
+Topic folders (Housing, Immigration, Budget and Finance, Parks and Infrastructure, Land Use and Zoning, Governance, Maryland Politics, GovTech, Organizations) hold the actual research and are read from, not written to, as instructions. `110 - Legislation` is the working folder for César's bills, one packet folder per bill. When César names a bill by its short name, open that bill's File Index first; the short names and packet layout are in the Bill Packets section of `110 - Legislation/_Instructions.md`.
 
-Housing is organized as a wiki. Start at `100 - Housing/Housing Home.md`, then the matching page in `100 - Housing/10 - Core Topics/`, which are sourced Council decision references. César's plans that haven't been introduced yet live in `100 - Housing/Housing -- In-Progress Plans.md`. Treat anything in `100 - Housing/_Sources/` as history, not current fact, especially files named `Concept Snapshot`.
+Housing is organized as a wiki. Start at `100 - Housing/Housing Home.md`, then the matching page in `100 - Housing/10 - Core Topics/`, which are sourced Council decision references. César's plans that haven't been introduced yet live in `100 - Housing/Housing -- In-Progress Plans.md`. `_Sources` folders hold dated source notes: evidence from statutes, ordinances, studies, reports, and articles. Use them and cite them, checking each note's date. Where a newer source or a core page says otherwise, the newer one controls. Concept Snapshots are the exception: they are frozen copies of earlier page versions, kept as history only.
 
 Immigration follows the same wiki pattern. Start at `120 - Immigration/Immigration Home.md`, then `120 - Immigration/10 - Core Topics/`. Unintroduced plans live in `120 - Immigration/Immigration - In-Progress Plans.md`. Check `Local Authority and Federal Preemption` before drafting any immigration-related measure.
 
@@ -37,7 +37,7 @@ Budget and Finance, Parks and Infrastructure, Governance, Maryland Politics, and
 
 ## Answering Council Questions
 
-For any question about a council topic, answer from the Council vault first. Read `Concept Pages.md` to pick the relevant pages, open them, and answer from what they say, naming the page each point comes from. Treat `_Sources/` notes as background, not current fact. When the pages don't cover something but `_Sources/` notes do, include what those notes say and label it as saved material not yet synthesized into the page. If the pages don't cover the question, say so plainly, then answer from research and label that part as outside César's notes. When an answer produces analysis worth keeping, offer to save it as a source note in the matching topic's `_Sources/` folder so the weekly synthesis folds it into the page.
+For any question about a council topic, answer from the Council vault first. Read `Concept Pages.md` to pick the relevant pages, open them, and answer from what they say, naming the page each point comes from. Treat `_Sources/` notes as dated evidence, as described above. When the pages don't cover something but `_Sources/` notes do, include what those notes say, with their dates, and label it as saved material not yet synthesized into the page. If the pages don't cover the question, say so plainly, then answer from research and label that part as outside César's notes. When an answer produces analysis worth keeping, offer to save it as a source note in the matching topic's `_Sources/` folder so the weekly synthesis folds it into the page.
 
 ## Tracking, Background, and Intake
 
