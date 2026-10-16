@@ -1,5 +1,5 @@
 ---
-title: "Renter Protection Package -- Legislative Case"
+title: "Renter Protection Package - Legislative Case"
 date_saved: 2026-10-15
 source: "Synthesis of the Tenant Protections Survey Policy Brief (2026-10-08), Tenant Protection Ordinance Outline (2026-10-09), the Tenant Protections core page, Rockville Chapter 18 adopted text and staff reports, Seattle Ordinance 127497, the Maryland Tenants' Bill of Rights (October 2026 edition), U.S. Census data, CFPB reports, and the peer-reviewed research cited in the footnotes"
 tags:
@@ -9,6 +9,14 @@ tags:
   - topic/affordability
 summary: "The full case for one Frederick renter protection ordinance built around Real Rent plus three new parts: Know Before You Sign, Fair Screening and a Stable Home, and Rights That Hold Up (enforcement and relocation). Explains what each part requires, who it helps and the evidence behind it, what it costs and who pays, and how to answer cost objections, opposition arguments, and staff pushback. No ordinance language."
 related:
+  - "[[Tenant Protection - File Index]]"
+  - "[[Peer Jurisdiction Tenant Protection Laws]]"
+  - "[[Maryland Legal Baseline and Local Authority - Tenant Protection]]"
+  - "[[Research Evidence - Renter Harms and Protection Impacts]]"
+  - "[[Frederick Renter Data Baseline]]"
+  - "[[Opposition Arguments and Responses - Tenant Protection]]"
+  - "[[Council and Stakeholder Map - Tenant Protection]]"
+  - "[[Frederick City AMI - Analysis and Options]]"
   - "[[Tenant Protection Ordinance Outline]]"
   - "[[Tenant Protections Survey Policy Brief - 2026-10-08]]"
   - "[[Tenant Protections]]"
@@ -25,6 +33,8 @@ related:
 This package gives Frederick renters three things they don't have today. First, they get to see the full truth about a home before they commit to it. Second, they get a fair shot at renting it and a reasonable chance of staying. Third, when a landlord breaks the rules, the City makes it right, not the tenant, and the family isn't put on the street in the process.
 
 None of this sets the rent. Nothing in it tells a landlord what to charge. It asks landlords to be honest, to use a fair process, and to fix what they are already legally required to fix. Then it gives the City the tools to make that stick. Rockville adopted most of this in July 2026, so a Maryland city has already shown it can be done.
+
+The backup research for every section (peer laws, legal risk, studies, local data, opposition, and the council map) is in the `_Sources` folder. Start at [[Tenant Protection - File Index]].
 
 This note covers what the ordinance would require and who it helps, and it backs each part with evidence. It also prepares the answers to opposition, to staff pushback, and to the "this will make rent more expensive" argument. Ordinance language comes next, drafted together in chat.
 
@@ -146,7 +156,7 @@ Almost nothing, and the landlord already holds nearly all of the information. Co
 **Clear, fair applications.**
 
 - The landlord posts written screening criteria before collecting any application fee, so applicants know whether they qualify before they pay.
-- The application may not ask about eviction history. Rockville adopted this rule, while still letting landlords consider eviction history as otherwise allowed by law.[^rockville] Frederick can go one step further and bar denials based on eviction filings that were dismissed, withdrawn, or decided in the tenant's favor. That is a policy choice for you, and it should be checked with the City Attorney.
+- Landlords may not deny an applicant because of an eviction filing that was dismissed, withdrawn, or decided in the tenant's favor, or because of an eviction older than a set look-back period. Philadelphia adopted this rule in 2021. Rockville took a different route and banned the eviction-history question on applications.[^rockville] Restricting how the information is used, rather than banning the question, is the safer design because a federal appeals court struck down Seattle's ban on asking about criminal history on free-speech grounds. The look-back period is a policy choice for you. See [[Maryland Legal Baseline and Local Authority - Tenant Protection]].
 - If an application is denied, the landlord gives the reason in writing and names the screening company used.
 - The applicant can get a copy of the screening report and has a short window to dispute an error before the unit goes to someone else.
 - When a landlord requires a guarantor, they explain why in writing (Rockville).
@@ -230,7 +240,7 @@ The City's own enforcement tools have a gap too. Real Rent's original private la
 - **A Landlord-Tenant Commission.** Rockville has had one for years. It has two landlords, two tenants, and three public members. After staff investigation and attempted conciliation, it can hold hearings, compel documents, and award up to $5,000 per affected unit.[^rockville] Its balanced membership is a political strength.
 - **A hearing officer**, or an expanded role for an existing City board. This is simpler to stand up, but it carries less public legitimacy.
 
-Whether Frederick's Charter supports a body that awards money is the biggest legal question in the package. Get the City Attorney's analysis of both options before choosing.
+Whether Frederick's Charter supports a body that awards money is the biggest legal question in the package. A hearing officer applying license conditions carries less risk than a commission awarding damages. The risk analysis for both is in [[Maryland Legal Baseline and Local Authority - Tenant Protection]].
 
 **Relocation when the home is lost.** When the City declares a unit unfit for six months or less, the landlord provides temporary housing (a hotel, a per diem, or a comparable unit) plus moving and storage.
 
@@ -314,7 +324,7 @@ This will be the main argument against the package. Answer it head on, because t
 
 ## What staff will raise, and how to answer
 
-**City Attorney.** Expect questions on five points.
+**Legal staff.** Expect questions on five points. Their review is advisory, and you decide how to proceed. The risk analysis for each point is in [[Maryland Legal Baseline and Local Authority - Tenant Protection]].
 
 1. *Aleti*. The package does not rely on a locally created private lawsuit. Remedies run through City orders, license conditions, municipal infractions, and liens.
 2. Charter authority for a body that awards money. This is the biggest open question. Ask for analysis of both the commission and hearing-officer options, and of how Rockville's charter authorizes its commission.
@@ -322,7 +332,7 @@ This will be the main argument against the package. Answer it head on, because t
 4. Reaching units outside the licensing chapter. This relies on general police power if not on licensing.
 5. Any conflict with state screening law for small landlords.
 
-Rachel Gray's review is advisory, and her questions will make the draft stronger. Bring her in early with the specific questions above, rather than handing her a finished draft.
+Sharing the specific questions above early, along with the risk analysis, will get more useful feedback than handing over a finished draft.
 
 **Code enforcement and HHS.** Expect concerns about staffing and caseload. The answer is staged effective dates, a named department, a dedicated funding line, and enforcement focused on complaints and repeat violators rather than routine audits of every building. Ask staff what they need, put it in the fiscal note, and fund it. A law that staff can't enforce does renters no good.
 
@@ -352,7 +362,7 @@ These measures will show the Council and the public whether the law is working, 
 
 These items should be settled before or during drafting.
 
-1. **Legal questions** for the City Attorney, as listed in the staff section above.
+1. **Legal risk decisions**, laid out in [[Maryland Legal Baseline and Local Authority - Tenant Protection]].
 2. **Frederick's baseline.** The current text of Chapter 12.5 after the rodent control amendments, and what the property maintenance code already requires for heat, cooling, locks, pests, and repair timelines.
 3. **Local data.** Eviction filings and judgments for City addresses from Maryland Judiciary data, code complaint and violation data, rental stock by building age and owner size, and the languages spoken by renter households.
 4. **Policy choices for you.**

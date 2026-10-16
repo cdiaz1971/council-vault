@@ -31,6 +31,7 @@ Current legislative status lives in [[Council Tracker]] and canonical initiative
 | [[Junk Fees -- File Index]] | Two March draft variants, draft findings, and consumer-pricing background |
 | [[Municipal ID -- File Index]] | Exploration, memorandum template, model legislation, design checklist, rationale, and legal-risk research |
 | [[Real Rent Ordinance -- File Index]] | Ordinance text, review preparation, peer research, and workshop talking points |
+| [[Tenant Protection - File Index]] | Renter protection package direction document, planning outline, and backup sources (peer laws, legal risk, research, local data, opposition, council map) |
 
 These directories reflect the files present, not a certification that each folder contains an introduced bill or current official text. Junk Fees and Real Rent are linked as related drafting work without assigning either folder a superseded status.
 

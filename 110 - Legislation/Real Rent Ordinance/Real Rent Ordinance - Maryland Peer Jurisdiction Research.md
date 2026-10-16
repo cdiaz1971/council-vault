@@ -4,7 +4,7 @@ related:
 - '[[Real Rent Ordinance - Legal Review Prep]]'
 source: Research compiled June 2026 in support of Real Rent Ordinance drafting
 summary: Maryland peer jurisdiction research for the Real Rent Ordinance. Covers Montgomery
-  County Bill 6-25 and Baltimore City's rental licensing framework, with analysis
+  County's fee rules (Bill 15-23 regulations and Bill 6-25) and Baltimore City's rental licensing framework, with analysis
   of the licensing-condition theory and its application to Frederick.
 tags:
 - topic/housing
@@ -17,18 +17,15 @@ title: Real Rent Ordinance - Maryland Peer Jurisdiction Research
 
 ## Summary
 
-Maryland peer jurisdiction research for the Real Rent Ordinance. Covers Montgomery County Bill 6-25 and Baltimore City's rental licensing framework, with analysis of the licensing-condition theory and its application to Frederick.
+Maryland peer jurisdiction research for the Real Rent Ordinance. Covers Montgomery County's fee rules (Bill 15-23 regulations and Bill 6-25) and Baltimore City's rental licensing framework, with analysis of the licensing-condition theory and its application to Frederick.
 
-## Montgomery County Bill 6-25
+## Montgomery County
 
-Montgomery County introduced Bill 6-25 as a rental junk fee ordinance in 2025. It uses a permitted-fees framework, meaning landlords may only charge fees explicitly authorized by ordinance rather than prohibiting specific fees. This is the inverse of Frederick's approach.
+Montgomery County regulates rental fees through its rent stabilization law, not a standalone junk fee bill. Bill 15-23 (enacted July 2023, effective July 2024) directs the Director to limit fee increases and new fees for regulated units. The implementing regulations use a permitted-fees framework with set maximums: application fees at $25 or actual screening cost, lost keys at cost plus $25, internet and cable at actual cost split among opting units, and pet, lockout, and parking fees capped or indexed to the CPI-based rent allowance.
 
-Key features:
-- Covers "regulated rental units" tied to Montgomery County's existing rent stabilization regime
-- Explicitly enumerates permissible charges; all other charges are prohibited by default
-- Enforcement through the county's existing rental licensing and registration infrastructure
+Bill 6-25 (adopted April 1, 2025, effective July 14, 2025) is a different law. It removed the exemption that kept landlord-tenant matters out of the County's Consumer Protection law, which lets the County sue landlords who show a pattern of deceptive practices in Circuit Court.
 
-The Montgomery County model is the strongest structural peer because it is in-state, uses licensing authority as the enforcement hook, and has been through local legal review. The limitation is that its scope is tied to rent stabilization, which Frederick does not have. Adapting the permitted-fees framework to Frederick would require an independent definition of covered units.
+The Montgomery County fee model is a strong in-state structural peer because it lists allowed fees and enforces through the County's existing licensing and landlord-tenant infrastructure. Its limitation is that its scope is tied to rent stabilization, which Frederick does not have. Adapting the permitted-fees framework to Frederick would require an independent definition of covered units. Rockville's Chapter 18 (2026) adapted the same list approach for a municipality without rent stabilization; see [[Rockville Chapter 18 Rewrite - Adopted Ordinance Text]].
 
 ## Baltimore City Framework
 
@@ -54,6 +51,5 @@ The anti-circumvention gap matters here too. If third-party vendors can route fe
 
 ## Research Gaps
 
-- No confirmed search result on whether Bill 6-25 passed or was amended before enactment. Confirm current status before citing as a peer model.
 - No analysis yet of whether any other Maryland jurisdiction has enacted a junk fee ordinance using the licensing-condition theory explicitly. Worth checking Prince George's County and Takoma Park.
 - Frederick's charter authority to create express private rights of action in housing/licensing matters has not been confirmed. This is the threshold question that drives whether a private right of action can be restored.
