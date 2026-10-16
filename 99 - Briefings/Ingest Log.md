@@ -103,3 +103,5 @@ summary: "Running log of page-synthesis runs: pages updated or created, sources 
 - 2026-10-13 -- Update: [[Housing Politics and Advocacy]] -- 1 source(s) folded in -- Added allocation disputes as a category, using Dublin's waiting-list-by-citizenship release.
 - 2026-10-13 -- Update: [[Corporate Landlords and Private Equity]] -- 1 source(s) folded in -- Added the Madrid eviction and failed Spanish housing bill as context, labeled commentary.
 - 2026-10-13 -- Unmatched: [[Time Banks Turn Older Residents From Service Recipients Into Neighborhood Helpers]] -- 100 - Housing -- aging and mutual-aid model with no housing decision attached; would fit a future aging-in-place page.
+- 2026-10-16 -- Triaged: [[Birthright Citizenship Debate Echoes Reconstruction-Era White Supremacist Rebrand]] -- 120 - Immigration/_Sources -- from America, Rebranded The Birth of a Nation and the Question of Citizenship.md.txt
+- 2026-10-16 -- Triaged: [[Local ALPR Data May Reach ICE Through Federal HIDTA Drug Program]] -- 150 - Governance/_Sources -- from Are Police in Your Community Laundering License Plate Data Through Federal Drug Programs Into a Secretive Central Database.md.txt
