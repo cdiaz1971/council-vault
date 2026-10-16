@@ -27,6 +27,7 @@ Current legislative status lives in [[Council Tracker]]. Ordinance language is d
 
 - [[Renter Protection Package - Legislative Case]]: the direction document. Explains what each part requires, who it helps, what it costs and who pays, how to answer cost and opposition arguments, and why to pass it as one ordinance.
 - [[Tenant Protection Ordinance Outline]]: the October 9 planning outline. Lays out every possible part, the vehicle options, and the tiers.
+- [[Tenant Protection - Package Areas and Sources]]: the grouped list of package areas with comparable laws under each section, written to stand alone as the basis of the staff scope memo.
 
 ## Backup sources (`_Sources`)
 
