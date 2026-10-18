@@ -2,9 +2,9 @@
 title: "Housing Production Strategies"
 type: council-decision-reference
 date_saved: 2026-09-25
-date_updated: 2026-10-13
-source_reviewed: 2026-10-13
-last_synthesized: 2026-10-13
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 source: "vault research, official plans, legislation, and program records"
 status: active
 confidence: medium
@@ -175,6 +175,10 @@ The transferable elements are the inventory-first sequence and the financing log
 
 A state-level version of the same logic is Maryland's own: in April 2026, Governor Moore and MDOT unveiled a plan to develop 134 acres of state-owned land near Baltimore Metro stations into roughly 5,000 homes, using existing parking lots rather than new land clearing, with a first phase at Rogers Avenue Metro Station projected at about 400 homes.[^transitplan] This is a Baltimore Metro initiative and is not transferable to Frederick's MARC-served geography by name, but it is evidence that a state transportation agency will develop its own surplus land for housing when asked, which is relevant if MDOT or MTA holds land near Frederick's MARC station or elsewhere in the city.
 
+### Adaptive reuse of vacant public and historic buildings
+
+A related channel reuses a vacant public or institutional building rather than vacant land. In Caswell County, North Carolina, DreamKey Partners converted a vacant historic Black school, closed since 2002 and listed on the National Register of Historic Places, into 53 income-restricted senior apartments, layering HUD Section 202 senior-housing funding with state and federal historic tax credits; leasing drew more applicants than units in a county where about 42% of renters are cost-burdened.[^dillard] The transferable elements are the inventory-first sequence and the financing stack, not the unit count: a city identifies a vacant historic or institutional building it already owns or can acquire, then matches it to this kind of layered funding. Frederick's inventory of underused public and historic buildings, not only vacant land, is the natural starting point if this channel is considered.
+
 ## 6. Permitting, standard plans, and automation
 
 ### Measure the process before promising a reduction
@@ -268,6 +272,7 @@ Footnotes support the main article. The original vault list remains below for co
 [^nyclift]: NYC Mayor's Office, [“Mamdani Administration Advances Plan to Build Nearly 4,000 New Homes at 100 Gold Street,”](https://www.nyc.gov/mayors-office/news/2026/09/mamdani-administration-advances-plan-to-build-nearly-4-000-new-h) September 2026, describing the LIFT Tracker; original capture via Planetizen, September 29, 2026.
 [^nycpublicland]: Zachary Whalen, [“NYC to turn city-owned property into thousands of homes,”](https://www.planetizen.com/news/2026/09/138515-nyc-turn-city-owned-property-thousands-homes) Planetizen, September 29, 2026, summarizing Willow Higgins, Gothamist, September 28, 2026, and the NYC Mayor's Office press release cited at [^nyclift].
 [^transitplan]: CBS News Baltimore, April 2026, reporting the Baltimore Regional Transit-Oriented Development Strategy; original via [Planetizen](https://www.planetizen.com/news/2026/04/137321-maryland-unveils-plan-5000-homes-near-transit) and [CBS News Baltimore](https://www.cbsnews.com/baltimore/news/metro-subway-maryland-development-plan/).
+[^dillard]: Tre Spencer, [“A former school finds new life as affordable housing for NC seniors”](https://www.governing.com/urban/north-carolina-turns-a-historic-school-into-affordable-senior-housing), NC Newsline, republished by Governing, October 15–16, 2026.
 
 ### Original vault research trail
 
@@ -299,7 +304,10 @@ Footnotes support the main article. The original vault list remains below for co
 
 Note: [[AI for Housing Permitting Use Cases and Guardrails]] was already listed above among the 12 archived sources; this review drew its Denver/San Jose/Pittsburgh detail and guardrails framing directly into section 6 rather than adding a duplicate entry.
 
-18 notes total: 12 archived from 100 - Housing and 6 cited in place.
+**Cited in place, added 2026-10-18 (1)**
+- [[A Vacant Historic Black School Became 53 Units of HUD-Financed Senior Housing in Rural North Carolina]]
+
+19 notes total: 12 archived from 100 - Housing and 7 cited in place.
 
 ## Wiki navigation
 

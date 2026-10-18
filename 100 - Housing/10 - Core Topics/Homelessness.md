@@ -107,6 +107,8 @@ Enforcement may address a specific unsafe act or obstruction, but a fine does no
 
 Treat proposed fine amounts, pending court matters, and federal grant conditions as time-sensitive. Recheck the ordinance file and controlling law immediately before a vote.
 
+Nationally, criminalization (camping and panhandling citations, sweeps, and property destruction) has become the dominant local and federal response since *City of Grants Pass v. Johnson* (2024) allowed enforcement even where no shelter bed is available, and a camping-ban advocacy campaign has pushed the approach to more cities. Frederick has not adopted a camping ban. If one is proposed, the checklist above applies in full, and advocates elsewhere, including in Pittsfield, Massachusetts, have successfully opposed camping bans using it as a model. [Shelterforce, "Homelessness in an Age of Criminalization," October 13, 2026](https://shelterforce.org/2026/10/13/homelessness-in-an-age-of-criminalization/); [[Homelessness in an Age of Criminalization -- Shelterforce Shifting Ground Series]].
+
 ## Decision matrix
 
 Score each proposal before funding or adoption.
