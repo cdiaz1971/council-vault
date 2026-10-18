@@ -3,7 +3,7 @@ title: "Zoning Reform"
 type: council-decision-reference
 date_saved: 2026-09-24
 date_updated: 2026-09-29
-source_reviewed: 2026-09-27
+source_reviewed: 2026-10-18
 source: "official legislation, published research, and retained vault research"
 status: active
 confidence: medium
@@ -110,7 +110,7 @@ Maryland's **2025 HB1466** took effect October 1, 2025 and requires compliant lo
 
 MDP interprets the state definition as requiring local authorization up to **75% of the primary detached home's size**, rather than allowing a lower universal size cap. This is agency guidance relevant to reviewing a proposed local cap; distinguish it from the wording and status of a City draft.[^adu-state]
 
-For Frederick's **PC25-614ZTA**, the March 9, 2026 staff report identifies proposed changes to §802 and states that no detached ADUs had been **successfully constructed by permit since the 2021 amendment**. It does not say that no permits had been issued. The proposal was subsequently described as being at workshop in [[ADU Ordinance Brief 2026-08-13]] and the prior page's September 24 status record; those dated records are not an adoption certificate.[^adu-local]
+For Frederick's **PC25-614ZTA**, the March 9, 2026 staff report identifies proposed changes to §802 and states that no detached ADUs had been **successfully constructed by permit since the 2021 amendment**. It does not say that no permits had been issued. The proposal was subsequently described as being at workshop in [[ADU Ordinance Brief 2026-08-13]] and the prior page's September 24 status record; those dated records are not an adoption certificate.[^adu-local] HB1466's compliance deadline for local ADU laws passed October 1, 2026. The City's published pending/adopted-legislation tracker shows no ADU ordinance, case number, or LMC §802 amendment as of this review; it lists no action on PC25-614ZTA at all. This review could not confirm whether the City enacted a compliant ADU ordinance by the deadline, adopted one under a different case number, or missed it. *Verify current status directly with the Planning Department before citing Frederick as compliant or noncompliant.*
 
 Evaluate an ADU policy on legal capacity, usable designs, financing, utility connections, approval cost, rental use, and completed units. Preserve the distinction between state compliance and optional local choices that further facilitate production.
 

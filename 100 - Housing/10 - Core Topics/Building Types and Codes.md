@@ -3,7 +3,7 @@ title: "Building Types and Codes"
 type: council-decision-reference
 date_saved: 2026-09-25
 date_updated: 2026-09-27
-source_reviewed: 2026-09-27
+source_reviewed: 2026-10-18
 source: "official codes and legislation, published research, and retained vault research"
 status: active
 confidence: medium

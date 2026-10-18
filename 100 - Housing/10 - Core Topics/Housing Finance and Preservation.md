@@ -3,7 +3,7 @@ title: "Housing Finance and Preservation"
 type: council-decision-reference
 date_saved: 2026-09-25
 date_updated: 2026-09-26
-source_reviewed: 2026-09-26
+source_reviewed: 2026-10-18
 source: "vault research, original proposal documents, and external primary sources"
 status: active
 confidence: medium
