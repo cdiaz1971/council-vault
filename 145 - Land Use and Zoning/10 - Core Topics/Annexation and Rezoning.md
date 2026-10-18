@@ -3,8 +3,9 @@ title: Annexation and Rezoning
 type: council-decision-reference
 area: Land Use and Zoning
 jurisdiction: [City of Frederick, Frederick County, Maryland]
-date_updated: 2026-10-02
-source_reviewed: 2026-10-02
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 status: active
 confidence: medium
 tags: [council, land-use, annexation, rezoning, zoning-map-amendment, five-year-rule]
@@ -47,6 +48,10 @@ On August 6, 2026 Council rezoned 24.33 acres of the Gateway Property from Gener
 ### Sage Way Farm (petition, 2025)
 
 Owners petitioned in April 2025 to annex about 25 acres at 5509 Old National Pike, zoned agricultural by the County, for high-density residential development ([[Sage Way Farm annexation petition]]). Because the County zoning is agricultural, high-density residential within five years would need the County's express approval. Current status: verify.
+
+### New petitions announced, October 2026
+
+At the October 1, 2026 Regular Public Meeting, two annexation petitions were announced: about 156.446 acres on the west side of US Route 15, north of Sundays Lane, requesting R8 Medium Density Residential; and about 200.011 acres north of Winpenny Drive and Yellow Springs Road, requesting R4 Low Density Residential. These are announcements of petitions, not completed annexations; apply the consent, contiguity, annexation-plan, and five-year-rule framework above once each petition reaches a hearing. [[Hearing Minutes 2026-10-01]].
 
 ### Data center sites
 

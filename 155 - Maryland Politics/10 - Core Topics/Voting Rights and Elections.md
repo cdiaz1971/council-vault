@@ -3,9 +3,9 @@ title: Voting Rights and Elections
 type: council-decision-reference
 area: Maryland Politics
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-04
-source_reviewed: 2026-10-04
-last_synthesized: 2026-10-04
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 status: active
 confidence: medium-high
 tags: [council, voting-rights, elections, redistricting, ranked-choice-voting, election-administration]
@@ -36,7 +36,7 @@ The Maryland Voting Rights Act of 2026 (SB 255, Chapter 157, effective April 28,
 
 ## Election methods
 
-- **Ranked choice voting.** 49 U.S. jurisdictions used RCV as of March 2026, reaching about 14 million voters; FairVote reports turnout gains, including 9.6 points in Twin Cities mayoral races, and majority winners without runoffs ([[Ranked Choice Voting Increases Voter Turnout -- FairVote Research Summary]]). Washington, D.C. used RCV for the first time in June 2026; Honolulu, Irvine, and Longmont put it on November ballots ([[FairVote -- RCV Results in Washington DC and Maine 2026 Primaries]]; [[Ranked Choice Voting Momentum July 2026]]). Maryland's crowded 2026 primaries produced plurality winners, including a 32% winner in the Fifth District and a 45% gubernatorial nominee ([[Maryland's 2026 Primary Results as Evidence for Ranked Choice Voting]]).
+- **Ranked choice voting.** 49 U.S. jurisdictions used RCV as of March 2026, reaching about 14 million voters; FairVote reports turnout gains, including 9.6 points in Twin Cities mayoral races, and majority winners without runoffs ([[Ranked Choice Voting Increases Voter Turnout -- FairVote Research Summary]]). Washington, D.C. used RCV for the first time in June 2026; Honolulu, Irvine, and Longmont put it on November ballots ([[FairVote -- RCV Results in Washington DC and Maine 2026 Primaries]]; [[Ranked Choice Voting Momentum July 2026]]). Maryland's crowded 2026 primaries produced plurality winners, including a 32% winner in the Fifth District and a 45% gubernatorial nominee ([[Maryland's 2026 Primary Results as Evidence for Ranked Choice Voting]]). Nationally, FairVote counted 125 congressional and statewide primary winners in 2026 who won with under 50% of the vote, the highest count it has tracked since 2018, which it attributes to record congressional retirements and mid-decade gerrymandering producing crowded open primaries in safe seats; it estimates these plurality winners will make up 20 to 40% of the incoming U.S. House freshman class. A University of Maryland survey found 66% of Americans in battleground states and districts support RCV for congressional elections, including 70% of Democrats and 64% of Republicans, a bipartisan number useful for any local or state RCV conversation. [[FairVote Fewest Votes Wins Report: 2026 Primary Plurality Winners]]; FairVote, October 2026.
 - **Primaries.** Maryland's primaries are closed to about one million unaffiliated voters; a lawsuit challenges public funding of closed primaries, and the Governor called the system outdated before his office walked it back ([[Governor Moore on Open Primaries -- Signal Without Commitment]]).
 
 ## Election administration
@@ -62,6 +62,9 @@ The Maryland Voting Rights Act of 2026 (SB 255, Chapter 157, effective April 28,
 | Ranked choice voting for City elections by Charter amendment | Plurality winners, turnout | Administration cost, voter education |
 | Resolution on Question 3 or other State measures | Public position | Symbolic |
 | Voter outreach under the City's own registration rules | Participation | Staff time |
+
+**Cited in place, added 2026-10-18 (1)**
+- [[FairVote Fewest Votes Wins Report: 2026 Primary Plurality Winners]]
 
 ## Related pages
 

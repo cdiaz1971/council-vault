@@ -2,12 +2,12 @@
 title: "Housing Affordability and Inequality"
 type: council-decision-reference
 date_saved: 2026-09-24
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
 source: "vault research and checked primary sources"
 status: active
 confidence: medium
-last_synthesized: 2026-10-03
+last_synthesized: 2026-10-18
 tags:
   - topic/housing
   - topic/housing/affordability
@@ -66,7 +66,7 @@ ALICE status does not establish eligibility or ineligibility for public benefits
 
 The **2026 ALICE release uses 2024 data**. United Way of Frederick County reports **34,465 of 108,330 County households** below the threshold: approximately **31.8%**, published as **32%**. These figures describe an earlier data period, not a real-time count of households affected by 2026 policy changes.[^county]
 
-The local presentation reports **43% for Frederick city** and **33,584 City households** on its census-place slide. This article uses that directly checked, rounded City rate. The prior vault synthesis gave 42.7% and 14,343 households; those more precise figures remain in its archived source rather than being presented here as independently reproduced.[^slides]
+The local presentation reports **43% for Frederick city** and **33,584 City households** on its census-place slide. This article uses that directly checked, rounded City rate. The prior vault synthesis gave 42.7% and 14,343 households; those more precise figures remain in its archived source rather than being presented here as independently reproduced.[^slides] At the October 1, 2026 Council meeting, Council President Díaz cited the 2026 report to note that the number of struggling households rose in the City while falling in the County, and said those families should be Council's focus; this is a council-record characterization of the trend, not an independently recalculated year-over-year figure in this review. [[Hearing Minutes 2026-10-01]].
 
 The vault's underlying research identifies the County figures as ACS one-year estimates and the City figures as five-year estimates. **Do not use their arithmetic difference as a like-for-like annual City–County gap.** Census guidance advises comparing matching ACS products and non-overlapping five-year periods. The City was at 43% in both the 2019 to 2023 and 2020 to 2024 periods; the 45% figure previously used in the vault is Frederick County Election District 2, a county subdivision larger than the City and unrelated to City Council District 2, and should not be compared with the City rate.[^acs]
 
@@ -239,6 +239,9 @@ External sources below support the article's factual statements. The original va
 
 **Cited in place (1)**
 - [[ALICE Report -- Frederick County 2025 (2023 Data) -- Reference Note]]
+
+**Cited in place, added 2026-10-18 (1)**
+- [[Hearing Minutes 2026-10-01]]
 
 **Also cited (archived under Food Access and SNAP):** [[Food Access Landscape -- Frederick and Peer City Models]] (2024 ALICE figures)
 

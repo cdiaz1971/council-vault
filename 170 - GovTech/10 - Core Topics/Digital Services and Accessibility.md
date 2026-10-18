@@ -3,9 +3,9 @@ title: Digital Services and Accessibility
 type: council-decision-reference
 area: GovTech
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-12
-source_reviewed: 2026-10-12
-last_synthesized: 2026-10-12
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 status: active
 confidence: medium
 tags: [council, govtech, accessibility, ada, digital-services, broadband, service-design]
@@ -30,6 +30,7 @@ This page supports Council decisions on how residents reach City services online
 - **Small fixes.** North Carolina cut SNAP payment errors with one caseworker prompt used over 20,000 times.
 - **Procedural loss.** About 320,000 of Maryland's 1.47 million Medicaid enrollees face new federal work reporting and six-month redetermination rules; most coverage losses are expected among eligible people who miss a notice. Maryland is redesigning notices and caseworker tools with Code for America. City services that help residents through these systems face the same risk.
 - **Small teams.** Broward County, Florida, runs its public website with a four-person team that is using AI to rebuild the site on a commercial platform, with the stated goal of organizing official content once so it stays accurate when search engines and AI tools summarize it ([Sitecore announcement](https://www.sitecore.com/company/newsroom/press-releases/2026/03/broward-county-selects-sitecoreai-to-help-ensure-residents-find-clear-trusted-information-online); [[Broward County Four-Person Web Team Uses AI to Rebuild County Website]]). The relevant lessons for the City are the staffing ratio and the AI-search goal; the platform choice is a long vendor commitment that belongs in [[AI Governance and Procurement]] review.
+- **AI-readable structure.** A Georgetown Beeck Center report identifies three factors governments control to keep AI assistants (ChatGPT, Claude, Gemini) from relaying wrong information to residents who increasingly ask an assistant instead of visiting the website: crawler access, information accuracy, and content structure. Its cautionary case: a JavaScript-heavy interactive budget dashboard in Mendocino County, California caused ChatGPT to overstate the county's public safety spending by 53%, while a plain, non-JavaScript-dependent page in Larimer County, Colorado was extracted accurately. The practical lesson for any Frederick budget-transparency tool or dashboard: a more modern, JavaScript-heavy interactive display can make official figures less retrievable and less accurate once residents ask an AI assistant instead of reading the page directly. [[Government Websites Need AI-Readable Structure as Residents Shift to AI Assistants for Public Information]]; StateScoop, October 16, 2026.
 - **Modernization.** Kansas replaced 1970s unemployment systems in 29 months, moving availability from about 65% to around the clock and cutting training from eight weeks to two.
 - **Federal systems.** Federal tools do not always fit local needs; most states declined CMS's free Medicaid verification tools.
 - **Identity.** States are building unified digital ID to cut fraud and simplify access; any City use must respect immigrant residents' privacy under the [[City Values Act]].
@@ -76,6 +77,9 @@ Maryland is expanding fiber to rural western counties with federal funds. Treati
 - Accessibility complaints and time to fix.
 - Online completion rates for key services, by language.
 - Households without home internet, by Council district.
+
+**Cited in place, added 2026-10-18 (1)**
+- [[Government Websites Need AI-Readable Structure as Residents Shift to AI Assistants for Public Information]]
 
 ## Related pages
 
