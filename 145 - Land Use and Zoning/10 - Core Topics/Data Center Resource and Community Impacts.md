@@ -3,9 +3,9 @@ title: Data Center Resource and Community Impacts
 type: council-decision-reference
 area: Land Use and Zoning
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
-date_updated: 2026-10-04
-source_reviewed: 2026-10-04
-last_synthesized: 2026-10-04
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 status: active
 confidence: medium
 tags: [council, land-use, data-centers, energy, water, noise, health, fiscal, environmental-justice]
@@ -25,6 +25,11 @@ This page sets out what data centers draw from and impose on a host community: p
 - **Ratepayer costs.** The Brandon Shores coal plant will run until 2031 under a reliability agreement costing Maryland ratepayers about $180 million a year, because transmission upgrades delayed by data center load growth are not ready; PJM and the Office of People's Counsel attribute the load growth to data centers, mostly outside Maryland ([[Brandon Shores Extension Reveals Data Center Ratepayer Cost Is Not Theoretical]]). People's Counsel testified in June 2026 that data centers already add $10 to $21 a month to Maryland residential bills through PJM capacity costs (110 bill notes). PJM's senior manager of long-term transmission planning stated in a June 2026 FERC affidavit that Brandon Shores-related transmission upgrades have been delayed "in some instances by several years," and People's Counsel David Lapp told FERC that PJM has unlawfully assigned Maryland ratepayers $2 billion in transmission upgrade costs caused by load growth that is "almost entirely outside the state of Maryland" ([[Data Center Demand Is the Named Cause of Maryland Grid Failures]]). Separately, the Maryland Energy Administration, Office of People's Counsel, and Public Service Commission jointly filed a FERC complaint on July 2, 2026 to end a utility surcharge for PJM grid participation that the Utility RELIEF Act made mandatory rather than voluntary, projecting $20 million in annual ratepayer savings if they prevail; BGE opposed the change and separately proposed an $8-a-month residential rate increase, pending before the PSC through January 2027 ([[Maryland Agencies File FERC Complaint to Recover 20M in Annual Ratepayer Savings]]). The same grid pressure is adding political support for reopening the retired Warrior Run coal plant in Western Maryland with federal backing, even though PJM's independent market monitor and clean-energy advocates say the plant is unlikely to be economically competitive and running it would cut against the state's legally required 60% emissions cut by 2031 ([[Trump Warrior Run Coal Plant Reopening -- Federal Intervention in Maryland Energy Policy]]).
 - **Clean energy.** In Virginia, data center demand led the largest utility to plan eight gigawatts of new gas capacity despite a 2020 clean energy law, and Microsoft is reconsidering its 24/7 clean energy pledge ([[Data Center Demand Is Forcing Fossil Fuel Expansion in a State That Passed a Clean Economy Law]]; [[Microsoft Clean Energy Reversal Exposes Voluntary Corporate Commitments as Unenforceable]]). Maryland's Department of Labor proposed deleting the 2024 national energy code's on-site renewable requirement (0.75 watts per square foot for large new buildings, including data centers) and allowing double-counted efficiency credits; legislators who flagged this as potentially inconsistent with state law, which bars adopting a less stringent code than the national standard, won an AELR hold in August 2026, but no final resolution had been reported as of this writing: verify current status ([[Maryland Weakens Commercial Building Energy Code Deletes Solar Requirement]]).
 - **On-site generation.** Gaps in grid supply are being filled with gas turbines and repurposed jet engines, which add noise and air emissions locally ([[Data Centers -- Noise, Water, and Community Impact]]). At the extreme, Utah's approved Stratos campus in Box Elder County would draw 9 gigawatts, more than double the state's current electricity use, entirely from a private natural gas pipeline outside public utility oversight, and was projected to raise the state's total carbon emissions by roughly 50% ([[Kevin OLeary Utah Data Center -- Community Opposition and Carbon Impact]]).
+- **Emergency grid measures.** A U.S. Department of Energy emergency order, in effect during an October 2026 mid-Atlantic heat stretch, let PJM delay seasonal transmission maintenance and ordered large-load customers such as data centers onto backup power, with temporary relief from some environmental restrictions; PJM named mid-Atlantic data center growth as a contributing stress factor. The mechanism matters for permit conditions: ordering data centers onto backup power means on-site diesel or gas generators running near neighborhoods, which bears on the emission and noise conditions above. [[DOE Emergency Order Keeps PJM Grid Online During October Heat]]; The Baltimore Banner, October 2026.
+
+## Construction-phase impacts
+
+Impacts begin before a facility opens. Frederick County Sheriff Chuck Jenkins reached a new agreement with the developers of the Adamstown-area data center campus to reroute construction traffic through New Design Road after truck traffic caused a tie-up in Buckeystown; Jenkins said the volume runs to "hundreds, even maybe thousands of truck trips a day," a scale most residents do not see. This is a direct, named Frederick County example of a physical community impact distinct from the water, power, and ratepayer effects above, and a concrete case for addressing construction-phase traffic routing in permit conditions or a text amendment rather than assuming it will be handled informally. [[Frederick County Sheriff Reroutes Adamstown Data Center Construction Traffic After Buckeystown Tie-Up]]; Frederick News-Post, October 17, 2026.
 
 ## Water
 
@@ -69,6 +74,7 @@ This page sets out what data centers draw from and impose on a host community: p
 | Air | Backup and on-site generation type and hours | Emission limits |
 | Fiscal | Independent revenue and cost analysis | Third-party review at applicant's cost |
 | Lifecycle | Decommissioning plan | Bond or surety |
+| Construction traffic | Routing plan, estimated daily truck trips, affected roads | Designated haul routes; hours of operation; road-condition bond |
 
 ## Metrics
 
@@ -89,6 +95,10 @@ This page sets out what data centers draw from and impose on a host community: p
 - [[Data Centers -- Potomac River Basin Water Impact Projections]]
 - [[Data Centers -- State Legislative Models for Cooling Mandates]]
 - [[Data Center Health Impacts Research Gap and Site Selection Recommendations]]
+
+**Cited in place, added 2026-10-18 (2)**
+- [[DOE Emergency Order Keeps PJM Grid Online During October Heat]]
+- [[Frederick County Sheriff Reroutes Adamstown Data Center Construction Traffic After Buckeystown Tie-Up]]
 
 ## Related pages
 

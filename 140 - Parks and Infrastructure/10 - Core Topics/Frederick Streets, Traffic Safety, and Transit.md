@@ -4,11 +4,11 @@ aliases:
   - "Transportation Equity -- Frederick"
   - "Transportation Safety Policy"
 date_saved: 2026-09-23
-last_synthesized: 2026-10-04
+last_synthesized: 2026-10-18
 source: synthesis
 type: council-decision-reference
-date_updated: 2026-10-04
-source_reviewed: 2026-10-04
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
 jurisdiction: [Frederick, Maryland]
 status: active
 confidence: medium
@@ -80,6 +80,10 @@ Other options include shorter crossings, visibility improvements, speed manageme
 For a tactical project, define the safety problem, accessible temporary layout, materials, maintenance owner, before/after measurements, trial duration and criteria for permanent installation or revision. Do not count installed posts or paint as the final safety outcome.
 
 Peer-city stories can illustrate a treatment or delivery method. Their fatality-free periods, national rankings and before/after changes do not prove that one intervention caused the result. Avoid transferring claimed percentage effects without comparable roads, populations, exposure and study design.
+
+## Street reallocation: plan for diverted traffic, not just the converted segment
+
+San Francisco's two-mile car-free conversion of the Upper Great Highway into Sunset Dunes park diverted up to 20,000 vehicles a day onto residential streets, and the resulting backlash produced a November 2026 ballot measure to restore weekday car access, with opponents outraising supporters roughly six to one. The lesson for any Frederick street reallocation, including Golden Mile multimodal work or a road-diet conversion, is that the benefit is concentrated on the converted segment while the diverted traffic lands on specific residential blocks whose residents then become the organized opposition; well-funded opponents can also make a contested project look less popular than it is. Pair any reallocation proposal with a traffic-diversion analysis and a calming plan for the receiving streets, not only a before/after study of the converted corridor. [[Great Highway Car-Free Conversion Backlash and San Francisco Prop G]]; Governing, October 13, 2026 (citing The Wall Street Journal).
 
 ## Transit: build on the existing fare-free baseline
 
@@ -196,7 +200,10 @@ Primary links support specific statements. Retained research illustrates options
 - [[Public Works Committee Brief 2026-09-08]]
 - [[E-Bike Ordinance-092326]]
 
-45 notes total. The classification estimate of ~17 matches the 140-folder core exactly; the 7 additional movers (2 ambiguous 140 notes, 4 misfiled from Housing and Maryland Politics, and 1 added from Housing during the Urbanism run) and the 20 in-place citations are reconciled in the findings note; one further FHWA road-diet note was folded in during the October 4, 2026 synthesis pass.
+**Cited in place, added 2026-10-18 (1)**
+- [[Great Highway Car-Free Conversion Backlash and San Francisco Prop G]]
+
+46 notes total. The classification estimate of ~17 matches the 140-folder core exactly; the 7 additional movers (2 ambiguous 140 notes, 4 misfiled from Housing and Maryland Politics, and 1 added from Housing during the Urbanism run) and the 20 in-place citations are reconciled in the findings note; one further FHWA road-diet note was folded in during the October 4, 2026 synthesis pass.
 
 
 ## Wiki navigation

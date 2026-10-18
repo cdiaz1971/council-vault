@@ -2,9 +2,9 @@
 title: Homelessness
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
-date_updated: 2026-10-13
-source_reviewed: 2026-10-13
-last_synthesized: 2026-10-13
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 status: active
 confidence: medium-high
 tags: [housing, homelessness, shelter, supportive-housing, council]
@@ -163,6 +163,9 @@ The earlier concept page’s case studies, federal-funding notes, shared-housing
 
 **Cited in place, added 2026-10-03 (1)**
 - [[Camden County Shared Housing -- Tackling Homelessness Without New Funding]]
+
+**Cited in place, added 2026-10-18 (1)**
+- [[Homelessness in an Age of Criminalization -- Shelterforce Shifting Ground Series]]
 
 ## Related pages
 

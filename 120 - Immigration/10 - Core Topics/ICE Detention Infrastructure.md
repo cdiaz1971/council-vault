@@ -3,8 +3,8 @@ title: "ICE Detention Infrastructure"
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
 date_saved: 2026-09-23
-date_updated: 2026-10-12
-source_reviewed: 2026-10-12
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
 source: "Synthesis of enacted law, a federal court opinion, official statements, and retained research"
 status: active
 confidence: medium
@@ -23,7 +23,7 @@ related:
   - "[[ICE Surveillance and Data]]"
   - "[[Immigrant Legal Services and Local Support]]"
   - "[[Immigration - In-Progress Plans]]"
-last_synthesized: 2026-10-12
+last_synthesized: 2026-10-18
 ---
 
 # ICE Detention Infrastructure
@@ -114,6 +114,8 @@ A siting decision is not a complete detention-conditions review. If a facility i
 
 The retained Rodney Taylor, Delaney Hall, and Adelanto notes raise disability, medical-care, and detained-person advocacy concerns. Attribute claims to the specific letter, report, or organization and date; neither an allegation nor an operator's compliance statement substitutes for inspection evidence. They do not establish conditions at a Maryland site.
 
+A July 2026 House Judiciary Subcommittee on Oversight hearing chaired by Rep. Jeff Van Drew called reports of medical neglect, inedible food, unsanitary conditions, and a weeks-long hunger strike at Delaney Hall (a GEO-run ICE facility in Newark, NJ) exaggerated or fabricated; two detainees died within two weeks of that hearing. Edwin Jovanny Lopez Cornejo, a 20-year Plainfield, NJ resident managing diabetes, hypertension, and epilepsy, died August 1, 2026 after six weeks at the facility; his family disputes he received his medication, and a member of Congress reported the facility's only physician was neither present nor on call during his medical emergency. A second detainee, Jose Chajon-Raxon, had a seizure around the time of the hearing, was granted temporary medical release, and died afterward; because he was technically released, his death is not counted among official in-custody totals, a counting gap worth noting whenever official death tallies are cited. The ACLU of New Jersey counts nearly 60 deaths in ICE custody nationally since January 2025, a rate it says has more than doubled in the current administration. [ACLU, October 13, 2026](https://www.aclu.org/news/immigrants-rights/a-congressman-questioned-reports-of-deadly-conditions-at-an-ice-detention-center-then-two-more-people-died); [[Delaney Hall Deaths After the Van Drew Oversight Hearing]]. This is New Jersey reporting and advocacy, not a Maryland record, but it is a documented instance of an oversight hearing dismissing conditions concerns shortly before deaths occurred, relevant to how Council should weigh an operator's or official's compliance assurances against inspection evidence for any Maryland site.
+
 Out-of-state transfer is the common path for Maryland arrests, and it moves people beyond the reach of family, counsel, and Maryland officials. Julián Curo-Churata, a Laurel resident of 17 years, died after being taken from Richwood Correctional Center in Monroe, Louisiana, to a hospital; ICE says he received proper care, his family's attorney is investigating reports that guards ignored urgent requests for medical attention, the cause of death awaited autopsy, and Sen. Van Hollen called for an independent investigation. Richwood has a documented record, including a federal jury award of more than $40 million over a 2015 death in custody ([Baltimore Banner](https://www.thebanner.com/community/local-news/julian-curo-churata-lawyer-ice-DGMNGS4ELZDZZMPHJF7NMEJYRI/); [[Laurel Man Dies in ICE Custody After Medical Pleas Ignored]]). For the City, the case supports rapid-response legal support and family notification at the point of arrest, since conditions oversight is out of reach once a person leaves Maryland.
 
 For private-operator analysis, distinguish contract ceiling, guaranteed payments, actual expenditures, occupancy, and profit. [[Private Prison Corporations and the Deportation Industrial Complex]] is a policy/advocacy analysis, not a parcel-specific contract audit. Legal services and family access are covered in [[Immigrant Legal Services and Local Support]].
@@ -160,7 +162,10 @@ The unchanged prior page is [[ICE Detention Infrastructure - Concept Snapshot 20
 - [[Maryland Community Trust Act -- SB791 Passage and ICE Detainer Limits]]
 - [[Warrant-Based ICE Restrictions Create Legal Exposure Not Prevention]]
 
-16 notes total: 10 archived from 120 - Immigration, plus 6 cited in place.
+**Cited in place, added 2026-10-18 (1)**
+- [[Delaney Hall Deaths After the Van Drew Oversight Hearing]]
+
+17 notes total: 10 archived from 120 - Immigration, plus 7 cited in place.
 
 ## Wiki navigation
 

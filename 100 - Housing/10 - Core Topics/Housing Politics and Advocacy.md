@@ -2,12 +2,12 @@
 title: Housing Politics and Advocacy
 type: council-decision-reference
 jurisdiction: [City of Frederick]
-date_updated: 2026-10-13
-source_reviewed: 2026-10-13
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
 status: active
 confidence: medium-high
 tags: [housing, public-participation, advocacy, zoning, council]
-last_synthesized: 2026-10-13
+last_synthesized: 2026-10-18
 ---
 
 # Housing Politics and Advocacy
@@ -63,6 +63,10 @@ Do not label every objection “NIMBY.” Classify it:
 The response should match the dispute. More data can resolve a factual question; it will not by itself resolve a value conflict.
 
 Allocation disputes are their own category. When Dublin City Council released social-housing waiting-list data by citizenship, it showed non-Irish households were 42% of the list and received 32% of offers, and the release prompted calls for citizen-only allocation even though non-Irish residents' share of the list reflected higher need and lower homeownership ([[Dublin Social Housing Waiting List by Citizenship]]; see also [[The Allocation Question Cannot Be Messaged Away]]). Any Frederick program that publishes who receives scarce units should expect the same question and should publish its need-based criteria alongside the numbers. Under the [[City Values Act]], the City should not collect immigration status for allocation at all.
+
+## A contested messaging frame: mobility as opportunity
+
+One advocacy frame argues that "mobility," meaning the freedom to relocate toward a better job, school, or community rather than transportation speed, is a more specific and actionable progressive message than "abundance," and that housing supply, metro-scale densification, and an aligned YIMBY/New Urbanist coalition are what restore it; it also claims that abundant supply where people want to live prevents the kind of displacement commonly called gentrification. This is one advocacy writer's framing and interpretation, not established research. It directly conflicts with [[Upzoning's Gentrification Paradox -- When More Housing Displaces the People It Should Help]], which documents displacement following upzoning, and sits on the market-supply side of the typology in [[Abundance Model vs Vienna Model -- Housing Politics Typology]], opposite social housing. It also uses "mobility" differently from [[Mobility vs Accessibility -- The Urban Planning Distinction]] in Parks and Infrastructure, where mobility means travel speed; adopting this frame locally would require stating clearly which meaning is in play. [[Residential Mobility as a Progressive Policy Frame]]; Aaron Lubeck, ["Stuck 2: Why Mobility Should Be The Next Big Public Policy Word,"](https://www.aaronlubeck.com/p/stuck-2-why-mobility-should-be-the) onHousing, October 14, 2026.
 
 ## Evidence standard for advocacy claims
 

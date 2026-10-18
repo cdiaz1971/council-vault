@@ -2,9 +2,9 @@
 title: Local Authority and Federal Preemption
 type: council-decision-reference
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-03
-source_reviewed: 2026-10-03
-last_synthesized: 2026-10-03
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 status: active
 confidence: medium-high
 tags: [immigration, preemption, anti-commandeering, home-rule, city-values-act, litigation]
@@ -45,7 +45,7 @@ It also tracks the live litigation that could change the answer. For what the Ci
 
 ### Where the law is settled
 
-- **Localities may decline to assist.** Courts have consistently treated ICE detainer compliance as voluntary, and anti-commandeering bars Congress from forcing local officers to enforce federal immigration law ([[End Sanctuary Cities Act and the Anti-Commandeering Defense]]; [CRS, "Sanctuary" Jurisdictions, R44795](https://www.everycrsreport.com/reports/R44795.html)).
+- **Localities may decline to assist.** Courts have consistently treated ICE detainer compliance as voluntary, and anti-commandeering bars Congress from forcing local officers to enforce federal immigration law ([[End Sanctuary Cities Act and the Anti-Commandeering Defense]]; [CRS, "Sanctuary" Jurisdictions, R44795](https://www.everycrsreport.com/reports/R44795.html)). A recent federal-level illustration: after an October 8, 2026 ICE shooting in Manhattan, DHS Secretary Markwayne Mullin claimed New York's governor had agreed to help ICE target "over 100" individuals; her office called this inaccurate, and legal observers noted a detainer is a voluntary request a jail may decline absent a judicial warrant; a locality's own policy, not the detainer itself, determines whether any are honored. The episode shows how a detainer's voluntary legal status is frequently misstated by federal officials after a high-profile incident, which is relevant to anticipating how Frederick's own non-cooperation record could be mischaracterized after a local event. [[ICE Detainers Are Requests Not Mandates -- Fact-Checking DHS Secretary Mullin's New York Claims]]; Documented NY, October 15, 2026.
 - **Local officers in Maryland cannot arrest on a civil immigration basis alone.** In a Frederick County case, the Fourth Circuit held that a local officer's suspicion or knowledge of a civil immigration violation does not supply probable cause to arrest ([*Santos v. Frederick County Board of Commissioners*, 4th Cir. Aug. 2013](https://www.govinfo.gov/content/pkg/USCOURTS-ca4-12-01980/pdf/USCOURTS-ca4-12-01980-0.pdf); [LatinoJustice case summary](https://www.latinojustice.org/en/cases/roxana-orellana-santos-v-frederick-county-board-commissioners-frederick-county-sheriff)). This is binding circuit precedent for Frederick.
 - **State non-cooperation laws have survived appellate review.** The Ninth Circuit upheld California's SB 54, which limits state and local cooperation with ICE, as consistent with anti-commandeering (April 2019). It struck one provision of a companion law, AB 103, because it singled out and burdened federal detention operations ([JURIST, Apr. 18, 2019](https://www.jurist.org/news/2019/04/federal-appeals-court-upholds-californias-sanctuary-state-law/)). The Supreme Court declined review.
 - **Inquiry limits are defensible; information-sharing bans are the exposed edge.** Localities may restrict when employees ask about status. A flat ban on employees sharing status information runs into § 1373, although district courts in Chicago, Philadelphia, New York, and San Francisco held § 1373 unconstitutional after *Murphy* ([CRS R44795](https://www.everycrsreport.com/reports/R44795.html)). *verify:* no appellate or Fourth Circuit ruling on § 1373's validity is documented in the vault.
@@ -154,6 +154,9 @@ This page was built new on 2026-09-29, not upgraded from an earlier page, so the
 - [[Howard County Immigration Facility Case Shows Limits of Local Permitting Power Against ICE Infrastructure]]
 - [[Municipal ID -- Legal Risks and Federal Preemption]]
 - [[DOJ Sues to Block Maryland Police Mask Ban]]
+
+**Cited in place, added 2026-10-18 (1)**
+- [[ICE Detainers Are Requests Not Mandates -- Fact-Checking DHS Secretary Mullin's New York Claims]]
 
 **External**
 - [DOJ complaint, United States v. Maryland, No. 1:26-cv-02719](https://www.justice.gov/opa/media/1451931/dl)

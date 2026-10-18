@@ -3,9 +3,9 @@ title: "ICE Enforcement in Maryland and Frederick"
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
 date_saved: 2026-09-23
-date_updated: 2026-10-12
-source_reviewed: 2026-10-12
-last_synthesized: 2026-10-12
+date_updated: 2026-10-18
+source_reviewed: 2026-10-18
+last_synthesized: 2026-10-18
 source: "Synthesis of enacted law, official correspondence, reporting, and retained local records"
 status: active
 confidence: medium
@@ -90,6 +90,12 @@ The older source collection includes Maryland/Virginia surge numbers, national d
 
 Before citing a number, record **source dataset, geography, date range, unit counted, denominator, criminal-history definition, and missing-data treatment**. Multiple vault notes drawn from the same article remain one source. Keep dated national figures in the research trail unless they answer a specific local question.
 
+## The federal accountability gap
+
+Frederick's September 21 request to the Attorney General for guidance on officers' duty to intervene against federal force ([[AG Investigation and Guidance Request Letter]]) sits inside a larger, national pattern: local police can be sued for misconduct under 42 U.S.C. §1983, but federal agents are largely immune, so a city cannot discipline or be sued over ICE conduct and non-cooperation policy is the main lever it has. Two recent shootings illustrate the gap and an emerging litigation strategy around it. In Minneapolis, an ICE officer shot and killed Renee Good, a U.S. citizen with no criminal record, during a January 2026 operation; the officer was not indicted or fired and remains active. Her family filed two federal suits: a Federal Tort Claims Act wrongful-death claim against the United States, and a Ku Klux Klan Act of 1871 (42 U.S.C. §§1985(3), 1986) civil-rights-conspiracy claim naming senior officials, a route chosen because the Supreme Court has sharply narrowed *Bivens* as a path to sue federal officers directly. Days after that filing, plainclothes ICE officers in Manhattan's Marble Hill neighborhood shot and wounded Oscar Belgal within seconds of surrounding his car, with his 5-year-old son in the back seat. [[Renee Good Family Lawsuits Test Federal Immunity for ICE Shootings]]; American Immigration Council, October 2026.
+
+This is out-of-state litigation, not a Maryland case, but it is the same accountability asymmetry behind the Mayor's and Chief's differing views on officer intervention during Taskers Chance, above, and it is relevant background for the pending AG guidance request: whatever the AG advises on FPD's duty to intervene will operate against a backdrop where victims of federal enforcement violence have very limited direct recourse against the officers involved.
+
 ## Council options and tradeoffs
 
 | Option | Practical value | Cost, risk, or limitation |
@@ -153,7 +159,10 @@ The unchanged prior page is [[ICE Enforcement in Maryland and Frederick - Concep
 - [[Karl Bickel]]
 - [[DOJ Sues to Block Maryland Police Mask Ban]]
 
-24 notes total: 15 archived from 120 - Immigration, plus 9 cited in place. Notes #2–#4 clip one article, as do the two vehicle notes and the two May Day notes.
+**Cited in place, added 2026-10-18 (1)**
+- [[Renee Good Family Lawsuits Test Federal Immunity for ICE Shootings]]
+
+25 notes total: 15 archived from 120 - Immigration, plus 10 cited in place. Notes #2–#4 clip one article, as do the two vehicle notes and the two May Day notes.
 
 ## Wiki navigation
 
