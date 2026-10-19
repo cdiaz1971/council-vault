@@ -142,3 +142,6 @@ summary: "Running log of page-synthesis runs: pages updated or created, sources 
 - 2026-10-18 -- Refresh: [[Housing Finance and Preservation]] -- 4 external sources checked -- No material changes; found no further Council action on the Housing Accelerator Fund beyond the September 14, 2026 workshop, and no federal LIHTC or Maryland Rental Housing Works change affecting the page's claims.
 - 2026-10-18 -- No changes: 130 - Budget and Finance, 155 - Maryland Politics (except Voting Rights and Elections above), 190 - Organizations -- nothing new since the last run.
 - 2026-10-18 -- Briefing: [[Weekly Council Briefing 2026-10-18]]
+- 2026-10-19 -- Triage deleted: City of Frederick, Washington Freedom Mark Milestone with Special Events Center Groundbreaking - The City of Frederick, MD (.gov).md.txt -- dead link
+- 2026-10-19 -- Triage deleted: Frederick development community concerned about updated tree maintenance rule - The Frederick News-Post.md.txt -- dead link
+- 2026-10-19 -- Triage deleted: Proposed data center ban downgraded to possible pause in Anne Arundel - Capital Gazette.md.txt -- dead link
