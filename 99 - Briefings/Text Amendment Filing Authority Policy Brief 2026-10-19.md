@@ -11,8 +11,9 @@ related:
   - '[[Government Operations Committee Brief 2026-10-05]]'
   - '[[Peter Brehm]]'
   - '[[Joe Adkins]]'
+  - '[[Brehm ZTA -- Text Amendment Submission Eligibility]]'
 source: "Draft PB_Text Amendment_Filing_DRAFT_20261008.docx (Google Drive, 02 - Legislation/Text amendments); vault synthesis; web research (Montgomery Planning ZTA guide, Frederick County Code 1-19-3.100.2, CitizenPortal coverage of PC-25-55 ZTA)"
-summary: "Brief on the draft LMC § 306 amendment that would end private text amendment filings and add a Council review step before Planning Commission. Covers what it changes, drafting problems, likely opposition by camp, and fixes that blunt the strongest attacks."
+summary: "Brief on CM Brehm's draft LMC § 306 amendment, presented at the October 22, 2026 workshop, that would end private text amendment filings and add a Council review step before Planning Commission. Covers what it changes, drafting problems, likely opposition by camp, and fixes that blunt the strongest attacks."
 tags:
   - topic/land-use
   - topic/governance
@@ -24,7 +25,7 @@ title: "Text Amendment Filing Authority Policy Brief 2026-10-19"
 
 ## Executive Summary
 
-The draft rewrites LMC § 306 so that only an elected City official or the Planning Division can file a text amendment, ending the right of City residents and property owners to file. It adds a Council review at a public meeting, scheduled by the Council President, before any official-filed amendment goes to the Planning Commission. The policy goal is sound and has regional precedent (Montgomery County and Frederick County both route text amendments through their councils), and it puts responsibility for citywide code changes on accountable officials. The weak points are drafting, not concept. The justification promises Council *approval* while the text says *no vote*, there is no deadline for scheduling the review, there is no rule for pending applications like the Trammell Crow data center ZTA, and nothing governs how a developer asks a Council member to sponsor. Fix those before introduction and the opposition loses its best arguments.
+Council Member Brehm's draft, presented at the Thursday, October 22 workshop, rewrites LMC § 306 so that only an elected City official or the Planning Division can file a text amendment, ending the right of City residents and property owners to file. It adds a Council review at a public meeting, scheduled by the Council President, before any official-filed amendment goes to the Planning Commission. The policy goal is sound and has regional precedent (Montgomery County and Frederick County both route text amendments through their councils), and it puts responsibility for citywide code changes on accountable officials. The weak points are drafting, not concept. The justification promises Council *approval* while the text says *no vote*, there is no deadline for scheduling the review, there is no rule for pending applications like the Trammell Crow data center ZTA, and nothing governs how a developer asks a Council member to sponsor. Fix those before introduction and the opposition loses its best arguments.
 
 ## What the Draft Changes
 
@@ -45,7 +46,7 @@ Zoning **map** amendments are untouched. A property owner can still seek a rezon
 2. **No scheduling deadline.** The Council President schedules the review "at a public meeting" with no time limit. Opponents will call this a pocket veto in one person's hands. Add a clock, for example the next available workshop or within 45 days of a complete application.
 3. **"Elected City official" includes the Mayor.** The justification speaks of "City Council members." If the Mayor is meant to keep filing authority, say so in the justification. If not, narrow the text.
 4. **Asymmetry with staff.** Division filings get notice only, while Council member filings go through a review meeting. That inverts the accountability logic in the justification. Either put Division filings through the same review or explain why staff work needs less scrutiny.
-5. **No transition clause.** The draft is silent on applications already filed by private parties, including PC25-626ZTA (Trammell Crow, data centers in M1 and M2), the Wormald § 816 amendment, and the GG Frederick first-floor residential amendment. See the legal section.
+5. **No transition clause.** The draft is silent on applications already filed by private parties, most importantly PC25-626ZTA (Trammell Crow, data centers in M1 and M2), still at the Planning Commission. The other two 2025 private filings, GG Frederick's first-floor residential amendment (G-26-10) and Wormald's § 816 amendment, have already moved through. See the legal section.
 6. **No sponsorship process.** Developers will now ask Council members to file on their behalf. Without rules, influence moves from a public application to private conversations. Add a requirement that any official-filed amendment disclose who requested or drafted it, as Montgomery County ZTAs often note introduction "at the request of" a party.
 7. **Fees.** Private applicants pay filing fees. If a Council member files a developer's amendment, the City may end up processing it for free. Address fee recovery for sponsored-on-request amendments.
 8. **Cleanup.** Garbled sentence in the Commission hearing subsection ("receipt of a complete of a text amendment application"), unlettered new list items, and the document header says 10/19 while the filename says 20261008.
@@ -58,7 +59,7 @@ These need drafting work in chat, not here. A task has been flagged.
 
 **Council commentary before the hearing: low risk.** Because text amendments are legislative rather than quasi-judicial, members discussing a concept before the Planning Commission hearing does not raise the prejudgment problem it would in a map amendment or site plan case. Keep the review limited to text amendments so this stays true.
 
-**Pending applications: moderate risk, highest political stakes.** Applying the new rule to applications already on file would end PC25-626ZTA and the other private ZTAs. Applicants generally have no vested right in a pending legislative change, but retroactive application invites a fairness and due process claim, and Quantum Maryland's suit against the County moratorium shows data center interests will litigate. A prospective-only rule is cleaner but lets the data center ZTA continue. This is a choice to make deliberately, not by silence. One middle option is to apply the new filing rule prospectively while requiring pending private applications that have not yet had a Planning Commission hearing to go through the new Council review step.
+**Pending applications: moderate risk, highest political stakes.** Applying the new rule to applications already on file would end PC25-626ZTA. Applicants generally have no vested right in a pending legislative change, but retroactive application invites a fairness and due process claim, and Quantum Maryland's suit against the County moratorium shows data center interests will litigate. A prospective-only rule is cleaner but lets the data center ZTA continue. This is a choice to make deliberately, not by silence. One middle option is to apply the new filing rule prospectively while requiring pending private applications that have not yet had a Planning Commission hearing to go through the new Council review step.
 
 **Mayor's veto.** This is an ordinance amending the LMC, so it is subject to veto. Count to five before introduction if the administration objects.
 
@@ -67,7 +68,7 @@ These need drafting work in chat, not here. A task has been flagged.
 - **Gains:** Residents generally, through earlier public visibility of code changes and fewer site-specific rewrites of citywide rules (the justification's core point). Planning staff time shifts toward public priorities, including César's missing middle, parking, and ADU package.
 - **Losses:** Developers and their counsel lose direct access. Residents and neighborhood groups also lose a formal tool, though in practice private filings come almost entirely from represented developers because a text amendment application takes money and expertise.
 - **Equity risk:** If sponsorship becomes an informal favor, well-connected developers keep their access through Council members while residents without those relationships lose theirs. The fix is a public, documented request process open to anyone, with a response deadline.
-- **Housing production risk:** Some private ZTAs have been pro-housing. GG Frederick's first-floor residential amendment (PC25-249ZTA, PC recommended 4-0) removed a real barrier to mixed-use infill. Under the draft that change would have needed a Council sponsor. The answer is that the Council did carry it (César and Nash both had drafts in July), which shows the sponsorship path works, but be ready for the argument.
+- **Housing production risk:** Some private ZTAs have been pro-housing. GG Frederick's first-floor residential amendment (PC25-249ZTA, passed 6-0 as G-26-10 on August 20) removed a real barrier to mixed-use infill. Under the draft that change would have needed a Council sponsor. The answer is that Council members were ready to carry it (César and Nash both had drafts in July), which shows the sponsorship path works, but be ready for the argument.
 
 ## Likely Opposition
 
@@ -104,7 +105,7 @@ Option B. Before introduction: resolve approval vs. no vote, add a scheduling cl
 
 ## Open Questions
 
-- Who is the sponsor? The "PB" prefix suggests CM Brehm, whose site plan review idea comes from the same diagnosis.
+- Is Brehm open to the guardrails before introduction, and does he want the site plan review ZTA and this one to move together?
 - How many text amendments have been filed in the last five years, by sponsor type, and how many were withdrawn or denied? That number is the evidence for the staff-time argument.
 - What are the current text amendment application fees, and what does staff time per application cost?
 - Should the transition clause catch PC25-626ZTA, and is the Council prepared for litigation if it does?
