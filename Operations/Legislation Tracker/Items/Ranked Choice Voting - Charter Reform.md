@@ -11,14 +11,14 @@ topics: []
 lead: "Díaz"
 queue: "Active"
 stage: "Pre-Legislative"
-next_action: "Stay close to Nash, Taylor and Brehm; review and consider co-sponsoring when a formal charter amendment surfaces."
+next_action: "At the October 22 RCV Maryland presentation, ask who would administer and tabulate a City RCV election and whether proportional RCV is proposed for the two at-large seats."
+review_on: "2026-10-22"
 blocker: ""
-review_on: ""
 migration_review: false
 coverage_added_on: "2026-10-13"
 stage_source_date: "2026-09-27"
 legal_review: "Unknown"
-tracker_sources: ["[[Council Active Threads#Ranked Choice Voting / Charter Reform]]","[[Ranked Choice Voting Increases Voter Turnout -- FairVote Research Summary]]","[[FairVote -- RCV Results in Washington DC and Maine 2026 Primaries]]","[[Ranked Choice Voting Momentum July 2026]]"]
+tracker_sources: ["[[Council Active Threads#Ranked Choice Voting / Charter Reform]]","[[Ranked Choice Voting Increases Voter Turnout -- FairVote Research Summary]]","[[FairVote -- RCV Results in Washington DC and Maine 2026 Primaries]]","[[Ranked Choice Voting Momentum July 2026]]","[[Workshop Brief 2026-10-22]]"]
 ---
 
 # Ranked Choice Voting / Charter Reform

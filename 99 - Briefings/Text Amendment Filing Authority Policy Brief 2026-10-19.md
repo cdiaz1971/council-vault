@@ -12,8 +12,9 @@ related:
   - '[[Peter Brehm]]'
   - '[[Joe Adkins]]'
   - '[[Brehm ZTA -- Text Amendment Submission Eligibility]]'
-source: "Draft PB_Text Amendment_Filing_DRAFT_20261008.docx (Google Drive, 02 - Legislation/Text amendments); vault synthesis; web research (Montgomery Planning ZTA guide, Frederick County Code 1-19-3.100.2, CitizenPortal coverage of PC-25-55 ZTA)"
-summary: "Brief on CM Brehm's draft LMC § 306 amendment, presented at the October 22, 2026 workshop, that would end private text amendment filings and add a Council review step before Planning Commission. Covers what it changes, drafting problems, likely opposition by camp, and fixes that blunt the strongest attacks."
+  - '[[Workshop Brief 2026-10-22]]'
+source: "Draft PB_Text Amendment_Filing_DRAFT_20261008.docx (Google Drive, 02 - Legislation/Text amendments, header dated 10/19); October 22 work session packet items D.1 and D.2 (header dated 10/9); vault synthesis; web research (Montgomery Planning ZTA guide, Frederick County Code 1-19-3.100.2, CitizenPortal coverage of PC-25-55 ZTA)"
+summary: "Brief on the Díaz and Brehm draft LMC § 306 amendment, presented at the October 22, 2026 workshop, that would end private text amendment filings and add a Council review step before Planning Commission. Covers what it changes, drafting problems, likely opposition by camp, and fixes that blunt the strongest attacks."
 tags:
   - topic/land-use
   - topic/governance
@@ -25,16 +26,18 @@ title: "Text Amendment Filing Authority Policy Brief 2026-10-19"
 
 ## Executive Summary
 
-Council Member Brehm's draft, presented at the Thursday, October 22 workshop, rewrites LMC § 306 so that only an elected City official or the Planning Division can file a text amendment, ending the right of City residents and property owners to file. It adds a Council review at a public meeting, scheduled by the Council President, before any official-filed amendment goes to the Planning Commission. The policy goal is sound and has regional precedent (Montgomery County and Frederick County both route text amendments through their councils), and it puts responsibility for citywide code changes on accountable officials. The weak points are drafting, not concept. The justification promises Council *approval* while the text says *no vote*, there is no deadline for scheduling the review, there is no rule for pending applications like the Trammell Crow data center ZTA, and nothing governs how a developer asks a Council member to sponsor. Fix those before introduction and the opposition loses its best arguments.
+Council President Díaz and Council Member Brehm are co-sponsoring this draft, presented at the Thursday, October 22 workshop for feedback before Planning Commission submission. It rewrites LMC § 306 so that only an elected City official or the Planning Division can file a text amendment, ending the right of City residents and property owners to file, and adds a Council step before the Planning Commission. Two versions exist: the packet version has the Council approve or deny each application by majority vote, and the later Drive draft replaces that with a non-voting review at a meeting the Council President schedules. The policy goal is sound and has regional precedent (Montgomery County and Frederick County both route text amendments through their councils), and it puts responsibility for citywide code changes on accountable officials. The weak points are drafting, not concept. The justification promises Council *approval* in both versions even though the later draft has *no vote*, there is no deadline for scheduling the review, there is no rule for pending applications like the Trammell Crow data center ZTA, and nothing governs how a developer asks a Council member to sponsor. Fix those before introduction and the opposition loses its best arguments.
 
 ## What the Draft Changes
 
-Formatting note: the Drive text export does not show strikethrough. This reading assumes items (A) and (B) are struck, "Board of Aldermen" is struck in favor of "City Council," and "receipt of a complete text amendment application" is replaced by "completion of the application review." That matches the justification. Confirm against the Word file.
+Two versions are in circulation. The October 22 packet (D.1 executive summary, D.2 text dated 10/9) says: "Upon receipt of a complete text amendment application, the Division shall submit the application to the City Council for review at a public hearing. The City Council shall approve or deny the text amendment by a majority vote at that same public hearing," and the Planning Commission hearing follows "City Council approval." That step applies to every filing, including the Division's. The later Drive draft (header dated 10/19) is the version in the table below. The executive summary leaves Fiscal Impact, Neighborhood Advisory Council Impact, and Equity Impact Statement blank.
+
+Formatting note: the text exports do not show strikethrough. This reading assumes items (A) and (B) are struck and "Board of Aldermen" is struck in favor of "City Council," which matches the justification.
 
 | Provision | Current § 306 | Draft |
 |---|---|---|
 | Who may file | City resident, City property owner, plus officials and the Division | An elected City official, or the Division |
-| Pre-review | None in code. In practice, private ZTAs have been announced at a public meeting with no vote (Wormald and GG Frederick, April 2, 2026) | Official-filed: Council review at a public meeting scheduled by the Council President, sponsor presents concept and Comprehensive Plan fit, members comment, no vote. Division-filed: notice and overview to Council only |
+| Pre-review | None in code. Packet version: binding majority vote at a public hearing, for all filings. In practice, private ZTAs have been announced at a public meeting with no vote (Wormald and GG Frederick, April 2, 2026) | Official-filed: Council review at a public meeting scheduled by the Council President, sponsor presents concept and Comprehensive Plan fit, members comment, no vote. Division-filed: notice and overview to Council only |
 | Planning Commission hearing | Scheduled on receipt of a complete application, "as soon as practicable" | Scheduled on completion of the review step |
 | Recommendation and final action | PC recommends, Mayor schedules Council hearing, Council decides by ordinance | Unchanged, with "Board of Aldermen" updated to "City Council" |
 
@@ -42,14 +45,14 @@ Zoning **map** amendments are untouched. A property owner can still seek a rezon
 
 ## Drafting Problems to Fix Before Introduction
 
-1. **Approval vs. no vote.** The justification says "Requiring Council approval before a proposed text amendment proceeds" and refers to "demonstrated viability." The text says members "will not take a formal vote." As written, the screen is discussion only, so the real gate is the filing restriction. Pick one. A non-binding review is easier to defend and keeps the Council out of a pre-hearing up-or-down on the merits. A vote gives real filtering but invites the charge that a majority can kill an idea before any public hearing.
-2. **No scheduling deadline.** The Council President schedules the review "at a public meeting" with no time limit. Opponents will call this a pocket veto in one person's hands. Add a clock, for example the next available workshop or within 45 days of a complete application.
+1. **Approval vs. no vote.** The packet version has a binding vote; the Drive draft does not. In both, the justification says "Requiring Council approval before a proposed text amendment proceeds" and refers to "demonstrated viability." The text says members "will not take a formal vote." As written, the screen is discussion only, so the real gate is the filing restriction. Pick one. A non-binding review is easier to defend and keeps the Council out of a pre-hearing up-or-down on the merits. A vote gives real filtering but invites the charge that four members can kill an idea before the Planning Commission weighs in, and labeling the step a "public hearing" brings notice requirements with it.
+2. **No scheduling deadline (Drive draft).** The Council President schedules the review "at a public meeting" with no time limit. Opponents will call this a pocket veto in one person's hands. Add a clock, for example the next available workshop or within 45 days of a complete application.
 3. **"Elected City official" includes the Mayor.** The justification speaks of "City Council members." If the Mayor is meant to keep filing authority, say so in the justification. If not, narrow the text.
-4. **Asymmetry with staff.** Division filings get notice only, while Council member filings go through a review meeting. That inverts the accountability logic in the justification. Either put Division filings through the same review or explain why staff work needs less scrutiny.
+4. **Asymmetry with staff (Drive draft).** Division filings get notice only, while Council member filings go through a review meeting. That inverts the accountability logic in the justification. Either put Division filings through the same review or explain why staff work needs less scrutiny.
 5. **No transition clause.** The draft is silent on applications already filed by private parties, most importantly PC25-626ZTA (Trammell Crow, data centers in M1 and M2), still at the Planning Commission. The other two 2025 private filings, GG Frederick's first-floor residential amendment (G-26-10) and Wormald's § 816 amendment, have already moved through. See the legal section.
 6. **No sponsorship process.** Developers will now ask Council members to file on their behalf. Without rules, influence moves from a public application to private conversations. Add a requirement that any official-filed amendment disclose who requested or drafted it, as Montgomery County ZTAs often note introduction "at the request of" a party.
 7. **Fees.** Private applicants pay filing fees. If a Council member files a developer's amendment, the City may end up processing it for free. Address fee recovery for sponsored-on-request amendments.
-8. **Cleanup.** Garbled sentence in the Commission hearing subsection ("receipt of a complete of a text amendment application"), unlettered new list items, and the document header says 10/19 while the filename says 20261008.
+8. **Cleanup and blanks.** Garbled sentence in the Commission hearing subsection ("receipt of a complete of a text amendment application"), duplicate (A) and (B) lettering, mismatched dates across versions, and blank fiscal, NAC, and equity impact fields in the executive summary.
 
 These need drafting work in chat, not here. A task has been flagged.
 
@@ -78,7 +81,7 @@ Positions below are projections from vault records and public reporting, not sta
 
 **Mayor O'Connor and the administration.** Mixed. Planning staff may welcome the workload relief the justification describes. The Mayor may read the Council President's scheduling authority and the pre-Commission Council review as a move into the Division's lane, and could veto. The draft still has the Mayor scheduling the final Council hearing, which leaves a split of scheduling power that is worth deciding on purpose.
 
-**CM Adkins.** His § 9.1 charter amendment on removing Council leadership is pending and he wants to discuss scheduling it with César. A provision that gives the Council President open-ended control over when text amendments get heard fits neatly into a "concentration of power" narrative. His October 5 memo also asked whether the LMC rewrite and housing-study text amendments should merge into one track, so he may argue process changes belong in the rewrite. A scheduling deadline takes most of the force out of the first argument.
+**CM Adkins.** His § 9.1 charter amendment on removing Council leadership is pending and he wants to discuss scheduling it with César. In the Drive draft, a provision that gives the Council President open-ended control over when text amendments get heard fits neatly into a "concentration of power" narrative. His October 5 memo also asked whether the LMC rewrite and housing-study text amendments should merge into one track, so he may argue process changes belong in the rewrite. A scheduling deadline takes most of the force out of the first argument. The packet version avoids it by giving the decision to a Council majority instead.
 
 **CM Taylor.** Her LMC modernization proposal included a 270-day pause on private text amendments once a draft code reaches Council, so she shares the diagnosis. She may still argue this belongs inside modernization rather than ahead of it. Likely gettable.
 
@@ -105,7 +108,7 @@ Option B. Before introduction: resolve approval vs. no vote, add a scheduling cl
 
 ## Open Questions
 
-- Is Brehm open to the guardrails before introduction, and does he want the site plan review ZTA and this one to move together?
+- Which version will you and Brehm present on October 22, and do you want the site plan review ZTA and this one to move together?
 - How many text amendments have been filed in the last five years, by sponsor type, and how many were withdrawn or denied? That number is the evidence for the staff-time argument.
 - What are the current text amendment application fees, and what does staff time per application cost?
 - Should the transition clause catch PC25-626ZTA, and is the Council prepared for litigation if it does?

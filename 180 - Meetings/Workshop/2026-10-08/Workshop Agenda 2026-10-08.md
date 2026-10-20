@@ -52,3 +52,4 @@ Public comment is permitted following each work session item, limited to three m
 
 ## Related Notes
 [[Workshop Brief 2026-10-08]]
+[[Workshop Minutes 2026-10-08]]
