@@ -11,7 +11,7 @@ topics: ["Land Management Code"]
 lead: "Díaz"
 queue: "Active"
 stage: "Workshop"
-next_action: "Decide whether to present the packet version (binding Council vote) or the 10/19 Drive draft (non-voting review) at the October 22 workshop."
+next_action: "Get the 10/19 revision (non-voting review) to the Clerk and members before the October 22 workshop, and present it in place of the packet version."
 blocker: ""
 review_on: "2026-10-22"
 migration_review: false
@@ -36,13 +36,14 @@ Drafts: packet items D.1 and D.2 in `G:\My Drive\City council\01 - Meetings\Work
 - August 6, 2026: Brehm announced two ZTAs, this one and Council site plan review ([[Major Site Plan Final Approval Authority (LMC Text Amendment)]]).
 - October 9, 2026: packet version with binding Council vote prepared.
 - October 19, 2026: Drive revision with non-voting review.
+- October 19, 2026: César chose to present the 10/19 revision at the workshop instead of the packet version.
 - October 22, 2026: workshop Item IV.D, feedback only.
 
 ## Analysis and open questions
 
 Full analysis, opposition map, and options in [[Text Amendment Filing Authority Policy Brief 2026-10-19]]. Drafting issues to resolve before introduction:
 
-- Which version to present: binding Council vote (packet) or non-voting review (Drive draft).
+- The packet version colleagues received has the binding vote; the revision being presented does not.
 - The justification promises Council approval even in the no-vote draft.
 - Executive summary leaves fiscal, NAC, and equity impact blank.
 - No deadline for the Council President to schedule the review meeting.

@@ -26,7 +26,7 @@ title: "Text Amendment Filing Authority Policy Brief 2026-10-19"
 
 ## Executive Summary
 
-Council President Díaz and Council Member Brehm are co-sponsoring this draft, presented at the Thursday, October 22 workshop for feedback before Planning Commission submission. It rewrites LMC § 306 so that only an elected City official or the Planning Division can file a text amendment, ending the right of City residents and property owners to file, and adds a Council step before the Planning Commission. Two versions exist: the packet version has the Council approve or deny each application by majority vote, and the later Drive draft replaces that with a non-voting review at a meeting the Council President schedules. The policy goal is sound and has regional precedent (Montgomery County and Frederick County both route text amendments through their councils), and it puts responsibility for citywide code changes on accountable officials. The weak points are drafting, not concept. The justification promises Council *approval* in both versions even though the later draft has *no vote*, there is no deadline for scheduling the review, there is no rule for pending applications like the Trammell Crow data center ZTA, and nothing governs how a developer asks a Council member to sponsor. Fix those before introduction and the opposition loses its best arguments.
+Council President Díaz and Council Member Brehm are co-sponsoring this draft, presented at the Thursday, October 22 workshop for feedback before Planning Commission submission. It rewrites LMC § 306 so that only an elected City official or the Planning Division can file a text amendment, ending the right of City residents and property owners to file, and adds a Council step before the Planning Commission. Two versions exist: the packet version has the Council approve or deny each application by majority vote, and the later Drive draft, the one being presented October 22, replaces that with a non-voting review at a meeting the Council President schedules. The policy goal is sound and has regional precedent (Montgomery County and Frederick County both route text amendments through their councils), and it puts responsibility for citywide code changes on accountable officials. The weak points are drafting, not concept. The justification promises Council *approval* in both versions even though the later draft has *no vote*, there is no deadline for scheduling the review, there is no rule for pending applications like the Trammell Crow data center ZTA, and nothing governs how a developer asks a Council member to sponsor. Fix those before introduction and the opposition loses its best arguments.
 
 ## What the Draft Changes
 
@@ -108,7 +108,7 @@ Option B. Before introduction: resolve approval vs. no vote, add a scheduling cl
 
 ## Open Questions
 
-- Which version will you and Brehm present on October 22, and do you want the site plan review ZTA and this one to move together?
+- Do you want the site plan review ZTA and this one to move together?
 - How many text amendments have been filed in the last five years, by sponsor type, and how many were withdrawn or denied? That number is the evidence for the staff-time argument.
 - What are the current text amendment application fees, and what does staff time per application cost?
 - Should the transition clause catch PC25-626ZTA, and is the Council prepared for litigation if it does?
