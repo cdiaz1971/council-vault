@@ -146,3 +146,5 @@ summary: "Running log of page-synthesis runs: pages updated or created, sources 
 - 2026-10-19 -- Triage deleted: Frederick development community concerned about updated tree maintenance rule - The Frederick News-Post.md.txt -- dead link
 - 2026-10-19 -- Triage deleted: Proposed data center ban downgraded to possible pause in Anne Arundel - Capital Gazette.md.txt -- dead link
 - 2026-10-22 -- No changes: inbox empty, nothing to triage
+- 2026-10-24 -- Left in inbox: Build an Obsidian Backend Not a Second Brain.md -- PKM/agentic-AI tooling note about César's own vault and agent workflow design, not municipal policy; out of scope for council triage.
+- 2026-10-24 -- Left in inbox: Command Center image.md -- empty topic/type/tags frontmatter, no text content beyond an embedded screenshot; destination unclear.
