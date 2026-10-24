@@ -11,7 +11,7 @@ tags: [council, parks, infrastructure, planning]
 
 # Parks and Infrastructure - In-Progress Plans
 
-This page collects planning-stage ideas and dated workflow references separated from the durable concept pages. **Current status must be checked in the live Notion Legislative Roadmap.** That system was not refreshed during this review. A historical “Pre-Legislative” or “Committee Review” label below is not a certification of September 29 status.
+This page collects planning-stage ideas and dated workflow references separated from the durable concept pages. **Current status must be checked in the [[Council Tracker]].** A historical “Pre-Legislative” or “Committee Review” label below is not a certification of September 29 status.
 
 ## Water and utility affordability
 

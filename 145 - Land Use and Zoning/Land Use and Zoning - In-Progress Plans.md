@@ -14,7 +14,7 @@ summary: Open decisions and next evidence needed for LMC review and environmenta
 
 # Land Use and Zoning - In-Progress Plans
 
-This index gathers planning questions from existing wiki notes. It does not establish current legislative status or record new Council decisions. Legislative status for anything that moves forward lives in the Notion Legislative Roadmap.
+This index gathers planning questions from existing wiki notes. It does not establish current legislative status or record new Council decisions. Legislative status for anything that moves forward lives in the [[Council Tracker]].
 
 ## LMC Review and Modernization
 

@@ -26,7 +26,7 @@ related:
 
 # Housing -- In-Progress Plans
 
-This note tracks housing plans that are **still being planned and haven't been introduced**. Once an item is introduced, its status belongs in the Notion Legislative Roadmap (the status source of truth), and the enacted or adopted result belongs on the relevant concept page.
+This note tracks housing plans that are **still being planned and haven't been introduced**. Once an item is introduced, its status belongs in the [[Council Tracker]] (the status source of truth), and the enacted or adopted result belongs on the relevant concept page.
 
 New items get added here as they turn up while working through `100 - Housing`. Each item links the concept page it relates to, and that page links back here.
 
@@ -36,7 +36,7 @@ New items get added here as they turn up while working through `100 - Housing`. 
 
 ## LMC targeted zoning amendments (four-amendment package)
 
-**Status:** Planning stage, not introduced (César, 2026-09-24). No Notion roadmap item yet.
+**Status:** Planning stage, not introduced (César, 2026-09-24).
 **Source:** [[LMC Zoning Amendments -- Personal Strategy Brief (2026-05-13)]] (internal strategy brief)
 
 The four amendments are designed as one package: open R4 and R6 to missing middle, make it pencil out with parking reform, and unlock ADUs citywide. None mandates anything or requires City spending. See [[Zoning Reform]].
@@ -51,7 +51,7 @@ The four amendments are designed as one package: open R4 and R6 to missing middl
 **Sequencing (from [[Housing Affordability Policy Brief -- 2026-09-08]]):** move the R4/R6 and parking amendments after the Housing RFI returns, so developer data answers the feasibility question. Don't wait for the comprehensive LMC review, because the Housing Certainty Act vests complete applications for five years.
 
 **Related items and context:**
-- **ADU ordinance (PC25-614ZTA, Nash).** A separate pending ordinance that overlaps Amendment 3 (it eliminates owner-occupancy) and also changes ADU parking. It was discussed at the Aug 13, 2026 work session with no vote. The Planning Commission's 4-0 recommendation differs from the draft on owner-occupancy and on a DB/DR/DBO parking exemption ([[ADU Ordinance Brief 2026-08-13]]; Notion roadmap).
+- **ADU ordinance (PC25-614ZTA, Nash).** A separate pending ordinance that overlaps Amendment 3 (it eliminates owner-occupancy) and also changes ADU parking. It was discussed at the Aug 13, 2026 work session with no vote. The Planning Commission's 4-0 recommendation differs from the draft on owner-occupancy and on a DB/DR/DBO parking exemption ([[ADU Ordinance Brief 2026-08-13]]; [[Council Tracker]]).
 - **Mayor's Affordable Housing Task Force (July 2026 final report)** rates missing middle, ADU reform, parking-minimum reduction, and faith-based by-right zoning as high urgency and near-term ([[MAHTF Final Report Policy Brief -- 2026-07-16]]).
 - **State context for Amendment 1.** No state mandate applies. Maryland's Starter and Silver Homes Act, which would have required townhouse permissions in these zones, failed in 2026. The Sept 8 brief recommends supporting its reintroduction ([[Housing Affordability Policy Brief -- 2026-09-08]]).
 
@@ -59,21 +59,21 @@ The four amendments are designed as one package: open R4 and R6 to missing middl
 
 ## Other zoning items
 
-**Status:** Planning stage, not introduced. Notion status is noted where an item has one (checked 2026-09-24).
+**Status:** Planning stage, not introduced. Tracker status is noted where an item has one.
 
 1. **Faith-owned land by right.** An LMC text amendment permitting housing on land owned by religious institutions and nonprofits without rezoning. The model is Virginia's HB 1279, including its four-year sunset, which forces a reauthorization vote against actual production data. Pair it with a designated City contact and a process map for congregations (Sept 8 brief item 4). See [[Zoning Reform]].
-2. **Inclusionary zoning (MPDU) reform.** Notion: *Inclusionary Zoning Reform*, Pre-Legislative. The Sept 8 brief's package, moved as one ordinance:
+2. **Inclusionary zoning (MPDU) reform.** Tracker: *Inclusionary Zoning Reform*, Pre-Legislative. The Sept 8 brief's package, moved as one ordinance:
    - raise payment-in-lieu from $2.00 to $12.00 per sq ft
    - replace the flat 25-unit threshold with tiers: full MPDU at 15+ units, payment-in-lieu only at 7–14, exempt below 7
 
-   Notion's blocker: whether the §19-6.1 three-year recalculation trigger (November 2026) can be accelerated ([[MPDU Reform -- Personal Strategy Brief (2026-05-13)]]; [[Housing Affordability Policy Brief -- 2026-09-08]]). See [[Zoning Reform]].
-3. **Underutilized commercial and industrial sites.** Notion: In Progress (Study & Monitoring). Identify sites suitable for mixed-use development. It's the Frederick counterpart to allowing housing by right in commercial zones (NC SB 499). See [[Zoning Reform]].
+   Tracker blocker: whether the §19-6.1 three-year recalculation trigger (November 2026) can be accelerated ([[MPDU Reform -- Personal Strategy Brief (2026-05-13)]]; [[Housing Affordability Policy Brief -- 2026-09-08]]). See [[Zoning Reform]].
+3. **Underutilized commercial and industrial sites.** Tracker: In Progress (Study & Monitoring). Identify sites suitable for mixed-use development. It's the Frederick counterpart to allowing housing by right in commercial zones (NC SB 499). See [[Zoning Reform]].
 
 ---
 
 ## Published allocation principle for affordable units
 
-**Status:** Planning stage, not introduced. No Notion item (César, 2026-09-24).
+**Status:** Planning stage, not introduced.
 **Source:** [[The Allocation Question Cannot Be Messaged Away]] (César's synthesis, Sept 22, 2026)
 
 Adopt and publish a need-based allocation principle before the first units come online from:
@@ -94,10 +94,10 @@ See [[Housing Affordability and Inequality]].
 
 ## Building types and code items
 
-**Status:** Planning stage, not introduced. Notion status is noted where an item has one (checked 2026-09-25).
+**Status:** Planning stage, not introduced. Tracker status is noted where an item has one.
 
 1. **SRO and co-living ordinance.** César's 10-section amendment package (`SRO_Proposed_Amendments.docx`).
-   - **Status:** **Drafting**, per the vault's Legislative Roadmap FY2027. There's no item in the Notion roadmap database, only a blank "SRO Ordinance" page. The Mayor's Affordable Housing Task Force explicitly endorses SRO and co-living ([[MAHTF Final Report Policy Brief -- 2026-07-16]]).
+   - **Status:** tracked in [[SRO Ordinance]] in the Council Tracker. The Mayor's Affordable Housing Task Force explicitly endorses SRO and co-living ([[MAHTF Final Report Policy Brief -- 2026-07-16]]).
    - **Choices the draft has to settle** (from César's thread, [[SRO thread]]):
      - how many residents share a bathroom or kitchen
      - property management standards
@@ -125,7 +125,7 @@ See [[Housing Affordability and Inequality]].
 
 ## Housing finance and preservation items
 
-**Status:** Planning stage, not introduced. None has a Notion roadmap item (checked 2026-09-24). All are from [[Housing Affordability Policy Brief -- 2026-09-08]].
+**Status:** Planning stage, not introduced. All are from [[Housing Affordability Policy Brief -- 2026-09-08]].
 
 1. **Frederick Housing Production Fund (equity replacement).** A joint City–HACF production fund on the Montgomery County Housing Opportunities Commission model, capitalized by a Housing Authority bond and a recurring City appropriation. The fund would take equity positions at about 5% in place of private equity's 15–20%, so stalled, entitled projects pencil without deep subsidy. Start with a resolution directing the CFO to evaluate feasibility (Tier 3 item 1). **Overlap:** Ryan Trout's outside $15M Housing Accelerator Fund proposal, presented at the September 14 Government Operations workshop, would also sit under HACF, as an independent nonprofit affiliate. It uses subordinate loans at about 6% rather than equity positions ([[A.1 Frederick Housing Fund Memo]]). The two ideas now share an institutional home and could converge. Nash is writing a draft policy (per César, 2026-09-25). See [[Housing Finance and Preservation]].
 2. **Housing Trust Fund with a dedicated revenue stream.** Consolidate the $250K Housing Accelerator CIP, the MPDU fund, and a dedicated stream into one vehicle with an annual appropriation (Tier 2 item 7). See [[Housing Finance and Preservation]].
@@ -138,7 +138,7 @@ See [[Housing Affordability and Inequality]].
 
 ## Community land trust and public land items
 
-**Status:** Planning stage, not introduced. There's no Notion roadmap item for a CLT (checked 2026-09-24).
+**Status:** Planning stage, not introduced.
 
 1. **Frederick CLT initiative.** From César's [[Frederick Community Land Trust -- Policy Brief]]. His sequence:
    1. **Staff-level research,** requestable without a vote:
@@ -156,7 +156,7 @@ See [[Housing Affordability and Inequality]].
 2. **CLT units satisfying MPDU, plus co-op ownership.** Amend Chapter 19 so developers can meet MPDU obligations by contributing land or capital to a CLT. That converts 40-year affordability into permanent affordability and gives a trust a pipeline. Use the HB 85 / SB 511 (2026) process for cooperative limited-equity housing corporations for CLT-plus-co-op projects. It needs City Attorney and Planning analysis ([[Housing Affordability Policy Brief -- 2026-09-08]], Tier 3 item 3). See [[Community Land Trusts and Social Ownership]].
 3. **Public land disposition policy.** An ordinance or standing policy requiring that surplus City land be offered first for affordable housing through a public RFP, with a CLT ground lease as an available structure. The model is Pensacola, and the local precedent is Lucas Village ([[Housing Affordability Policy Brief -- 2026-09-08]], Tier 2 item 6). **Related Council items:**
    - Nash's Charter amendment for a 30-day nonprofit right of first refusal on disposed City property. She's drafting a policy (per César, 2026-09-25), and she voted no on the April 16 Lucas Village parcel transfer over disposition process.
-   - "RFPs for City Land" (Notion: Committee Review, Government Operations).
+   - "RFPs for City Land" (Tracker: In Committee, Government Operations).
 
    See [[Community Land Trusts and Social Ownership]].
 
@@ -164,7 +164,7 @@ See [[Housing Affordability and Inequality]].
 
 ## Homelessness items
 
-**Status:** Planning stage, not introduced. No Notion roadmap item (checked 2026-09-24).
+**Status:** Planning stage, not introduced.
 
 1. **Shared housing with master leasing.** On the Camden County model, a nonprofit rather than the individual tenant holds the lease and manages matching and conflict, shifting risk off tenants with records or unstable histories. The City would act as catalyst, with nonprofits implementing:
    - fund provider training
@@ -177,7 +177,7 @@ See [[Housing Affordability and Inequality]].
 
 ## Food access items
 
-**Status:** Planning stage, not introduced. No Notion roadmap item (checked 2026-09-24). All are from César's [[Food Access Landscape -- Frederick and Peer City Models]].
+**Status:** Planning stage, not introduced. All are from César's [[Food Access Landscape -- Frederick and Peer City Models]].
 
 1. **DHCD Food Desert Area designation.** Apply for the eight qualifying tracts, by FIPS code, under USDA's half-mile low-access classification, to unlock Fresh Food Financing Initiative (HB 451) financing. It's the highest-priority near-term action and needs no new authority. The Maryland Community Business Compass shows the Golden Mile test address (1003 W Patrick St) inside the "City of Frederick – Patrick Street Corridor" Sustainable Community, which may already qualify under the initiative. See [[Food Access and SNAP]].
 2. **NourishMD recruitment.** Confirm Fresh Food Gap Scores (60 or higher qualifies) for Golden Mile addresses. The Compass tool doesn't expose the score, so it has to be checked another way. Then recruit food retailers and help them apply for the $25,000–150,000 grants. See [[Food Access and SNAP]].
@@ -188,7 +188,7 @@ See [[Housing Affordability and Inequality]].
 
 ## Childcare items
 
-**Status:** Planning stage, not introduced. No Notion roadmap item (checked 2026-09-24). All are from César's [[Childcare and Care Economy -- Frederick Peer City Research and Council Options]].
+**Status:** Planning stage, not introduced. All are from César's [[Childcare and Care Economy -- Frederick Peer City Research and Council Options]].
 
 1. **Staff zoning audit for childcare barriers.** Review the LMC for barriers to childcare center siting in commercial, mixed-use, and residential zones. Compare home-provider permitting with other home occupations and check parking rules applied to childcare. Findings would feed a targeted LMC amendment. See [[Childcare and the Care Economy]].
 2. **Data request to Frederick County:** the Child Care Scholarship waitlist and slot capacity within City limits, to tell whether the problem is supply (not enough providers) or access (families can't get in or afford it). See [[Childcare and the Care Economy]].
@@ -200,7 +200,7 @@ See [[Housing Affordability and Inequality]].
 
 ## Tenant protection items
 
-**Status:** Planning stage, not introduced. No Notion roadmap items yet. The pending Real Rent Ordinance and the Rental Licensing Program Review are tracked in Notion and summarized on [[Tenant Protections]], not here.
+**Status:** Planning stage, not introduced. The pending Real Rent Ordinance and the Rental Licensing Program Review are tracked in the [[Council Tracker]] and summarized on [[Tenant Protections]], not here.
 
 1. **Tenant protection package modeled on Rockville's Chapter 18 rewrite.** Being scoped; Ryan Trout shared the Rockville model. Candidate elements: an algorithmic rent-pricing ban, limits on payment-processing and administrative fees, relocation assistance for tenants displaced by code enforcement, and senior-specific protections ([[Housing Affordability Policy Brief -- 2026-09-08]]). See [[Tenant Protections]].
 2. **Post-revocation stewardship mechanism.** When a rental license is revoked under the licensing rewrite, add a receivership or a nonprofit/CLT right of first refusal so tenants aren't displaced ([[What Happens After License Revocation -- The Missing Piece in Frederick's Tenant Protection Stack]]; Sept 8 brief item 8). See [[Tenant Protections]] and [[Community Land Trusts and Social Ownership]].

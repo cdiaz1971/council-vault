@@ -1,7 +1,7 @@
 ---
 title: ADU Ordinance -- Owner Occupancy Elimination (PC25-614ZTA)
 date_saved: 2026-10-13
-source: https://app.notion.com/3b5109f3c155813481aee21edf16b37a
+source: "[[Council Tracker]]"
 tags:
   - council
   - tracker
@@ -18,7 +18,6 @@ next_action: "Present developed position at the August 13 work session: defend t
 blocker: "Draft ordinance conflicts with Planning Commission's 4-0 recommendation on two points: owner occupancy (draft eliminates it, PC recommends retaining it) and parking (PC recommends a DB/DR/DBO district exemption not in the draft). PC chair is on record against the draft as written. Needs Council decision before this can move to introduction."
 review_on: ""
 migration_review: false
-notion_source: https://app.notion.com/3b5109f3c155813481aee21edf16b37a
 imported_on: 2026-10-13
 stage_source_date: 2026-08-24
 legal_review: Unknown
@@ -33,8 +32,6 @@ tracker_sources:
 
 
 ## Tracker context
-
-Imported from the [Notion record](https://app.notion.com/3b5109f3c155813481aee21edf16b37a) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
 
 Discussed at the August 13, 2026 work session (workshop item, no vote). Eliminates the owner occupancy requirement, reduces parking (transit-proximity exemption, smaller space dimensions), and raises the detached ADU cap from 800 to 1,200 SF subject to Planning Commission modification approval. The owner-occupancy elimination matches Diaz's own LMC Zoning Amendments strategy brief (Track 1, Amendment Three). Planning Commission voted 4-0 in favor on March 17, 2026, with conditions the draft does not incorporate. Zero detached ADUs permitted since the 2021 amendment, the core production rationale for tonight's changes. Public comment split: a supportive account from an existing ADU owner; a critical letter from Citizens for Responsible Growth (Marjorie Rosensweig) arguing cost and character concerns; and a 15-year ALICE-income rent-and-inspection covenant proposal from Kevin Sellner, who is a CRG member in Brehm's District 3. Full countering analysis of both letters, HB 1466 legal exposure, and empirical research on mandated affordability without offsetting incentives (San Francisco rent control and inclusionary zoning, Austin ADU investor study, Portland owner-occupancy case study) developed and saved to the vault August 12, along with drafted talking points for the work session.
 

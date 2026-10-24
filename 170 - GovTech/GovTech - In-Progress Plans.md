@@ -13,7 +13,7 @@ summary: "Planning options and evidence needs already recorded in the GovTech wi
 
 # GovTech - In-Progress Plans
 
-This page collects proposals and questions already recorded in the GovTech wiki. These are planning and research options; this index does not establish approval, introduction, funding, assignments, or implementation dates. Check the Notion Legislative Roadmap for current legislative status.
+This page collects proposals and questions already recorded in the GovTech wiki. These are planning and research options; this index does not establish approval, introduction, funding, assignments, or implementation dates. Check the [[Council Tracker]] for current legislative status.
 
 ## Technology inventory and municipal strategy
 

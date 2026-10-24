@@ -31,7 +31,7 @@ related:
 
 Placemaking concerns how residents shape and use shared places: streets, parks, squares, neighborhood centers and the edges between public and private property. For Council, the practical question is which investments make everyday life more accessible, comfortable and connected—and how to sustain them after opening day.
 
-**Reviewed September 30, 2026.** This page separates adopted decisions, dated local proposals, research findings and César's strategy. Current legislative workflow remains in the live Notion Legislative Roadmap, which was not accessible during this review.
+**Reviewed September 30, 2026.** This page separates adopted decisions, dated local proposals, research findings and César's strategy. Current legislative status lives in the [[Council Tracker]].
 
 ## Definitions that change the decision
 

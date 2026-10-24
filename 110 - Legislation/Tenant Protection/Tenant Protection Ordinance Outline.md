@@ -26,7 +26,7 @@ related:
 
 # Tenant Protection Ordinance Outline
 
-This is a planning outline, not a draft. It lists the concepts, subject areas, and design questions for one tenant protection ordinance with the Real Rent Ordinance at its core. Ordinance language gets written with César in chat. Status lives in the Notion Legislative Roadmap.
+This is a planning outline, not a draft. It lists the concepts, subject areas, and design questions for one tenant protection ordinance with the Real Rent Ordinance at its core. Ordinance language gets written with César in chat. Status lives in the [[Council Tracker]].
 
 ## 1. Concept
 
@@ -210,7 +210,7 @@ Each part lists what it would cover, where the idea comes from, what Maryland al
 
 1. César picks the vehicle option (Section 3) and the tiers that go into round one.
 2. Drafting in chat, starting from the Real Rent redraft and adding parts in order.
-3. Create or update the Notion Legislative Roadmap item once the scope is set.
+3. Create or update the [[Council Tracker]] item once the scope is set.
 4. Clara finishes her survey template only for the parts César selects, using primary sources.
 
 ## Sources

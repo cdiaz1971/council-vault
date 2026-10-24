@@ -3,12 +3,12 @@ title: "Meetings -- Instructions"
 tags:
   - topic/governance
   - topic/meetings
-summary: "How to brief an agenda, process meeting notes into minutes, and keep both in sync with the Notion Legislative Roadmap. Covers the full Meeting Folder Structure convention this folder uses."
+summary: "How to brief an agenda, process meeting notes into minutes, and keep both in sync with the Council Tracker. Covers the full Meeting Folder Structure convention this folder uses."
 ---
 
 # Meetings -- Instructions
 
-This folder is the complete home for meeting prep: agendas, briefs, and minutes. Nothing in this procedure requires leaving this folder except reading the actual meeting package from Google Drive (agendas aren't drafted here, the city publishes them) and syncing status to the Notion Legislative Roadmap, which is the decided source of truth for where a piece of legislation stands.
+This folder is the complete home for meeting prep: agendas, briefs, and minutes. Nothing in this procedure requires leaving this folder except reading the actual meeting package from Google Drive (agendas aren't drafted here, the city publishes them) Legislative status is recorded in the vault's [[Council Tracker]], which is the source of truth for where a piece of legislation stands.
 
 ## Folder Structure
 
@@ -201,7 +201,7 @@ If the raw notes arrived as a malformed file (e.g., `.md.txt` extension, incompl
 
 ### Step 7 -- Sync Status
 
-If anything in these notes changes an item's legislative status (a vote, a committee action), apply the Notion sync described below. Only apply a status change when the outcome is unambiguous from the source (an explicit vote result, a stated committee action); if unclear, leave Notion alone and flag the ambiguity instead of guessing. Treat this as provisional until the official minutes confirm it -- see Official Minutes Processing below.
+If anything in these notes changes an item's legislative status (a vote, a committee action), apply the Legislative Status Sync described below. Only apply a status change when the outcome is unambiguous from the source (an explicit vote result, a stated committee action); if unclear, leave the stage alone, set `migration_review: true`, and explain the ambiguity in the initiative note instead of guessing. Treat this as provisional until the official minutes confirm it -- see Official Minutes Processing below.
 
 ### Edge Cases
 
@@ -243,17 +243,17 @@ Add the new Minutes wikilink (and Closed Session Minutes wikilink, if Step 5 app
 
 ### Step 7 -- Sync Status
 
-Apply the Legislative Status Sync below using the confirmed official vote counts. If Notion already reflects the correct status and vote count (e.g., because it was updated earlier from personal notes that turn out to match), note explicitly that no change was needed rather than leaving it ambiguous whether the sync ran.
+Apply the Legislative Status Sync below using the confirmed official vote counts. If the tracker already reflects the correct stage and vote count (e.g., because it was updated earlier from personal notes that turn out to match), note explicitly that no change was needed rather than leaving it ambiguous whether the sync ran.
 
 ### Edge Cases
 
-- **Official minutes conflict with an existing Notes file on a factual detail (e.g., an ordinance number):** correct the vault record from the official source, and check whether the incorrect detail was cited anywhere else in the vault (other notes, Notion) before assuming the error was isolated.
+- **Official minutes conflict with an existing Notes file on a factual detail (e.g., an ordinance number):** correct the vault record from the official source, and check whether the incorrect detail was cited anywhere else in the vault (other notes, tracker initiative notes) before assuming the error was isolated.
 - **Official minutes never surface for an older meeting:** leave the personal Notes file as the record; don't create a placeholder Minutes file.
 - **Packet's backup materials don't include the referenced prior minutes** (agenda says "Approval of Minutes" but no PDF is attached): note the gap, don't treat the agenda's mention as confirmation that anything happened.
 
-## Legislative Status Sync (Notion)
+## Legislative Status Sync
 
-**Notion Legislative Roadmap** (`collection://7378a456-724f-4d13-a65b-83ba14aae2f8`) is the source of truth for legislative status, not prose in vault notes. It has a Track property (Legislation / Study & Monitoring / Constituent & Admin) and a Status property scoped to each track, plus a Legal Review Cleared checkbox that is a flag, not a pipeline stage. When an item's status changes, update Notion directly.
+The [[Council Tracker]] is the source of truth for legislative status, not prose in vault notes. Each initiative is a note in `Operations/Legislation Tracker/Items/` (or a canonical topic note with `council_tracker: true`). Status lives in its properties: `track` (Legislation / Study & Monitoring / Constituent & Admin), `stage`, `queue`, `next_action`, `blocker`, and `legal_review` (advisory, not a pipeline stage). When an item's status changes, update those properties directly, record the source and its date in `stage_source_date` and the note body, and move passed items to `queue: Monitoring` or `Closed`. If a status change concerns legislation with no initiative note yet, create one from [[Templates/Council Initiative]].
 
 This sync runs as part of Agenda Briefing, Meeting Notes Processing, or Official Minutes Processing above, whenever any of them surfaces a status change. There is no scheduled task doing this automatically.
 

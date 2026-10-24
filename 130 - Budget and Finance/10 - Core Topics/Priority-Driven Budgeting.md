@@ -27,7 +27,6 @@ next_action: ""
 blocker:
 review_on: ""
 migration_review: false
-notion_source: https://app.notion.com/374109f3c1558129842ffd22afc67fa9
 imported_on: 2026-10-13
 stage_source_date: 2026-08-24
 legal_review: Unknown
@@ -122,7 +121,5 @@ Because Council may set the budget's contents by ordinance, it can require ongoi
 
 
 ## Tracker context
-
-Imported from the [Notion record](https://app.notion.com/374109f3c1558129842ffd22afc67fa9) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
 
 Co-championing with VP Nash. Near-term: align on timing and identify FY2028 entry points.

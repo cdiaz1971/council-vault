@@ -63,7 +63,7 @@ The project sits in `20 - Policy Projects/Enforcement Accountability/`. The reta
 - [[Immigration - In-Progress Plans#Private detention siting and code review|Private detention siting and code review]]
 - [[Immigration - In-Progress Plans#Surveillance technology procurement governance|Surveillance technology procurement governance]]
 
-Legislative status remains in the Notion Legislative Roadmap. These links do not establish new Council commitments or introduced projects.
+Legislative status lives in the [[Council Tracker]]. These links do not establish new Council commitments or introduced projects.
 
 ## Research and learning
 
@@ -99,7 +99,7 @@ Research pages retain their source dates. Some earlier analyses are qualified by
 - [[Maryland Community Trust Act]] - the State-law decision reference
 - [[Local Authority and Federal Preemption]] - authority and litigation questions
 
-Earlier CVA drafts, legislative-development notes, and concept snapshots remain in `_Sources`. Distinguish them from the enacted text. Legislative status lives in the Notion Legislative Roadmap.
+Earlier CVA drafts, legislative-development notes, and concept snapshots remain in `_Sources`. Distinguish them from the enacted text. Legislative status lives in the [[Council Tracker]].
 
 ## In-progress plans
 

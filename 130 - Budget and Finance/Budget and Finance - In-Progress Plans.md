@@ -13,7 +13,7 @@ summary: "Recorded budget-process proposals, oversight questions, and evidence n
 
 # Budget and Finance - In-Progress Plans
 
-This page collects proposals and unresolved questions already recorded in the budget and finance wiki. It does not establish approval, introduction, funding, staff assignments, or implementation dates. Current legislative status lives in the Notion Legislative Roadmap. Budget-cycle notes retain the dates and proposal stages of their underlying evidence.
+This page collects proposals and unresolved questions already recorded in the budget and finance wiki. It does not establish approval, introduction, funding, staff assignments, or implementation dates. Current legislative status lives in the [[Council Tracker]]. Budget-cycle notes retain the dates and proposal stages of their underlying evidence.
 
 ## Priority-driven budgeting and program inventory
 

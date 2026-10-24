@@ -85,7 +85,7 @@ These references sit in `60 - Law and Legislation/Council Process/`. Use [[Counc
 
 - [[Governance - In-Progress Plans]] - planning-stage ideas, unresolved questions, and next evidence needed
 
-Legislative status for anything that moves forward lives in the Notion Legislative Roadmap.
+Legislative status for anything that moves forward lives in the [[Council Tracker]].
 
 ## Sources and snapshots
 
@@ -96,7 +96,7 @@ Legislative status for anything that moves forward lives in the Notion Legislati
 - Surveillance technology procurement governance is tracked in [[Immigration - In-Progress Plans]], with immigration-specific data questions in [[ICE Surveillance and Data]].
 - Institutional technology the City adopts for services (AI, web services, document systems) is in 170 - GovTech, starting from [[Municipal Technology Strategy]].
 - Voting rights, redistricting, and ranked choice voting are in 155 - Maryland Politics.
-- Legislative status for any item lives in the Notion Legislative Roadmap.
+- Legislative status for any item lives in the [[Council Tracker]].
 - [[Concept Pages]] lists core pages in every Council topic folder.
 
 ## Council navigation

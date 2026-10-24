@@ -1,7 +1,7 @@
 ---
 title: "Underutilized Commercial and Industrial Sites"
 date_saved: "2026-10-13"
-source: "https://app.notion.com/374109f3c155814ba67adb0672a8dfb5"
+source: "[[Council Tracker]]"
 tags: ["council","tracker"]
 summary: "Support identification of suitable underutilized sites for mixed-use development."
 council_tracker: true
@@ -15,7 +15,6 @@ next_action: ""
 blocker: ""
 review_on: ""
 migration_review: false
-notion_source: "https://app.notion.com/374109f3c155814ba67adb0672a8dfb5"
 imported_on: "2026-10-13"
 stage_source_date: "2026-08-24"
 legal_review: "Unknown"
@@ -27,7 +26,5 @@ vehicle: "President Letter / Public Works"
 
 
 ## Tracker context
-
-Imported from the [Notion record](https://app.notion.com/374109f3c155814ba67adb0672a8dfb5) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
 
 Support identification of suitable underutilized sites for mixed-use development.

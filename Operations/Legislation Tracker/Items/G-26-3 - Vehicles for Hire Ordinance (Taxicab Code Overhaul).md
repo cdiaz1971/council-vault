@@ -1,7 +1,7 @@
 ---
 title: "G-26-3: Vehicles for Hire Ordinance (Taxicab Code Overhaul)"
 date_saved: 2026-10-13
-source: https://app.notion.com/376109f3c1558131ba60e19181abd86c
+source: "[[Council Tracker]]"
 tags:
   - council
   - tracker
@@ -17,8 +17,7 @@ stage: Passed
 next_action:
 blocker: ""
 review_on: ""
-migration_review: true
-notion_source: https://app.notion.com/376109f3c1558131ba60e19181abd86c
+migration_review: false
 imported_on: 2026-10-13
 stage_source_date: 2026-08-24
 legal_review: Cleared
@@ -36,9 +35,4 @@ legislation_ids:
 
 ## Tracker context
 
-Imported from the [Notion record](https://app.notion.com/376109f3c1558131ba60e19181abd86c) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
-
 Introduced June 4, 2026. Overhauls taxicab and vehicles-for-hire code. Key changes: marijuana removed from prohibited drug testing list for driver licensing (alcohol and other illegal substances remain); permit caps eliminated; permit fees reduced; permit validity extended from one to two years; mandatory denial periods for certain criminal convictions adjusted. Policy rationale: aligns with Maryland adult-use marijuana legalization. Introduction only -- no vote on substance.
-
-### Items to reconcile
-- Completed/withdrawn stage was still Active Pipeline in Notion; excluded from the open legislative pipeline.

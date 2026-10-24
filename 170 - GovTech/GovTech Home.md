@@ -31,7 +31,7 @@ This is the entry point for the GovTech wiki: the City's adoption of technology 
 
 - [[Municipal Tech Consent Architecture -- Contract Language, Audit Standards, and Resident Notification]]
 
-The working framework sits in `20 - Policy Projects/Technology Procurement Governance/`. It supports procurement planning and preserves proposed terms; its placement does not establish that the City has adopted them. Use [[AI Governance and Procurement]] for the core decision reference. Legislative status lives in the Notion Legislative Roadmap.
+The working framework sits in `20 - Policy Projects/Technology Procurement Governance/`. It supports procurement planning and preserves proposed terms; its placement does not establish that the City has adopted them. Use [[AI Governance and Procurement]] for the core decision reference. Legislative status lives in the [[Council Tracker]].
 
 ## Research and learning
 
@@ -56,7 +56,7 @@ These syntheses connect procurement, vendor control, human review, and community
 - [[GovTech - In-Progress Plans#Cybersecurity oversight and resilience|Cybersecurity oversight and resilience]]
 - [[GovTech - In-Progress Plans#Public accountability and digital service design|Public accountability and digital service design]]
 
-The planning index collects options already recorded in the wiki. It does not establish new Council commitments, assignments, or introduced measures. Current legislative status remains in the Notion Legislative Roadmap.
+The planning index collects options already recorded in the wiki. It does not establish new Council commitments, assignments, or introduced measures. Current legislative status lives in the [[Council Tracker]].
 
 ## Sources and historical records
 

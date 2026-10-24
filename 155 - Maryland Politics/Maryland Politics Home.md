@@ -46,7 +46,7 @@ The May 2026 synthesis sits in `40 - Research and Learning/Voting Rights and Rep
 - [[Maryland Politics - In-Progress Plans#City employee bargaining framework|City employee bargaining framework]]
 - [[Maryland Politics - In-Progress Plans#State advocacy and City dependencies|State advocacy and City dependencies]]
 
-The planning index collects options already recorded in the core pages. It does not establish sponsorship, introduction, approval, or implementation dates. Current legislative status remains in the live Notion Legislative Roadmap.
+The planning index collects options already recorded in the core pages. It does not establish sponsorship, introduction, approval, or implementation dates. Current legislative status lives in the [[Council Tracker]].
 
 ## Session and State landscape records
 

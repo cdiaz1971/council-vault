@@ -37,7 +37,7 @@ The LMC implements the City's 2020 Comprehensive Plan. State law requires each p
 | § 744 site soil, water, and air characterization | Council Member Brehm | Requires environmental site assessments at major site plan, with public disclosure | Draft ([[Brownfield Text Amendment Review -- LMC Sec. 744]]) |
 | Missing middle, parking, and ADU package | Council President Díaz | By-right missing middle in R4 and R6, parking minimum reform, ADU changes | Planning stage ([[LMC Zoning Amendments -- Personal Strategy Brief (2026-05-13)]]) |
 
-Legislative status for any amendment lives in the Notion Legislative Roadmap.
+Legislative status for any amendment lives in the [[Council Tracker]].
 
 ## Environmental site assessment (§ 744)
 

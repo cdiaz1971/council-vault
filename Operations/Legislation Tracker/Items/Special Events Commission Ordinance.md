@@ -1,7 +1,7 @@
 ---
 title: "Special Events Commission Ordinance"
 date_saved: "2026-10-13"
-source: "https://app.notion.com/3a6109f3c15581a09b23e1e46806d39d"
+source: "[[Council Tracker]]"
 tags: ["council","tracker"]
 summary: "Co-sponsored by Diaz and Brehm. Condition 2 of the Gateway rezoning ordinance (G-26-7) links this commission directly to Gateway EMP administration."
 council_tracker: true
@@ -15,7 +15,6 @@ next_action: "First read August 6, 2026, no vote. Two issues to resolve before a
 blocker: ""
 review_on: ""
 migration_review: false
-notion_source: "https://app.notion.com/3a6109f3c15581a09b23e1e46806d39d"
 imported_on: "2026-10-13"
 stage_source_date: "2026-08-24"
 legal_review: "Unknown"
@@ -31,8 +30,6 @@ tracker_sources: ["[[99 - Briefings/Events Commission Ordinance Brief]]"]
 
 
 ## Tracker context
-
-Imported from the [Notion record](https://app.notion.com/3a6109f3c15581a09b23e1e46806d39d) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
 
 Co-sponsored by Diaz and Brehm. Condition 2 of the Gateway rezoning ordinance (G-26-7) links this commission directly to Gateway EMP administration.
 

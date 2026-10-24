@@ -11,7 +11,7 @@ tags: [council, governance, planning]
 
 # Governance - In-Progress Plans
 
-Planning-stage governance ideas that have not been introduced. Legislative status for anything that moves forward lives in the Notion Legislative Roadmap.
+Planning-stage governance ideas that have not been introduced. Legislative status for anything that moves forward lives in the [[Council Tracker]].
 
 ## Planning Commission accountability
 

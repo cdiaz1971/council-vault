@@ -1,7 +1,7 @@
 ---
 title: Real Rent Ordinance
 date_saved: 2026-10-13
-source: https://app.notion.com/394109f3c15581d6b193e1768b4efd26
+source: "[[Council Tracker]]"
 tags:
   - council
   - tracker
@@ -18,7 +18,6 @@ next_action:
 blocker: Legal review outstanding on private right of action (Aleti question) and anti-circumvention provision
 review_on: ""
 migration_review: false
-notion_source: https://app.notion.com/394109f3c15581d6b193e1768b4efd26
 imported_on: 2026-10-13
 stage_source_date: 2026-08-24
 legal_review: Unknown
@@ -33,8 +32,6 @@ tracker_sources:
 
 
 ## Tracker context
-
-Imported from the [Notion record](https://app.notion.com/394109f3c15581d6b193e1768b4efd26) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
 
 City Attorney revised draft analyzed. Two legally grounded removals: private right of action (Aleti v. Metropolitan Baltimore LLC), security deposit (state preemption). Five editorial removals contestable. Counter-argument on anti-circumvention built. Peer jurisdiction research complete.
 

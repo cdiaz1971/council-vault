@@ -55,7 +55,7 @@ Idea links in the master note may name notes proposed for future development. Th
 - [[Legislative Priorities]] - retained November 2025 priorities note
 - [[Legislative Roadmap FY2027]] - dated local roadmap capture
 
-Both records remain in `_Sources`. Use them as historical evidence, not a present status report. Use [[Council Tracker]] for working status; Notion is retained as a reference archive.
+Both records remain in `_Sources`. Use them as historical evidence, not a present status report. Use [[Council Tracker]] for working status.
 
 ## Related areas
 

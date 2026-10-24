@@ -18,7 +18,6 @@ next_action: "Monitor MDE Nontidal Wetlands and Waterways Permit issuance. EMP a
 blocker: ""
 review_on: ""
 migration_review: true
-notion_source: "https://app.notion.com/3b5109f3c15581868091d3570c90ec98"
 imported_on: "2026-10-13"
 stage_source_date: "2026-08-24"
 legal_review: "Cleared"
@@ -60,9 +59,7 @@ City of Frederick Planning Department executive summaries, City Council Work Ses
 
 ## Tracker context
 
-Imported from the [Notion record](https://app.notion.com/3b5109f3c15581868091d3570c90ec98) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
-
 Zoning Map Amendment (PC24-984ZMA) passed 5-1 August 6, 2026, Adkins no, Taylor absent. Companion Annexation Resolution amendment (PC24-983ANX, amending Resolution 09-23) passed 6-0 same day. Transportation contribution raised from $500,000 to $1.5 million. Floodplain parkland dedication restructured into a 14-acre public recreation area along the Monocacy River.
 
 ### Items to reconcile
-- Follow-up scope differs: Notion limits tracking to the MDE permit; the existing vault note includes EMP, payment and parkland oversight. Confirm the intended scope.
+- Follow-up scope differs: the recorded next action limits tracking to the MDE permit; this note includes EMP, payment and parkland oversight. Confirm the intended scope.

@@ -33,7 +33,7 @@ Use [[Frederick Streets, Traffic Safety, and Transit]] for the core reference. P
 
 - [[Water Shutoff Prevention -- Frederick Existing Programs and Proposed Legislative Actions]] - April 2026 correspondence and relief proposals, in `20 - Policy Projects/Utility Affordability/`
 
-Use [[Frederick Water, Sewer, and Stormwater]] for the core reference. Recorded administrative practices and proposals retain their dates; current status belongs in the live Notion Legislative Roadmap.
+Use [[Frederick Water, Sewer, and Stormwater]] for the core reference. Recorded administrative practices and proposals retain their dates; current status belongs in the [[Council Tracker]].
 
 ### Community Bridge Restoration
 
@@ -66,7 +66,7 @@ The existing event record remains in `50 - Meetings and Events/`. Confirm the an
 
 ## In-progress plans
 
-[[Parks and Infrastructure - In-Progress Plans]] collects dated proposal and planning references. It does not replace the live Notion Legislative Roadmap or establish introduction/adoption.
+[[Parks and Infrastructure - In-Progress Plans]] collects dated proposal and planning references. It does not replace the [[Council Tracker]] or establish introduction/adoption.
 
 - [[Parks and Infrastructure - In-Progress Plans#Water and utility affordability|Water and utility affordability]]
 - [[Parks and Infrastructure - In-Progress Plans#Streets, safety and transit|Streets, safety and transit]]

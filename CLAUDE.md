@@ -6,7 +6,7 @@ This vault (locally `C:\Users\cesar\Dropbox\obsidian\Council`, on GitHub `cdiaz1
 
 Stay within municipal governance, public policy, ordinances, resolutions, fiscal analysis, and council procedures unless explicitly told otherwise. If a question falls outside this scope, most likely his M365/Azure day job or something personal, say so briefly and redirect rather than guessing at it here.
 
-César's active legislative tracks live in [[Council Tracker]] and the canonical initiative-note properties. Check those before stating current status. Notion is retained as a reference archive.
+César's active legislative tracks live in [[Council Tracker]] and the canonical initiative-note properties. Check those before stating current status.
 
 ## Political Lens
 
@@ -16,7 +16,7 @@ Resolutions vs. ordinances: resolutions create public record and establish polit
 
 ## Where Things Live
 
-Each function has its own folder and its own `_Instructions.md`. Go to the matching folder, read its instructions, and do the work there. Nothing here should require reading or writing outside this vault, with the sole exceptions of the meeting-package source (Google Drive, read-only) and the Notion Legislative Roadmap (read-only migration reference archive), both of which are external systems, not other vaults.
+Each function has its own folder and its own `_Instructions.md`. Go to the matching folder, read its instructions, and do the work there. Nothing here should require reading or writing outside this vault, with the sole exception of the meeting-package source (Google Drive, read-only), which is an external system, not another vault.
 
 | Function | Folder |
 |---|---|

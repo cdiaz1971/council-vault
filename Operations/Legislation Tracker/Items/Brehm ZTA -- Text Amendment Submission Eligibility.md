@@ -53,7 +53,7 @@ Full analysis, opposition map, and options in [[Text Amendment Filing Authority 
 - No public process or disclosure for requests that a Council member sponsor an amendment, and no fee recovery for sponsored amendments.
 - Cleanup of a garbled sentence in the Commission hearing subsection and list lettering.
 
-Drafting work is flagged for chat (TickTick, Council-Notion list).
+Drafting work is flagged for chat (TickTick, Council list).
 
 ## Sources
 

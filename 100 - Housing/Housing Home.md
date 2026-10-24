@@ -53,7 +53,7 @@ This is the entry point for the housing policy wiki. It separates durable subjec
 
 ## Housing bills in 110 - Legislation
 
-Drafted housing ordinances and resolutions, with their working notes, live in bill subfolders in 110 - Legislation. Legislative status lives in the Notion Legislative Roadmap.
+Drafted housing ordinances and resolutions, with their working notes, live in bill subfolders in 110 - Legislation. Legislative status lives in the [[Council Tracker]].
 
 - [[Housing Production Target Resolution]]
 - [[Real Rent Ordinance]]

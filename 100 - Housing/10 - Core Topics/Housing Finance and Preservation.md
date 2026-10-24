@@ -271,7 +271,7 @@ The following archive is retained for provenance and future additions. Inclusion
 **Web source (verified 2026-09-25)**
 - [Frederick County Division of Housing, "Income Limits by Program, FY 2026" (July 1, 2026)](https://www.frederickcountymd.gov/DocumentCenter/View/256909/Income-Limits-Table---All-Programs)
 
-**Status source:** Notion Legislative Roadmap, checked 2026-09-24.
+**Status source:** [[Council Tracker]]; statuses on this page were recorded 2026-09-24.
 
 28 notes total: 23 archived from 100 - Housing and 5 cited in place, plus one web source.
 

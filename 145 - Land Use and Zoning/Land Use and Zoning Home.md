@@ -39,7 +39,7 @@ This is the entry point for the land use wiki: the Land Management Code, annexat
 - [[LMC Modernization -- Libby Taylor Proposal Analysis -- 2026-04-12]]
 - [[LMC Review Commission -- Draft Resolution Analysis -- 2026-04-12]]
 
-Working proposals and decision questions sit in `20 - Policy Projects/LMC Review and Modernization/`. Their source dates describe the proposals reviewed; legislative status lives in the Notion Legislative Roadmap.
+Working proposals and decision questions sit in `20 - Policy Projects/LMC Review and Modernization/`. Their source dates describe the proposals reviewed; legislative status lives in the [[Council Tracker]].
 
 ### Environmental Site Assessment
 
@@ -97,7 +97,7 @@ Research pages retain their source dates and support the core topics. Historical
 
 - [[Land Use and Zoning - In-Progress Plans]] - planning questions and next evidence needed
 
-The planning index links working proposals and existing bill folders; legislative status remains in the Notion Legislative Roadmap.
+The planning index links working proposals and existing bill folders; legislative status lives in the [[Council Tracker]].
 
 ## Sources and historical records
 
@@ -108,7 +108,7 @@ The planning index links working proposals and existing bill folders; legislativ
 - Housing zoning reform, missing middle, parking, and ADU changes are in [[Zoning Reform]] and [[Housing Home]].
 - Data center bill work is linked above; governance of appointed bodies and public participation is in [[Governance Home]].
 - Planning Commission and Council procedure are in [[Council Process and Boards and Commissions]].
-- Legislative status for any item lives in the Notion Legislative Roadmap.
+- Legislative status for any item lives in the [[Council Tracker]].
 - [[Concept Pages]] lists core pages in every Council topic folder.
 
 ## Council navigation

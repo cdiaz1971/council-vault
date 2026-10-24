@@ -277,7 +277,7 @@ The following links preserve the original research collection. Their inclusion d
 - [[LMC Modernization -- Libby Taylor Proposal Analysis -- 2026-04-12]]
 - [[Workshop Brief 2026-09-24]]
 
-**Historical status source:** Notion Legislative Roadmap, checked September 24, 2026; retained as provenance, not current verification.
+**Status source:** [[Council Tracker]]; statuses on this page were recorded September 24, 2026.
 
 37 notes total: 30 archived (29 from 100 - Housing and 1 from 110 - Legislation) and 7 cited in place.
 

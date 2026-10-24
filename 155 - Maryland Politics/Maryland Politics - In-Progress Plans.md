@@ -13,7 +13,7 @@ summary: "Recorded City election, participation, labor, and State-advocacy optio
 
 # Maryland Politics - In-Progress Plans
 
-This page collects options and questions already recorded in the Maryland Politics core pages. It does not establish a new sponsored initiative, introduction, approval, funding, staff assignment, or implementation date. Check the live Notion Legislative Roadmap for current legislative status. State and federal developments supply context; City authority must be assessed separately.
+This page collects options and questions already recorded in the Maryland Politics core pages. It does not establish a new sponsored initiative, introduction, approval, funding, staff assignment, or implementation date. Check the [[Council Tracker]] for current legislative status. State and federal developments supply context; City authority must be assessed separately.
 
 ## City election methods and representation
 

@@ -1,7 +1,7 @@
 ---
 title: "Immigration - In-Progress Plans"
 date_saved: 2026-09-29
-source: "Notion Active Threads and vault research notes; compiled during the Immigration wiki cleanup"
+source: "Council Active Threads, Council Watch List, and vault research notes; compiled during the Immigration wiki cleanup"
 tags:
   - topic/immigration
   - topic/immigration/strategy
@@ -15,14 +15,14 @@ related:
 
 # Immigration - In-Progress Plans
 
-This note tracks immigration plans that are **still being planned and haven't been introduced**. Once an item is introduced, its status belongs in the Notion Legislative Roadmap (the status source of truth), and the enacted or adopted result belongs on the relevant core topic page.
+This note tracks immigration plans that are **still being planned and haven't been introduced**. Once an item is introduced, its status belongs in the [[Council Tracker]] (the status source of truth), and the enacted or adopted result belongs on the relevant core topic page.
 
 ---
 
 ## Municipal ID program
 
-**Status:** Idea stage, no draft ordinance (Notion Active Threads). Not on the Legislative Roadmap.
-**Direction:** Frame it as a financial-inclusion and service-access instrument, not only immigrant protection (Notion Active Threads).
+**Status:** Idea stage, no draft ordinance ([[Council Watch List]]). Not on the Legislative Roadmap.
+**Direction:** Frame it as a financial-inclusion and service-access instrument, not only immigrant protection ([[Council Watch List]]).
 
 - Research and a sample act live in `110 - Legislation/Municipal ID/`: [[Memo for municipal id]], [[Municipal ID -- Best Practices Checklist]], [[Municipal ID -- Equity and Inclusion Rationale]], [[Municipal ID -- Legal Risks and Federal Preemption]], [[Sample municipal id legislation]].
 - The December 2025 memo proposes a feasibility study before legislation.
@@ -32,7 +32,7 @@ See [[Immigrant Legal Services and Local Support]] for the existing provider sys
 
 ## Institutional Solidarity Pact
 
-**Status:** Not started. Organizations identified, formal convening not begun (Notion Active Threads). Non-legislative.
+**Status:** Not started. Organizations identified, formal convening not begun ([[Council Active Threads]]). Non-legislative.
 
 - A standing coordination agreement among Frederick immigrant-serving and civic organizations (Centro Hispano, SSCM, AACF, Mobilize Frederick, East Frederick Rising) for joint response to federal enforcement.
 - Framed in [[Municipal Sovereignty Against Federal Enforcement Infrastructure -- Data, Land, and Technology as the Three Fronts]] and [[Zoning as Resistance -- Cities Using Land Use Law to Block ICE Detention Centers]] as more durable than any single City ordinance.
@@ -40,7 +40,7 @@ See [[Immigrant Legal Services and Local Support]] for the existing provider sys
 
 ## Additional immigrant legal-services capacity
 
-**Status:** Research-stage option in [[Immigrant Legal Services -- Peer City Funding Models and Frederick Options]], not a verified introduced measure or a new commitment by Council. The Notion Legislative Roadmap remains the source for active legislative status.
+**Status:** Research-stage option in [[Immigrant Legal Services -- Peer City Funding Models and Frederick Options]], not a verified introduced measure or a new commitment by Council. The [[Council Tracker]] is the source for active legislative status.
 
 - Assess whether a dedicated appropriation or expansion of existing grants should purchase consultations, applications, full representation, or referral coordination.
 - Reconcile existing Community Promotion and SECURE awards, and establish the adopted funding, spending, and any carryforward for the Legal Advocacy Fund identified in the proposed FY2026 budget before treating a new fund as necessary.
@@ -49,7 +49,7 @@ See [[Immigrant Legal Services and Local Support]] for the existing provider sys
 
 ## City immigrant advisory channel
 
-**Status:** Research-stage concept in [[Standing Immigrant Advisory Commission as Low-Cost Governance Infrastructure]]. No current introduction or adoption is established by the material reviewed; check the Notion Legislative Roadmap before assigning legislative status.
+**Status:** Research-stage concept in [[Standing Immigrant Advisory Commission as Low-Cost Governance Infrastructure]]. No current introduction or adoption is established by the material reviewed; check the [[Council Tracker]] before assigning legislative status.
 
 - Assess whether a City advisory body or a structured partnership with the existing County Immigrant Affairs Commission would fill a demonstrated gap in resident input.
 - The research note proposes a concept memo on scope, composition, mandate, and the Portland example. Define the relationship to the County commission and existing community organizations before drafting.
@@ -58,7 +58,7 @@ See [[Immigrant Legal Services and Local Support]] for the existing provider sys
 
 ## City data minimization and disclosure controls
 
-**Status:** Research-stage option in [[Municipal Sovereignty Against Federal Enforcement Infrastructure -- Data, Land, and Technology as the Three Fronts]]. Current introduction or adoption is not established by the reviewed sources; check the Notion Legislative Roadmap before assigning active status.
+**Status:** Research-stage option in [[Municipal Sovereignty Against Federal Enforcement Infrastructure -- Data, Land, and Technology as the Three Fronts]]. Current introduction or adoption is not established by the reviewed sources; check the [[Council Tracker]] before assigning active status.
 
 - Inventory City data, retention schedules, vendor access, and sharing before treating a new ordinance as necessary.
 - Translate the enacted CVA and applicable HB711 requirements into procedures; distinguish HB264's state-agency scope and October 1, 2026 effective date.
@@ -76,7 +76,7 @@ See [[Immigrant Legal Services and Local Support]] for the existing provider sys
 
 ## Surveillance technology procurement governance
 
-**Status:** Research and policy-design option reflected in [[Municipal Sovereignty Against Federal Enforcement Infrastructure -- Data, Land, and Technology as the Three Fronts]] and [[Surveillance Technology Governance -- Frederick Policy Brief]]. Current legislative status requires the Notion Legislative Roadmap.
+**Status:** Research and policy-design option reflected in [[Municipal Sovereignty Against Federal Enforcement Infrastructure -- Data, Land, and Technology as the Three Fronts]] and [[Surveillance Technology Governance -- Frederick Policy Brief]]. Current legislative status is in the [[Council Tracker]].
 
 - Assess Council review, public notice, necessity and effectiveness standards, access restrictions, audits, and enforceable vendor exit terms.
 - Use [[Municipal Tech Consent Architecture -- Contract Language, Audit Standards, and Resident Notification]] as design material, not evidence that its terms are already adopted.
@@ -92,4 +92,4 @@ See [[Immigrant Legal Services and Local Support]] for the existing provider sys
 - [[Land Use and Zoning Home]] - land-use framework
 - [[Governance Home]] - police surveillance, procurement, and civic participation
 
-Research dates and recorded planning statuses are preserved. Legislative status and any subsequent action require the Notion Legislative Roadmap.
+Research dates and recorded planning statuses are preserved. Legislative status and any subsequent action belong in the [[Council Tracker]].

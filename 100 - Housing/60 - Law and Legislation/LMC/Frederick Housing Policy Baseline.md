@@ -82,7 +82,7 @@ ADU regulations are in LMC Section 802, substantially revised by Ordinance G-21-
 
 **Note:** The owner-occupancy requirement and the 10% cap in planned developments are restrictions that more progressive ADU codes have eliminated, and they limit production compared to peer models.
 
-**Pending and required changes:** Maryland's 2025 ADU law (HB 1466) requires compliant local ADU rules by October 1, 2026. The City's pending ADU ordinance, PC25-614ZTA, would remove owner-occupancy and change ADU parking; it has not been adopted. Check the Notion Legislative Roadmap for its current status and [[Zoning Reform]] for the State requirements.
+**Pending and required changes:** Maryland's 2025 ADU law (HB 1466) requires compliant local ADU rules by October 1, 2026. The City's pending ADU ordinance, PC25-614ZTA, would remove owner-occupancy and change ADU parking; it has not been adopted. Check the [[Council Tracker]] for its current status and [[Zoning Reform]] for the State requirements.
 
 ---
 
@@ -156,7 +156,7 @@ Pricing set so total monthly mortgage payment does not exceed 30% of threshold i
 
 **Tenant protections (local):** Frederick licenses rental units ($240 per unit for a two-year license, with registration and inspection provisions), and a rewrite of the rental licensing ordinance is under review. There is no just cause eviction ordinance, relocation assistance requirement, or rent stabilization beyond Maryland state law. May 2025 rent stabilization drafts in Google Drive are early research, not introduced policy. See [[Tenant Protections]].
 
-**Junk fees ordinance:** Not enacted. The Real Rent Ordinance, César's all-in rental pricing proposal, is pending; check the Notion Legislative Roadmap for its status. Preemption risk and covered-unit definitions need City Attorney review.
+**Junk fees ordinance:** Not enacted. The Real Rent Ordinance, César's all-in rental pricing proposal, is pending; check the [[Council Tracker]] for its status. Preemption risk and covered-unit definitions need City Attorney review.
 
 **Community land trust:** No CLT relationship or city-CLT partnership in city code. No public land disposition policy directing surplus parcels to affordable housing use.
 

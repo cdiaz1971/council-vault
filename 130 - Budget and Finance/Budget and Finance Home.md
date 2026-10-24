@@ -32,7 +32,7 @@ This is the entry point for the budget and finance wiki. Durable decision refere
 - [[Priority-Driven Budgeting -- Frederick Application]]
 - [[Priority-Driven Budgeting -- Strategic Position]]
 
-The working cluster sits in `20 - Policy Projects/Priority-Driven Budgeting/`. These April 2026 notes preserve application and strategy, including coordination with Nash; their location does not establish adoption or a new implementation timetable. Use [[Priority-Driven Budgeting]] for the core reference. Legislative status lives in the Notion Legislative Roadmap.
+The working cluster sits in `20 - Policy Projects/Priority-Driven Budgeting/`. These April 2026 notes preserve application and strategy, including coordination with Nash; their location does not establish adoption or a new implementation timetable. Use [[Priority-Driven Budgeting]] for the core reference. Legislative status lives in the [[Council Tracker]].
 
 ## Budget cycles
 
@@ -96,7 +96,7 @@ These records do not establish current tax rates, debt capacity, credit ratings,
 - [[Maryland Politics Home]] - State policy and aid context
 - [[Concept Pages]] - core pages across Council topic folders
 
-Current legislative status for budget-related items lives in the Notion Legislative Roadmap.
+Current legislative status for budget-related items lives in the [[Council Tracker]].
 
 ## Council navigation
 

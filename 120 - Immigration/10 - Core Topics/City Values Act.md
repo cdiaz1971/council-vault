@@ -30,7 +30,6 @@ next_action: "Confirm Legal Department guidance, department protocols, and §33-
 blocker: ""
 review_on: ""
 migration_review: false
-notion_source: "https://app.notion.com/3e4109f3c1558146ab3dc0af6e9c469c"
 imported_on: "2026-10-13"
 stage_source_date: "2026-09-23"
 legal_review: "Cleared"
@@ -65,7 +64,7 @@ For the legal limits on any amendment, read [[Local Authority and Federal Preemp
 | First annual report | Due by **March 31, 2027** |
 | Legal Department guidance, department protocols, §33-12 signage | **Not documented.** Open next action in [[Council Tracker]] |
 
-Sources: [[City Values Act -- Enacted Ordinance G-26-1]]; [Notion roadmap item](https://app.notion.com/p/3e4109f3c1558146ab3dc0af6e9c469c); [Frederick News-Post on passage](https://www.fredericknewspost.com/news/politics_and_government/levels_of_government/municipal/alderman_council/frederick-council-passes-city-values-act-setting-boundaries-on-immigration-enforcement/article_996471b3-1cd6-57ce-a1bc-7477ecbc6f93.html).
+Sources: [[City Values Act -- Enacted Ordinance G-26-1]]; [Frederick News-Post on passage](https://www.fredericknewspost.com/news/politics_and_government/levels_of_government/municipal/alderman_council/frederick-council-passes-city-values-act-setting-boundaries-on-immigration-enforcement/article_996471b3-1cd6-57ce-a1bc-7477ecbc6f93.html).
 
 ## Definitions (§33-3)
 
@@ -219,7 +218,6 @@ The earlier concept page is preserved unchanged as [[City Values Act - Concept S
 - [CBS Baltimore, Sept. 7, 2026](https://www.cbsnews.com/baltimore/news/frederick-maryland-ice-enforcement-concerns/)
 - [CBS Baltimore, Sept. 17, 2026](https://www.cbsnews.com/baltimore/news/maryland-congressional-delegation-demands-answers-ice-clash-in-frederick/)
 - [Maryland Bay News, Sept. 7, 2026](https://mdbaynews.com/2026/09/07/frederick-ice-clash-taskers-chance-warrant-no-arrests/)
-- [Notion Legislative Roadmap, City Values Act (G-26-1)](https://app.notion.com/p/3e4109f3c1558146ab3dc0af6e9c469c)
 
 ## Wiki navigation
 
@@ -230,7 +228,5 @@ The earlier concept page is preserved unchanged as [[City Values Act - Concept S
 
 
 ## Tracker context
-
-Imported from the [Notion record](https://app.notion.com/3e4109f3c1558146ab3dc0af6e9c469c) on October 13, 2026. The imported stage is a recorded status, not a fresh verification of the current agenda. Original properties are retained in [[Council Tracker - Notion Capture 2026-10-13]].
 
 Ordinance G-26-1, adds Chapter 33, Article II (Immigration Enforcement Guidance) to the City Code. Introduced March 19, 2026 by Council President Díaz. Passed 7-0 April 2, 2026. Signed by Mayor O'Connor April 6, 2026, certified for legal sufficiency by City Attorney Rachel Gray. Sets a judicial-warrant standard for ICE access to non-public City facility areas and City property, limits City employee inquiries into immigration status, and (§33-13) authorizes the Mayor to seek cost recovery from DHS/ICE/CBP for enforcement-related City costs. Cost recovery is enacted law under G-26-1 itself; the March 20 draft that first proposed it separately is archived as a superseded source, not tracked as separate legislation. Applies to all City employees, including FPD, for immigration-enforcement-related activity; does not carve out FPD. Q2 2026, the first required quarterly report under §33-11(b), reported no ICE activity (per Díaz; not yet corroborated by a filed copy of the report). Full text and concept page: vault 10 - Council/120 - Immigration/City Values Act.md and _Sources/City Values Act -- Enacted Ordinance G-26-1.md. Open: preemption exposure relative to the Community Trust Act litigation (Gahler v. Moore), and whether Legal Department guidance/protocols/signage have actually been produced.
