@@ -1,7 +1,7 @@
 ---
 title: "MPDU Modernization and Housing Fund Capitalization"
 date_saved: 2026-09-28
-source: "City Code Ch. 19, Ch. 4, Ch. 8, Ch. 12.5; vault synthesis (MPDU strategy brief, MAHTF brief, Public Works Committee brief July 28, FY2026 Q3 budget analysis, housing finance notes); Notion Legislative Roadmap"
+source: "City Code Ch. 19, Ch. 4, Ch. 8, Ch. 12.5; vault synthesis (MPDU strategy brief, MAHTF brief, Public Works Committee brief July 28, FY2026 Q3 budget analysis, housing finance notes); Council Tracker"
 tags:
   - topic/housing
   - topic/housing/affordability
@@ -36,7 +36,7 @@ Frederick's inclusionary program has good bones (12.5% set-aside, 40-year contro
 - **Payment in lieu.** Developer may pay instead of building, at a per-square-foot rate on every unit in the project, **$2.00 "as of November 2, 2023"** (§ 19-6.1(b)(2)). Paid before the first building permit (§ 19-6.1(d)). Using the fee forfeits the density bonus (§ 19-6.1(f)).
 - **Recalculation.** DPW collects square-footage data "as soon as practicable." After three years of data, the Council "by ordinance or resolution will establish a formula": affordability gap (median attached home price over three years vs. what a 70% FCAMI buyer can finance at FHA rates) × 12.5% ÷ average new-unit square footage (§ 19-6.1(b)(3)).
 - **Fund.** Fees go to the City Housing Fund (§ 19-18), with ten authorized uses including LIHTC financing and assistance to households below MPDU incomes. Annual fee report required (§ 19-6.1(g)).
-- **Vehicle correction.** Chapter 19 is City Code, not the LMC. The Notion roadmap lists the vehicle as "Ordinance (LMC amendment)." Only the density bonus reference (LMC § 405(d)) touches the LMC. Fee, threshold, and fund changes do not need Planning Commission referral, which saves roughly three months.
+- **Vehicle correction.** Chapter 19 is City Code, not the LMC. The Council Tracker lists the vehicle as "Ordinance (LMC amendment)." Only the density bonus reference (LMC § 405(d)) touches the LMC. Fee, threshold, and fund changes do not need Planning Commission referral, which saves roughly three months.
 
 ## The numbers that frame the fight
 

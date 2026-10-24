@@ -1,7 +1,7 @@
 ---
 title: "Water and Sewer Affordability Ordinance"
 date_saved: 2026-09-28
-source: "City Code Ch. 25 and § 8-11; Charter Art. XI; vault synthesis (Nash water shutoff memo, Government Operations brief June 22, budget minutes April 8, water and sewer concept page); Notion Legislative Roadmap; Maryland PU § 7-309, Env. § 9-202 (HB 923, 2018); Baltimore Water4All; press coverage of Frederick rates"
+source: "City Code Ch. 25 and § 8-11; Charter Art. XI; vault synthesis (Nash water shutoff memo, Government Operations brief June 22, budget minutes April 8, water and sewer concept page); Council Tracker; Maryland PU § 7-309, Env. § 9-202 (HB 923, 2018); Baltimore Water4All; press coverage of Frederick rates"
 tags:
   - topic/affordability
   - topic/affordability/utilities
@@ -38,7 +38,7 @@ Water is the one household bill the City sets directly. The Council fixes the ra
 
 ## Roadmap items this consolidates
 
-| Notion item | Status |
+| Tracker item | Status |
 |---|---|
 | Water account interest waiver (§ 25-2(f)) | Workshopped at Government Operations June 22, 2026. Not on the roadmap as its own item and no later action found in the vault. **Confirm whether it advanced.** |
 | Authority to Modify or Waive Utility Turn-On/Turn-Off Fees | Pre-Legislative, not drafted |

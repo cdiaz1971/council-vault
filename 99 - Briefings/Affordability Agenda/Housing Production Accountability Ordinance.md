@@ -1,7 +1,7 @@
 ---
 title: "Housing Production Accountability Ordinance"
 date_saved: 2026-09-28
-source: "Vault synthesis (Resolution 26-15 and its workshop materials, MAHTF brief), City Code Ch. 19 and Ch. 12.5, Charter Art. VI(A), Notion Legislative Roadmap"
+source: "Vault synthesis (Resolution 26-15 and its workshop materials, MAHTF brief), City Code Ch. 19 and Ch. 12.5, Charter Art. VI(A), Council Tracker"
 tags:
   - topic/housing
   - topic/housing/production

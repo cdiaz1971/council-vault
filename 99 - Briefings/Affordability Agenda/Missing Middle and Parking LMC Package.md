@@ -1,7 +1,7 @@
 ---
 title: "Missing Middle and Parking LMC Package"
 date_saved: 2026-09-28
-source: "Frederick Land Management Code (Table 404-1, Sec. 607 and Table 607-1, Sec. 802); vault synthesis (LMC Zoning Amendments strategy brief, Housing Policy Baseline, Housing Affordability Policy Brief Sept 8, ADU brief, Housing Certainty Act synthesis, parking and zoning concept pages); Notion Legislative Roadmap"
+source: "Frederick Land Management Code (Table 404-1, Sec. 607 and Table 607-1, Sec. 802); vault synthesis (LMC Zoning Amendments strategy brief, Housing Policy Baseline, Housing Affordability Policy Brief Sept 8, ADU brief, Housing Certainty Act synthesis, parking and zoning concept pages); Council Tracker"
 tags:
   - topic/housing
   - topic/housing/zoning
@@ -46,7 +46,7 @@ This is the only item in the agenda that changes what can be built, and it is th
 
 **3. Faith-owned and nonprofit land by right.** A targeted amendment allowing residential development on land owned by religious institutions and nonprofits without rezoning, with a four-year sunset on the Virginia HB 1279 model so reauthorization is voted on against real production data ([[Housing -- Faith-Owned Land as Infill Housing Opportunity]]).
 
-**4. ADUs: back the Nash ordinance.** PC25-614ZTA (Nash) eliminates owner occupancy, reduces ADU parking, and raises the detached cap to 1,200 square feet. It is in workshop, with the Planning Commission's 4-0 recommendation diverging on owner occupancy and a downtown parking exemption. Supporting it is faster than carrying a duplicate. Confirm with Rachel Gray whether Maryland's ADU law (HB 1466, local compliance deadline October 1, 2026, per the Notion roadmap) independently requires removing the deed-restriction requirement, since that deadline is this week.
+**4. ADUs: back the Nash ordinance.** PC25-614ZTA (Nash) eliminates owner occupancy, reduces ADU parking, and raises the detached cap to 1,200 square feet. It is in workshop, with the Planning Commission's 4-0 recommendation diverging on owner occupancy and a downtown parking exemption. Supporting it is faster than carrying a duplicate. Confirm with Rachel Gray whether Maryland's ADU law (HB 1466, local compliance deadline October 1, 2026, per the Council Tracker) independently requires removing the deed-restriction requirement, since that deadline is this week.
 
 **Pairing.** Every unit this package unlocks in the 7 to 14 unit range contributes nothing to affordability unless the MPDU threshold changes. That is why the tiered threshold in [[MPDU Modernization and Housing Fund Capitalization]] should be adopted first.
 
@@ -90,4 +90,4 @@ Taylor authored LMC modernization; Nash carries ADUs; Hempel Irani and Shackelfo
 
 - LMC Table 404-1, § 607 and Table 607-1, § 802.
 - [[LMC Zoning Amendments -- Personal Strategy Brief (2026-05-13)]], [[Frederick Housing Policy Baseline]], [[Housing Affordability Policy Brief -- 2026-09-08]], [[ADU Ordinance Brief 2026-08-13]], [[Maryland Housing Certainty Act ↔ Frederick LMC Reform Synthesis]], [[Housing -- In-Progress Plans]], [[Zoning Reform]], [[Parking Reform]].
-- Notion Legislative Roadmap entries for PC25-614ZTA, the Major Site Plan Final Approval Authority amendment, and G-26-11.
+- [[Council Tracker]] entries for PC25-614ZTA, the Major Site Plan Final Approval Authority amendment, and G-26-11.

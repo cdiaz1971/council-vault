@@ -1,7 +1,7 @@
 ---
 title: "Real Rent Ordinance Revisions"
 date_saved: 2026-09-28
-source: "Vault synthesis (Real Rent drafts, legal review prep, peer research, workshop materials), City Code Ch. 12.5, Notion Legislative Roadmap, Rockville and Takoma Park codes, Maryland case law and bills"
+source: "Vault synthesis (Real Rent drafts, legal review prep, peer research, workshop materials), City Code Ch. 12.5, Council Tracker, Rockville and Takoma Park codes, Maryland case law and bills"
 tags:
   - topic/housing
   - topic/housing/tenant-protections
@@ -29,7 +29,7 @@ Real Rent is the most advanced affordability ordinance César owns, and the clos
 
 ## Current status
 
-- **Notion:** In Committee, Priority Critical, Legal Review Cleared unchecked. Blockers: private right of action (Aleti) and anti-circumvention.
+- **Status (as of September 28):** In Committee, Priority Critical, legal review not recorded as cleared. Blockers: private right of action (Aleti) and anti-circumvention.
 - **Workshop:** July 9, 2026 full council workshop held ([[Workshop Brief 2026-07-09]]).
 - **Draft on file:** [[Real Rent Ordinance]] (City Attorney's code-amendment format, §§ 12.5-89 to 12.5-99) and the earlier [[Rental Junk Fee Elimination Ordinance (Legally Hardened)]].
 - **Scope boundary per César:** this item does not depend on Council Member Hempel Irani's rental licensing rewrite. It is drafted to stand on the licensing article as it exists today.
@@ -84,7 +84,7 @@ Draft § 12.5-94(a) invents its own application fee rule. Maryland already regul
 ### Revision 7. Renumber and correct the record
 
 - **Section numbers.** Rodent Control (G-26-6, passed 6-0 August 6, 2026) now occupies Chapter 12.5, Article VI, including §§ 12.5-91, 12.5-92, and 12.5-95. The Real Rent draft uses §§ 12.5-89 to 12.5-99 in the same article. Redesignate Real Rent as Article VII with new numbers. The Clerk and Rachel Gray should assign.
-- **Talking points.** [[Real Rent Ordinance Workshop Talking Points]] states that HB 1257 authorizes stronger local protections and that Rachel Gray "has completed legal review." HB 1257 (2025) and its successor HB 80 (2026) both stalled in the Senate, and Notion shows Legal Review Cleared unchecked. Both lines should come out before the next public session.
+- **Talking points.** [[Real Rent Ordinance Workshop Talking Points]] states that HB 1257 authorizes stronger local protections and that Rachel Gray "has completed legal review." HB 1257 (2025) and its successor HB 80 (2026) both stalled in the Senate, and the Council Tracker does not show legal review as cleared. Both lines should come out before the next public session.
 - **Peer research.** [[Real Rent Ordinance - Maryland Peer Jurisdiction Research]] describes Montgomery County Bill 6-25 as a junk fee ordinance. It is not. Bill 6-25 (enacted April 2025) removed the landlord-tenant exemption from the county's consumer protection law so the county can sue landlords with patterns of deceptive practices and code neglect. It is a useful model for enforcement, not for fee structure. The in-state fee-structure models are Takoma Park (Chapter 6.16) and Rockville (Chapter 18).
 - **Effective date.** The draft says 120 days after adoption for new leases and renewals. The talking points say January 1, 2027. Pick one. With the timeline below, 120 days after a March 2027 adoption lands around July 2027, which lines up with most lease renewal cycles.
 
@@ -115,7 +115,7 @@ The September 17 public criticism of Nash by Hempel Irani and Shackelford is a c
 | When | Step |
 |---|---|
 | Oct 2026 | Redraft with Revisions 1 to 7 in chat. Send to Rachel Gray and Iris Annan with a specific question list: coverage of exempt units, restitution-as-condition, algorithmic ban, § 8-213 interaction, new article number. |
-| Nov 2026 | Legal response. Update Notion Legal Review Cleared if cleared. Brief Shackelford and Brehm individually. |
+| Nov 2026 | Legal response. Set `legal_review: Cleared` in the Council Tracker if cleared. Brief Shackelford and Brehm individually. |
 | Dec 3 or Dec 17, 2026 | First Read. |
 | Jan 7 or Jan 21, 2027 | Second Read and vote. Hold to Third Read (February) only if amendments are needed. |
 | Within 2 weeks | Mayor signs or vetoes. Override window 30 days. |

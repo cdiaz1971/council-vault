@@ -1,7 +1,7 @@
 ---
 title: "Frederick Affordability Agenda 2026-2029"
 date_saved: 2026-09-28
-source: "Charter and City Code of the City of Frederick (G: drive, 09 - City Documents & Templates); Frederick Land Management Code; full 10 - Council vault synthesis; United For ALICE 2026 Maryland Data Sheet and United Way of Frederick County 2026 ALICE report (2024 data); Notion Legislative Roadmap FY2027 (queried 2026-09-28); Maryland statutes, case law, and 2025-2026 bill records; peer jurisdiction codes and press"
+source: "Charter and City Code of the City of Frederick (G: drive, 09 - City Documents & Templates); Frederick Land Management Code; full 10 - Council vault synthesis; United For ALICE 2026 Maryland Data Sheet and United Way of Frederick County 2026 ALICE report (2024 data); Council Tracker records (as of 2026-09-28); Maryland statutes, case law, and 2025-2026 bill records; peer jurisdiction codes and press"
 tags:
   - topic/affordability
   - topic/housing
@@ -67,7 +67,7 @@ District 2, César's district, has a poverty rate 1.5 times the county's and a f
 
 ### 1.2 What the Council has already done
 
-In the first ten months of the term the Council passed the City Values Act (G-26-1, 7-0), the Housing Certainty Act implementation ordinance (G-26-11, 5-0), the vertical mixed-use first-floor residential amendment (6-0), and the Gateway rezoning (5-1). Real Rent was workshopped July 9. The Affordable Housing Action Resolution (Resolution 26-15) passed 6-0 on October 1, 2026. Nash's ADU ordinance and Brehm's Housing Solutions Fund ordinance are in workshop and committee. Four water-shutoff items sit on the Government Operations workplan. (Notion Legislative Roadmap, queried September 28, 2026.)
+In the first ten months of the term the Council passed the City Values Act (G-26-1, 7-0), the Housing Certainty Act implementation ordinance (G-26-11, 5-0), the vertical mixed-use first-floor residential amendment (6-0), and the Gateway rezoning (5-1). Real Rent was workshopped July 9. The Affordable Housing Action Resolution (Resolution 26-15) passed 6-0 on October 1, 2026. Nash's ADU ordinance and Brehm's Housing Solutions Fund ordinance are in workshop and committee. Four water-shutoff items sit on the Government Operations workplan. (Council Tracker, as of September 28, 2026.)
 
 ### 1.3 Why an agenda now
 
@@ -241,7 +241,7 @@ The Mayor's task force is a mayoral instrument. Recommendations the Council adop
 - **Transit.** TransIT is a County service. The Council's transportation-cost lever is land use and parking, which is in Item 5. MARC Brunswick Line frequency is a State ask.
 - **Property tax relief.** The homestead credit is already at 105% (Code § 8-6). Renters' credits are a State program. A NOAH preservation tax rebate on the Charlotte model is a candidate for phase 2 under Charter Art. VII, § 10(d), once the State authority is confirmed.
 - **Food access.** The strongest near-term move, DHCD Food Desert Area designation for eight qualifying tracts, is an administrative application, not legislation. See section 8.
-- **WAVE Fines Act.** Referenced in memory as a council priority, but no draft or research note exists in the vault or Notion. Not included pending a source document.
+- **WAVE Fines Act.** Referenced in memory as a council priority, but no draft or research note exists in the vault. Not included pending a source document.
 
 ---
 
@@ -264,11 +264,11 @@ These are letters and requests, not legislation. Most go out in October 2026.
 Found while building this agenda. Each should be fixed in the source note or talking points before it is repeated.
 
 1. **HB 1257 did not become law.** [[Real Rent Ordinance Workshop Talking Points]] says it "explicitly authorizes local jurisdictions to enact stronger protections." It passed the House in 2025 and stalled in the Senate; its 2026 successor, HB 80, passed the House and stalled after a March 25 Senate hearing.
-2. **"Rachel Gray has completed legal review"** (same talking points) conflicts with Notion, where Legal Review Cleared is unchecked for Real Rent.
+2. **"Rachel Gray has completed legal review"** (same talking points) conflicts with the Council Tracker, where Real Rent's legal review is not recorded as cleared.
 3. **Montgomery County Bill 6-25 is not a junk fee law.** [[Real Rent Ordinance - Maryland Peer Jurisdiction Research]] describes it as one. It removed the landlord-tenant exemption from the county's consumer protection law so the county can sue landlords with patterns of deceptive practices and code neglect.
 4. **The Aleti analysis understates the risk.** [[Real Rent Ordinance - Legal Review Prep]] reads Aleti as limited to implied rights. The opinion says a home-rule jurisdiction may create a judicial cause of action "only where the General Assembly gives a local government the authority to do so."
 5. **Real Rent and Rodent Control section collision** is resolved in fact: Rodent Control passed as Article VI on August 6. Real Rent must move to a new article.
-6. **MPDU reform is not an LMC amendment.** Notion lists the vehicle as "Ordinance (LMC amendment)." Chapter 19 is City Code; only the density bonus touches LMC § 405(d).
+6. **MPDU reform is not an LMC amendment.** The Council Tracker lists the vehicle as "Ordinance (LMC amendment)." Chapter 19 is City Code; only the density bonus touches LMC § 405(d).
 7. **Code version.** The City Code file on the G: drive is the March 22, 2026 export and predates G-26-1, G-26-6, and G-26-11.
 
 ---
@@ -283,7 +283,7 @@ Found while building this agenda. Each should be fixed in the source note or tal
 - Does LMC § 811(d) conflict with Land Use § 4-216 as applied to licensed large family child care homes?
 - Does LMC § 802(c)(1) intentionally omit R6 from the ADU district list?
 - What water and sewer rate schedule was adopted for FY2026 to FY2030?
-- Does Maryland's ADU law (HB 1466, per Notion) require removing the ADU deed restriction by October 1, 2026?
+- Does Maryland's ADU law (HB 1466, per the Council Tracker) require removing the ADU deed restriction by October 1, 2026?
 
 ---
 
@@ -294,7 +294,7 @@ Found while building this agenda. Each should be fixed in the source note or tal
 - [[Affordability Agenda -- Council Authority Tiering by Domain]], the ALICE domain map
 - [[Housing -- In-Progress Plans]], the running list of planning-stage items
 - [[Frederick City Council Legislative Process]]
-- [[Legislative Roadmap FY2027]] and the Notion Legislative Roadmap (status source of truth)
+- [[Council Tracker]] (status source of truth)
 
 ---
 
@@ -303,7 +303,7 @@ Found while building this agenda. Each should be fixed in the source note or tal
 ### Primary documents
 
 - The Charter of the City of Frederick, `THE_CHARTER.docx`; Charter Amendment Resolution 24-18 (`Code/24-18.pdf`); The Code of the City of Frederick, 1966 (March 22, 2026 export); Frederick, MD Land Management Code (PDF). All in `G:\My Drive\City council\09 - City Documents & Templates`.
-- Notion Legislative Roadmap FY2027, `collection://7378a456-724f-4d13-a65b-83ba14aae2f8`, queried September 28, 2026.
+- [[Council Tracker]] initiative records, as of September 28, 2026.
 
 ### Vault
 
