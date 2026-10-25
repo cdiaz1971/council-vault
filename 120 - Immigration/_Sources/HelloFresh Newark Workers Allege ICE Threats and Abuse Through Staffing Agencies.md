@@ -18,7 +18,7 @@ related:
 A class action by hundreds of former temp workers at HelloFresh's Newark warehouse alleges supervisors used threats to call ICE, slurs, bathroom denial, and an English-only rule to control immigrant workers, with three staffing agencies and HelloFresh each blaming the other.
 
 ## Key Points
-The suit was filed September 23 (Documented reports it was filed over two years ago per HelloFresh's statement, so the filing date refers to the class action stage) on behalf of hundreds of former workers at the Newark, New Jersey meal-kit facility, mostly Latino immigrants. Allegations cover discrimination, harassment, and forced labor, mostly from 2021 to 2023.
+The class action was filed on September 23 (HelloFresh says the suit was filed more than two years ago, which points to 2024) on behalf of hundreds of former workers at the Newark, New Jersey meal-kit facility, mostly Latino immigrants. Allegations cover discrimination, harassment, and forced labor, mostly from 2021 to 2023.
 
 **Coercion through immigration status.** Both HelloFresh and staffing-agency supervisors allegedly threatened to report workers to ICE if they objected, sometimes telling them to tolerate abuse to avoid deportation. Workers report supervisors denied bathroom breaks, in some cases until workers urinated on themselves, and a manager allegedly used a baseball bat to drive Latino workers back to the line. Workers describe urinary tract infections from holding it through shifts.
 
