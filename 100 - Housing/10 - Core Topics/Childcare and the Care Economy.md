@@ -2,8 +2,9 @@
 title: Childcare and the Care Economy
 type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland]
-date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: high
 tags: [childcare, workforce, economic-development, land-use, council]
@@ -42,6 +43,12 @@ Source: [Maryland Family Network, Frederick County Demographics Report FY2026](h
 
 This replaces the older concept page’s **392 infant slots** and **$23,808 combined annual cost** figures. Those were based on an earlier source/year and should not be reused as current.
 
+### A separate county study: City hotspots and a County pilot
+
+A 2025 Frederick County feasibility study, reported by WYPR in June 2026, uses county rather than statewide data and reaches a geographically specific conclusion directly relevant to the City: it identifies the **Route 40/Golden Mile corridor** as one of the county's sharpest childcare hotspots, alongside Thurmont, Walkersville, and Middletown, with some regions seeing as many as 3.3 children per licensed slot. It reports licensed capacity fell from 10,352 slots on January 1, 2020 to 9,485 on January 1, 2024, an 8.4% decline, while the county's population of young children is projected to keep growing; a separate county dataset reports an 18.1% drop in the number of childcare centers and a 6.1% drop in capacity from 2017 to 2024. The study estimates ALICE households face a combined $25 million annual affordability gap if all of them sought care, with childcare costs averaging close to 19% of household income against a federal benchmark of 7%.[^frederickstudy] These figures come from a different survey than the Maryland Family Network FY2026 report in the table above; cite each with its own source and date rather than combining them into one number.
+
+In response to the state's 2025 Child Care Scholarship enrollment freeze (see below), Frederick County launched its own pilot scholarship for families with four-year-olds. This is a County, not City, program. It is a model for the City's navigation and employer-coordination role in the Authority map below, not a program the City funds or administers.[^frederickstudy]
+
 ## Interpret the capacity carefully
 
 Licensed or regulated capacity is not the same as:
@@ -73,6 +80,8 @@ Evaluate every proposal across four linked constraints:
 ## Child Care Scholarship status
 
 Maryland’s Child Care Scholarship program is administered by the State. The Office of Early Childhood reports a waitlist created by high demand and says that, beginning July 1, 2026, a small number of families have been moved from the waitlist as funds allow. Current income rules, priority categories, provider requirements, and application instructions should be checked on the [State Child Care Scholarship page](https://earlychildhood.marylandpublicschools.org/child-care-providers/child-care-scholarship-program) before public guidance is issued.
+
+Three groups are exempt from the waitlist regardless of the enrollment freeze: families receiving Temporary Cash Assistance or SSI, siblings of a child already enrolled, and, as of July 1, 2026, families experiencing homelessness under HB 849 (Chapter 594 of 2026). MSDE reports that close to 3,000 children have been offered scholarships through these exemptions since the waitlist began; eligible families get 30 days to submit documentation after notification, and families not covered by an exemption stay on the waitlist.[^ccsupdate]
 
 The City can assist with outreach, trusted navigation, employer coordination, and provider readiness. It cannot promise eligibility, award timing, or reimbursement levels.
 
@@ -158,6 +167,11 @@ For each proposal, ask:
 New Mexico began offering no-cost child care to all families regardless of income on **November 1, 2025**, the first state to do so ([Governor's announcement](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)). Programs that pay at least $18 an hour to entry-level staff receive higher incentive rates. **SB 241**, signed March 10, 2026, put the program in statute and funds it from the state's Early Childhood Trust Fund ([ECECD 2026 session summary](https://www.nmececd.org/2026-legislative-session/)). The funding model is a State-level choice built on a large trust fund. Frederick cannot replicate it, though it is relevant to State advocacy.
 
 A companion law is more directly useful to the City. **SB 96** (effective July 1, 2026) requires localities to treat licensed child care homes like other residences under zoning. It bars special fees, permits, or added parking requirements for them, bars restricting centers in commercial, mixed-use, and multifamily zones, and bars homeowners' associations from prohibiting child care homes ([ECECD 2026 session summary](https://www.nmececd.org/2026-legislative-session/)). It gives the City's land-use review above a concrete checklist. Before drafting, compare it with Maryland's existing protections for family child care homes and with [[Child Care Supply LMC Amendment]]. Source note: [[New Mexico Universal Child Care]].
+
+## References
+
+[^frederickstudy]: WYPR, ["Childcare study shows areas of great need in Frederick County,"](https://www.wypr.org/wypr-news/2026-06-02/childcare-study-shows-areas-of-great-need-in-frederick-county) June 2, 2026, reporting Frederick County's 2025 childcare feasibility study.
+[^ccsupdate]: Maryland State Department of Education, [Child Care Scholarship Program Update](https://www.marylandpublicschools.org/stateboard/Documents/2026/0728/Child-Care-Scholarship-Program-Update-A.pdf), presented to the State Board of Education, July 28, 2026; Maryland General Assembly, [HB 849, Chapter 594 of 2026](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0849?ys=2026RS), homelessness waitlist exemption, effective July 1, 2026.
 
 ## Retained research trail
 

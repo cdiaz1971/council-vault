@@ -3,12 +3,12 @@ title: AI Governance and Procurement
 type: council-decision-reference
 area: GovTech
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-12
-source_reviewed: 2026-10-12
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
 status: active
 confidence: medium
 tags: [council, govtech, ai, procurement, vendor-contracts, language-access, transparency]
-last_synthesized: 2026-10-12
+last_synthesized: 2026-10-25
 ---
 
 # AI Governance and Procurement
@@ -46,6 +46,9 @@ The governance risk of an AI tool depends less on how powerful it is than on how
 - **Trust.** Across five countries, public trust, more than technical sophistication, determined how residents saw local AI; the strongest cases paired visible benefits with retained human review.
 - **Disclosure alone is not enough.** New York City's algorithmic tool list, required since 2020, is incomplete and inconsistent ([[NYC Algorithmic Tool Registry Shows Gap Between Disclosure and Governance]]).
 - **Consent failures.** Arizona State turned faculty lectures into AI modules without consent; the modules were inaccurate and unsourced.
+- **Peer-city productivity data.** San Diego's CIO reports 98% of technology staff say AI saves time and improves accuracy, framing AI literacy as a standard job requirement rather than optional; the acknowledged tradeoff is reduced knowledge-building at entry levels ([[San Diego AI Adoption -- 98 Percent Tech Staff Approval]]). Utah's pilot of Claude Code at state agencies saved about 40 developer hours over four weeks, one of the first quantified sub-federal coding-assistant results ([[Utah Claude Code Pilot -- State Government AI Productivity Gains]]).
+- **Staff augmentation model.** Code for America is piloting an AI tool with Anthropic to help caseworkers navigate public benefits policy faster, framed as reducing staff cognitive load rather than replacing judgment or making citizen-facing determinations ([[Code for America and Anthropic -- AI Pilot for Public Benefits Caseworkers]]).
+- **Modernization is organizational, not technical.** A public-sector consulting analysis argues local AI and IT modernization stalls on three myths: that it is an IT project leadership can delegate, that people adopt whatever gets built, and that change management is training tacked on at the end; useful diagnostic questions for Council to ask before approving a tool purchase are what problem it solves, who owns the business process, how adoption will be measured, and what happens when priorities change ([[Government Modernization Fails When Treated as an IT Project]]).
 
 ## Language access
 
@@ -53,7 +56,7 @@ AI translation can extend language access at public meetings, in 911 calls, and 
 
 ## Public input and information
 
-AI can make large volumes of public comment usable, as in Hamburg, Bogotá, and New York City planning, if people decide and the synthesis is published for residents to check ([[Civic Participation and Co-Governance]]). Residents increasingly receive City information through AI systems that summarize it, so publishing accurate information is no longer the last step.
+AI can make large volumes of public comment usable, as in Hamburg, Bogotá, New York City planning, and California's state-level comment process, if people decide and the synthesis is published for residents to check ([[Civic Participation and Co-Governance]]; [[AI for Public Comment Analysis -- California's Approach]]). Residents increasingly receive City information through AI systems that summarize it, so publishing accurate information is no longer the last step.
 
 ## Procurement and contract requirements
 

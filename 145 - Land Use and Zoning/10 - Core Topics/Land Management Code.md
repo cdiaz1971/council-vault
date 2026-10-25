@@ -3,8 +3,9 @@ title: Land Management Code
 type: council-decision-reference
 area: Land Use and Zoning
 jurisdiction: [City of Frederick, Maryland]
-date_updated: 2026-10-02
-source_reviewed: 2026-10-02
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium
 tags: [council, land-use, zoning, lmc, comprehensive-plan, text-amendments, form-based-code]
@@ -36,8 +37,11 @@ The LMC implements the City's 2020 Comprehensive Plan. State law requires each p
 | § 838 first-floor residential | GG Frederick Holdings (applicant) | Allows ground-floor residential in mixed-use buildings in MU-1 and MU-2 on sites over one acre | Announced April 2, 2026; to Planning Commission ([[LMC Text Amendment -- MU First-Floor Residential (GG Frederick Holdings)]]) |
 | § 744 site soil, water, and air characterization | Council Member Brehm | Requires environmental site assessments at major site plan, with public disclosure | Draft ([[Brownfield Text Amendment Review -- LMC Sec. 744]]) |
 | Missing middle, parking, and ADU package | Council President Díaz | By-right missing middle in R4 and R6, parking minimum reform, ADU changes | Planning stage ([[LMC Zoning Amendments -- Personal Strategy Brief (2026-05-13)]]) |
+| § 306 text amendment filing authority | Council President Díaz and Council Member Brehm | Limits who may file a text amendment to an elected City official or the Planning Division, removing resident and property-owner filing; adds a Council step before the Planning Commission hearing | Presented at the October 22, 2026 workshop ([[Brehm Text Amendment Filing ZTA Draft 2026-10-08]]) |
 
 Legislative status for any amendment lives in the [[Council Tracker]].
+
+The § 306 draft would not change zoning map amendments, only who may file a text amendment and when Council reviews it. Two versions exist: the October 22 packet version sends every filed amendment to a Council vote before the Planning Commission hearing; a later revision replaces the vote with a non-voting Council review at a public meeting the Council President schedules, with Planning Division filings needing only notice. Neither version sets a deadline for scheduling that Council step, and neither states a transition rule for applications already filed, including PC25-626ZTA. Frederick County and Montgomery County both reserve ZTA initiation to the governing body or its council, which the draft cites as peer practice. Full analysis: [[Text Amendment Filing Authority Policy Brief 2026-10-19]].
 
 ## Environmental site assessment (§ 744)
 

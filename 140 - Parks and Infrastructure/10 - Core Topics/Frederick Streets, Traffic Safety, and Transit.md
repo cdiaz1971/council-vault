@@ -4,11 +4,11 @@ aliases:
   - "Transportation Equity -- Frederick"
   - "Transportation Safety Policy"
 date_saved: 2026-09-23
-last_synthesized: 2026-10-18
+last_synthesized: 2026-10-25
 source: synthesis
 type: council-decision-reference
-date_updated: 2026-10-18
-source_reviewed: 2026-10-18
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
 jurisdiction: [Frederick, Maryland]
 status: active
 confidence: medium
@@ -69,6 +69,8 @@ Of the 3,841 failing ramps, 3,282 reportedly lacked detectable warnings. That co
 
 Planning estimates in that brief are $5.0–5.8 million for priority sidewalk segments, $11.2–53.4 million for grade-differential treatments, and $19.5–20.5 million for ramps. These are FY2026 planning prices, not bids. Confirm overlap, alternative treatments, contingencies and phasing before adding them into a single backlog. The cited $3.5 million in committed funding also needs reconciliation between operating funds, CIP and any expected recoveries.
 
+Montgomery County's council introduced a bill in October 2026, co-sponsored by all 11 members, to cut the property-owner petition needed to waive a sidewalk hearing from a majority to 25%, and to skip the hearing entirely when a project would not affect private property. Under the prior rule a majority of property owners along a route could block the hearing, which in practice gave half a block a veto; the county's Vision Zero coordinator says few sidewalk projects are uncontentious. Frederick's own petition, waiver and hearing rules for sidewalk projects are not documented anywhere in this vault; that is a gap worth filling, since a majority-consent rule of the kind Montgomery is replacing would quietly bottleneck any complete-routes program above. [[Montgomery County Bill Would Lower Sidewalk Hearing Waiver Threshold to 25 Percent]].
+
 A defensible first phase links homes to schools, bus stops, parks and essential services; fixes serious hazards; and publishes the ranking and rationale for exceptions. The briefing's proposed scoring gives 50 points to condition and the other 50 to schools, Equity Emphasis Areas, downtown and transit. Test whether that weighting actually reaches residents with the greatest barriers.
 
 ## Safety tools: select treatments for the corridor
@@ -90,6 +92,8 @@ San Francisco's two-mile car-free conversion of the Upper Great Highway into Sun
 Frederick County's current FAQ says Transit services are free. The local question is therefore how to improve **frequency, service span, reliability, connections and disability access while sustaining funding**, rather than whether to introduce free fares. [County Transit FAQ](https://frederickcountymd.gov/m/FAQ).
 
 Ask the County for route-level headways, early/late and weekend service, missed trips, crowding, on-time performance, transfer waits and rider priorities. City work can remove stop-access barriers, provide suitable waiting areas, improve crossings and coordinate housing and destinations around useful service. Measure door-to-door access, including the walk or roll to the stop.
+
+At the October 8, 2026 Council work session, County Transit reported 34 bus shelters system-wide, 25 of them inside the City, and flagged that the 2030 census could move Frederick County into the large urban transit system funding category, which would change applicable federal funding rules. Both figures are a County presentation, not a City commitment, and should be confirmed against the County's own service plan before use in a funding ask. [[Workshop Minutes 2026-10-08]].
 
 The retained $95-per-revenue-hour example yields $98,800 for 1,040 additional annual hours (four hours × five days × 52 weeks). It is an **illustrative calculation**, not a County quote: the agency/mode record, wage year, vehicles, layover, deadhead, supervision and marginal cost were not established. Obtain an operating plan and recurring funding estimate before making a budget commitment. [[Bus Service]].
 
@@ -119,6 +123,8 @@ Before introduction or a vote, resolve:
 - The evidence behind an equity conclusion, including disability, income, language and geography.
 
 Draft fine amounts and bans are not current public instructions. Track the initiative in [[Parks and Infrastructure - In-Progress Plans]] and verify live status before describing it as introduced or adopted.
+
+Illinois, New Jersey, California, Pennsylvania, Michigan, Ohio and Massachusetts all moved in 2026 to tier e-bike and e-scooter rules by speed and power rather than regulate by device label, after a Johns Hopkins Children's Center study found riders 11 to 14 account for nearly one in four e-scooter injuries. Illinois' enacted law, effective January 2027, bars anyone under 15 from riding any e-bike and requires a license, registration and insurance for devices over 28 mph, which it also bans from sidewalks and standard bike lanes; that threshold leaves low-speed Class 1 operation untouched while targeting higher-speed e-moto devices, the same line Brehm's Class 1 sidewalk-access compromise draws. Licensing, registration and age-minimum rules are being set at the state level in these examples, which raises a preemption question to confirm with the City Attorney before Frederick drafts anything on who may ride rather than where a device may operate. [[States Move to Tier E-Bike Rules by Speed as Youth Injuries Rise]].
 
 ## Options and tradeoffs
 
@@ -202,6 +208,11 @@ Primary links support specific statements. Retained research illustrates options
 
 **Cited in place, added 2026-10-18 (1)**
 - [[Great Highway Car-Free Conversion Backlash and San Francisco Prop G]]
+
+**Cited in place, added 2026-10-25 (3)**
+- [[Montgomery County Bill Would Lower Sidewalk Hearing Waiver Threshold to 25 Percent]]
+- [[States Move to Tier E-Bike Rules by Speed as Youth Injuries Rise]]
+- [[Workshop Minutes 2026-10-08]]
 
 46 notes total. The classification estimate of ~17 matches the 140-folder core exactly; the 7 additional movers (2 ambiguous 140 notes, 4 misfiled from Housing and Maryland Politics, and 1 added from Housing during the Urbanism run) and the 20 in-place citations are reconciled in the findings note; one further FHWA road-diet note was folded in during the October 4, 2026 synthesis pass.
 

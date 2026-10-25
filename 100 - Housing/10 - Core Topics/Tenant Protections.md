@@ -1,12 +1,12 @@
 ---
 title: "Tenant Protections"
 date_saved: 2026-09-24
-date_updated: 2026-10-09
+date_updated: 2026-10-25
 source: synthesis
 status: active
 type: council-decision-reference
-source_reviewed: 2026-10-09
-last_synthesized: 2026-10-09
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 tags:
   - topic/housing
   - topic/housing/tenant-rights

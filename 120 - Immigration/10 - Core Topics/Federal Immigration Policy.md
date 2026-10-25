@@ -3,9 +3,9 @@ title: "Federal Immigration Policy"
 date_saved: 2026-09-23
 source: synthesis
 type: council-decision-reference
-date_updated: 2026-10-12
-source_reviewed: 2026-10-12
-last_synthesized: 2026-10-12
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 jurisdiction: [federal, Maryland, Frederick]
 status: active
 confidence: medium
@@ -44,6 +44,8 @@ MPI estimates **15.8 million unauthorized immigrants in mid-2024**. That is a da
 The ACLU's review of mass deportation enforcement describes more than 2,000 federal, state, and local agencies participating, over 25,000 federal agents plus 287(g)-deputized officers, about $240 billion in congressional enforcement funding, roughly 6.1 million people losing legal status, and a reported 75% drop in the naturalization rate over two years. These are advocacy-organization figures with recommendations attached (a path to citizenship, replacing ICE, ending functional immunity for agents); use them as attributed claims and check each figure against the underlying federal data before citing it as fact (verify) ([ACLU](https://www.aclu.org/news/immigrants-rights/we-launched-the-first-comprehensive-civil-rights-review-of-mass-deportations-heres-how-its-impacting-democracy); [[ACLU Report Finds Mass Deportation Enforcement Is Eroding Democratic Safeguards]]).
 
 Support for work authorization is not confined to the left. More than 250 Latino leaders, including a former chair of the Republican National Hispanic Assembly, signed a Comite de 100 letter asking the President and Congress for work permits and legal protections for long-term undocumented workers, citing polling that 75% of Latino voters would favor a candidate who backs work permits ([[Comite de 100 Letter Shows Bipartisan Latino Demand for Work Permits]]). The polling is the coalition's own citation, not an independent survey reviewed here.
+
+A more current and more credible count than the ACLU figures above comes from the Migration Policy Institute, a nonpartisan research organization: roughly 980,000 ICE and CBP deportations from January 20, 2025 through July 31, 2026, about 580,000 formal removals and about 410,000 voluntary departures or withdrawn admission applications, built on a new methodology because official federal reporting has slowed. Most of those deported had no criminal conviction, and many had two or more years of US residence; among people first arrested at the border, 62% had been in the country more than a year. This count is well below DHS's own public claim of more than 3 million combined deportations and self-departures, a gap MPI attributes to DHS counting unverified self-departures. *verify:* MPI's page could not be fetched directly during this review; the figures come from MPI's published excerpts and secondary reporting, and MPI's total self-departure estimate was not independently retrieved. [MPI fact sheet, October 2026](https://www.migrationpolicy.org/publication/us-deportations-second-trump); [[MPI Estimates 980,000 Deportations in First 18 Months of Second Trump Term]].
 
 For Frederick, request aggregated service-demand indicators from trusted providers rather than attempting to enumerate residents by immigration status. National changes can affect mixed-status households, employers and schools, but do not establish the size or direction of a particular local effect.
 
@@ -134,8 +136,9 @@ Primary sources are linked beside the claims they support. Original research not
 - [[If Being Born Here Stopped Being Enough -- Birthright Citizenship and the 14th Amendment]]
 - [[SBA Bars Green Card Holders From Guaranteed Small Business Loans]]
 - [[H.R. 1 Ends Medicaid for Refugees and Asylees in Maryland]]
+- [[MPI Estimates 980,000 Deportations in First 18 Months of Second Trump Term]]
 
-8 notes total, all archived from 120 - Immigration.
+9 notes total, all archived from 120 - Immigration.
 
 ## Wiki navigation
 

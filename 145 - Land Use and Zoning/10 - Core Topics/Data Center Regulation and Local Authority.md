@@ -3,9 +3,9 @@ title: Data Center Regulation and Local Authority
 type: council-decision-reference
 area: Land Use and Zoning
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
-date_updated: 2026-10-18
-source_reviewed: 2026-10-18
-last_synthesized: 2026-10-18
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium
 tags: [council, land-use, zoning, data-centers, moratorium, annexation, community-benefits]
@@ -56,7 +56,7 @@ This page supports Council decisions about whether, where, and on what terms dat
 - Montgomery County: 18-month moratorium on hyperscale data centers, passed unanimously in July 2026 ([WTOP](https://wtop.com/montgomery-county/2026/07/montgomery-county-council-approves-18-month-moratorium-on-data-centers/)).
 - Prince George's County: two-year moratorium extended July 8, 2026 ([[Prince Georges County Extends Two-Year Moratorium on Hyperscale Data Centers]]).
 - Howard County: moratorium and task force ([CCAN](https://ccanactionfund.org/howard-county-approves-data-center-moratorium-and-task-force-legislation/)).
-- Anne Arundel County: moratorium approved 7-0 on October 5, 2026, through January 31, 2028 or until permanent legislation is adopted, with a work group to recommend rules on energy, water, utilities, noise, air, and economic development. The bill began as an outright ban and was narrowed at the County Executive's request; projects already in development can generally continue ([WMAR](https://www.wmar2news.com/news/region/anne-arundel-county/anne-arundel-county-approves-moratorium-on-new-data-centers-through-2028); [[Anne Arundel County Downgrades Data Center Ban to 15-Month Moratorium]]).
+- Anne Arundel County: moratorium approved 7-0 on October 5, 2026 (the ban-to-moratorium amendment was adopted in September; October 5 was the final vote on the amended bill), running through January 31, 2028 or until permanent legislation is adopted, whichever comes first, with a work group to recommend rules on energy, water, utilities, noise, air, and economic development. The bill began as an outright ban and was narrowed at the County Executive's request. Grandfathering is broader than pending projects: it also lets existing campuses build future phases on adjacent or adjoining properties, which is what let Microsoft keep developing at Annapolis Junction Business Park after testifying for the moratorium. The bill also repeals the county's personal property tax assessment reduction for qualified data storage centers, pairing the pause with removal of an existing tax incentive ([WMAR](https://www.wmar2news.com/news/region/anne-arundel-county/anne-arundel-county-approves-moratorium-on-new-data-centers-through-2028); [[Anne Arundel County Downgrades Data Center Ban to 15-Month Moratorium]]; [[Anne Arundel Moratorium Grandfathers Adjacent Phases and Repeals Data Center Tax Break]]).
 - Calvert County: Amazon withdrew a 2.4 million square foot proposal after voters removed three commissioners in the June 2026 primary ([[Amazon Withdraws from Calvert Cliffs and Maryland Data Center Political Tide Shifts]]).
 
 ## Local authority under State law
@@ -115,6 +115,8 @@ This page supports Council decisions about whether, where, and on what terms dat
 | Ban NDAs for City officials on development projects | Secrecy and distrust | Developers may resist early disclosure |
 | Community benefit agreement without a zoning freeze | Capturing value if a project proceeds | Benefits are only as good as enforcement |
 | Permanent prohibition | Ends the question locally | Forecloses revenue and conditioned approval |
+| Decide the adjacent-phase question deliberately | Moratoriums can quietly leave campus expansion open, as Anne Arundel's adjacent-phase exemption did for Microsoft | Either choice is a real tradeoff; silence defaults to allowing expansion |
+| Pair a moratorium with repeal of any local tax incentive for data centers | Fiscal lever separate from zoning, less exposed to vesting claims under the Housing Certainty Act framework | Requires checking whether the City or County offers a comparable assessment break |
 
 ## Decision framework
 
@@ -150,6 +152,10 @@ This page supports Council decisions about whether, where, and on what terms dat
 
 - [[Data Center Backlash Becomes a Bipartisan Midterm Issue]]
 - [[Data Center Investment Has Surpassed the Railroad Boom as a Share of GDP]]
+
+## Cited in place, added 2026-10-25
+
+- [[Anne Arundel Moratorium Grandfathers Adjacent Phases and Repeals Data Center Tax Break]]
 
 ## Research and bill work
 
