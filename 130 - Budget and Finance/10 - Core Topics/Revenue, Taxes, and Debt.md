@@ -3,8 +3,9 @@ title: Revenue, Taxes, and Debt
 type: council-decision-reference
 area: Budget and Finance
 jurisdiction: [City of Frederick, Frederick County, Maryland]
-date_updated: 2026-10-02
-source_reviewed: 2026-10-02
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium-high
 tags: [council, budget, revenue, property-tax, personal-property-tax, tif, bonds, pilot]
@@ -43,6 +44,7 @@ TIF freezes a district's assessed value and dedicates future growth above that b
 - Short-term borrowing is capped at $1 million in total, repaid from general taxes (§ 14).
 - General obligation bonds are repaid from taxes and carry lower rates; revenue bonds are repaid from project revenue such as utility fees ([[Bond Concepts]]).
 - Credit ratings, outstanding debt, and remaining capacity under the 3% limit: verify with Finance. Frederick County holds AAA ratings from all three agencies; the City's ratings are separate.
+- At the October 8, 2026 work session, CAO Katie Barkdoll briefed Council on bond financing, debt service, and bonds versus PayGo, and noted the City's strong bond rating. A bond ordinance was expected the following week, with a December market date proposed ([[Workshop Minutes 2026-10-08]]).
 
 ## Accounting standards
 

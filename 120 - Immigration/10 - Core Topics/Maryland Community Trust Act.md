@@ -9,7 +9,7 @@ type: council-decision-reference
 jurisdiction: [City of Frederick, Frederick County, Maryland, Federal]
 date_saved: 2026-09-23
 date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+source_reviewed: 2026-10-25
 source: "Enacted Chapter 872, Attorney General guidance, revised legislative analysis, litigation records, and retained local research"
 status: active
 confidence: medium

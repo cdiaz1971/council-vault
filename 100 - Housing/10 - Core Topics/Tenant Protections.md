@@ -278,6 +278,12 @@ For older renters and people with disabilities, assess accessibility, fixed-inco
 
 **Comparative example: NYC SCRIE.** NYC's published eligibility page lists age 62+, qualifying regulated housing, household income of **$50,000 or less**, and rent exceeding one-third of household income. Landlords receive a property-tax credit for the covered difference. The earlier $75,000 figure is not the limit on that program page; a July 2026 Council announcement described proposed expansion to $75,000.[^scrie] [^scrieproposal] Adapting such a mechanism in Frederick would require its own authority, funding, coverage, and administration.
 
+**Near-neighbor eviction data: Baltimore County.** Baltimore County recorded more than 4,300 evictions in fiscal year 2025, the most of any Maryland jurisdiction, even as the statewide total fell, according to DHCD and District Court data reported by The Baltimore Banner.[^baltco] Zafar Shah of Maryland Legal Aid points to Montgomery County as the counterexample: by population and rent levels it should have the highest eviction rate in the state, and instead has the lowest, which he attributes to local legal-aid and assistance capacity rather than rent levels alone. That is a county-level comparison, not a Frederick measurement, but it supports pairing any tenant-protection package with funded eviction-prevention capacity (Section 7) rather than relying on substantive rules alone.
+
+News coverage describes the Baltimore County Council as having passed a bill extending pre-eviction notice from six to fourteen days and repealing the county's "abandonment" ordinance, which had treated anything a tenant left behind after an eviction as abandoned.[^baltco] A separate, same-period report describes a similarly aimed bill, sponsored by a county councilmember, as still under council consideration rather than enacted.[^baltcobrew] **The current status of this notice/abandonment measure should be verified against the county's legislative record before it is cited as enacted law.** Maryland's state notice floor is six days, with local jurisdictions authorized to set a local notice period between four and fourteen days (Section 2 above); a Frederick ordinance choosing a point in that range should state its own reasoning rather than default to Baltimore County's choice, whatever that choice turns out to be.
+
+The legal exposure behind the change is real regardless of this bill's status. A materially similar Baltimore City ordinance was struck down as unconstitutional by a federal court in 2022, a ruling the Fourth Circuit affirmed in 2024 for providing no reclamation period at all, and Maryland Legal Aid has separately sued Baltimore County on the same theory.[^baltcolawsuit] Frederick should confirm whether the City or Frederick County has any ordinance or practice treating a tenant's possessions as abandoned after a writ of restitution is executed, and if so, review it against this precedent rather than wait for a comparable complaint. Baltimore County has left open, with stakeholder recommendations due December 31, 2026, who stores a displaced tenant's belongings, who pays, and for how long; Frederick can watch that design process rather than need to resolve the storage question without a reference model.[^baltco]
+
 ## 8. Tenant agency and access to enforcement
 
 Tenant organizations can surface recurring building-level problems and help residents document complaints. Maryland's anti-retaliation law specifically includes participation in a tenants' organization, subject to statutory conditions.[^retaliation]
@@ -349,6 +355,9 @@ Statutes and court opinions support legal statements; agency pages support progr
 [^adr]: Maryland District Court, [Alternative Dispute Resolution](https://www.mdcourts.gov/district/adr/home), scope and availability.
 [^scrie]: NYC, [Senior Citizen Rent Increase Exemption](https://access.nyc.gov/programs/senior-citizens-rent-increase-exemption-scrie/), published eligibility and tax-credit mechanism.
 [^scrieproposal]: NYC Council Member Farah Louis, [Introduction 0978 announcement, July 20, 2026](https://council.nyc.gov/farah-louis/2026/07/20/council-member-louis-introduces-legislation-intro-0978-to-expand-scrie-and-drie-rent-freeze-protections/), proposed income-limit expansion.
+[^baltco]: The Baltimore Banner, ["With over 4,300 evictions, Baltimore County is 'a significant outlier' in Maryland,"](https://www.thebanner.com/politics-power/local-government/baltimore-county-housing-evictions-affordability-PUFEEVDGERGPRLVMWL5HACONTU/) October 2026.
+[^baltcobrew]: Baltimore Brew, ["Baltimore County's eviction law, like Baltimore's, is unconstitutional, advocates say,"](https://blog.baltimorebrew.com/2026/09/03/baltimore-countys-eviction-law-like-baltimores-is-unconstitutional-advocates-say/) September 3, 2026, describing a pending council bill rather than enacted law.
+[^baltcolawsuit]: Maryland Legal Aid, [press release on the Baltimore County abandoned-property eviction lawsuit](https://www.mdlab.org/wp-content/uploads/Baltimore-County-Abandoned-Property-Eviction-Lawsuit-Press-Release.pdf), June 2026; Fourth Circuit affirmance of the 2022 ruling against Baltimore City's materially similar ordinance.
 
 ## Retained research trail and maintenance
 
@@ -379,6 +388,7 @@ The reference above replaces unsupported generalizations with narrower, sourced 
 - [[Tenant-Side Tech Tools for Landlord Accountability]]
 - [[Landlord Legal Pressure Against Tenants as Suppression of Journalism]]
 - [[Housing Policy Trends Digest -- 2026-03-22]] (César's March 2026 digest)
+- [[Baltimore County Leads Maryland in Evictions]]
 
 **Cited in place (5)**
 - [[Real Rent Ordinance]]
@@ -402,7 +412,7 @@ The reference above replaces unsupported generalizations with narrower, sourced 
 - [[Seattle Ordinance 126803 - Late Fee Cap and Notice Fee Ban]]
 - [[National Tenants Bill of Rights (2024)]]
 
-30 notes total: 17 archived from 100 - Housing, 13 cited in place, and one verified web source.
+31 notes total: 18 archived from 100 - Housing, 13 cited in place, and one verified web source.
 
 ## Wiki navigation
 

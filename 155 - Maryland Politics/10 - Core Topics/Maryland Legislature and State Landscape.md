@@ -3,9 +3,9 @@ title: Maryland Legislature and State Landscape
 type: council-decision-reference
 area: Maryland Politics
 jurisdiction: [Maryland, Frederick County, City of Frederick]
-date_updated: 2026-10-12
-source_reviewed: 2026-10-12
-last_synthesized: 2026-10-12
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium-high
 tags: [council, maryland, general-assembly, state-politics, elections, frederick-delegation]
@@ -31,6 +31,7 @@ This page supports the City's work with Annapolis: who holds power, what the 202
 - Five incumbents lost primaries, including Senate Majority Leader Nancy King ([[Maryland June 2026 Primary Final Results and Legislative Implications]]). At least 25 legislators will not return, including Del. Barrie Ciliberti (R-Frederick) ([[Maryland 2026 Legislative Turnover -- Key Departures and Races]]; [[Maryland 2026 Legislative Primary Landscape -- Senate and Delegate Races]]).
 - Governor Moore named Will Tilburg chief legislative officer amid friction with Senate leadership ([[Moore Names Will Tilburg Chief Legislative Officer]]).
 - Republican delegates posted a video accusing Del. Chao Wu, a Chinese-born delegate, of spying, drawing bipartisan condemnation ([[Maryland Delegates Racist Video Targeting Del. Chao Wu]]).
+- The Maryland Legislative Latino Caucus, co-founded in 2014, has grown to 100 members (8 Latino, 92 associate) under House Speaker Joseline Peña-Melnyk, the first Afro-Latina and first immigrant speaker. The state party is tracking 21 Latino candidates for state and local office in the November 2026 election, including county council nominees in Frederick, Prince George's, Montgomery, and Baltimore counties; the specific Frederick County nominee is not yet identified in public reporting ([[Latino Candidates Now Run Up and Down Maryland Ballots in 2026]]).
 
 ## November 3, 2026 general election
 

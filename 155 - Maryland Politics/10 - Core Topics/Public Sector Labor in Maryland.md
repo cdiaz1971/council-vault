@@ -3,8 +3,9 @@ title: Public Sector Labor in Maryland
 type: council-decision-reference
 area: Maryland Politics
 jurisdiction: [City of Frederick, Maryland]
-date_updated: 2026-10-02
-source_reviewed: 2026-10-02
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium-high
 tags: [council, labor, collective-bargaining, public-sector, afscme, binding-arbitration]
@@ -29,6 +30,7 @@ This page supports Council decisions on collective bargaining for City employees
 - **Layoffs.** The University System cut jobs at College Park, Bowie State, and UMBC, citing a 10% State funding cut over two cycles and federal research cuts ([[Federal and State Budget Cuts Force University Layoffs Despite Collective Bargaining]]).
 - **First contracts.** Baltimore City Community College faculty ratified their first contract after 19 months of bargaining ([[Baltimore City Community College Faculty Ratify First Union Contract]]).
 - **Binding arbitration on the ballot.** Question 1 on November 3, 2026 would let either side in State employee wage talks request binding arbitration if no agreement is reached by October 25, and require the Governor to include arbitrated wage costs in the proposed budget, though the legislature keeps final funding authority ([WYPR](https://www.wypr.org/wypr-news/2026-05-01/maryland-voters-will-weigh-in-on-state-employee-wage-negotiation-process-in-november)). It does not apply to City employees.
+- **Good-faith bargaining enforcement.** The Maryland Public Employee Relations Board ruled the Department of Budget and Management violated its bargaining agreement with AFSCME Council 3 by refusing to produce telework-eligibility records the union requested for contract negotiations, and ordered production within 14 days ([[Maryland PERB Rules State Violated Bargaining Agreement on Telework Records]]). It is a concrete example of what a good-faith bargaining duty requires in practice, relevant background for any City bargaining ordinance that includes binding arbitration.
 
 ## Design questions for a City bargaining ordinance
 

@@ -4,8 +4,9 @@ type: council-decision-reference
 area: Budget and Finance
 jurisdiction:
   - City of Frederick
-date_updated: 2026-10-02
-source_reviewed: 2026-10-02
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium-high
 tags:
@@ -59,6 +60,7 @@ PDB, documented by the Government Finance Officers Association, starts from what
 - **No link from priorities to spending.** The City has a strategic plan (CommUNITY 2030; verify current status) but no process connecting program funding to its goals ([[Priority-Driven Budgeting -- Frederick Application]]).
 - **Equity.** The 29% cut to Equity and Inclusion alongside growth in two newer offices without performance measures would be visible under scoring against an equity result.
 - **Evidence for priorities.** United Way ALICE data, showing about 43% of City households below the ALICE threshold, can define a basic-needs priority.
+- **Evidence for a non-basic-needs priority.** A ten-city SMU DataArts study of over 4,400 nonprofit arts organizations (2019-2024) found consistent municipal arts investment, though it typically covers only about 5% of an organization's budget, is one of the strongest predictors of whether a city's cultural sector recovered from the pandemic; cities with sustained per-capita arts funding saw stronger revenue and smaller workforce cuts than cities that cut it. This reframes municipal arts funding as an investment with a measurable stability return rather than a purely discretionary line, useful language for scoring the Art in City Hall program and similar lines under PDB ([[Municipal Arts Funding as a Leading Indicator of Post-Pandemic Recovery]]).
 - **Capital projects.** Capital projects can be scored the same way, which would surface the geographic concentration of the capital list raised at the April 8 work session.
 - **Grant risk.** Federal grants can be treated as uncertain sources needing contingency plans.
 - **SPARK, the administration's own priority exercise.** Staff introduced SPARK at the September 24, 2026 work session. Each council member allocates 100 points across the six CommUNITY 2030 strategic goals as input to the FY2028 budget. Allocations are due to Ericka Rohrbaugh by October 9, 2026, and results return to Council October 22. It ranks goals rather than scoring programs, so it is a first step toward PDB, not PDB itself, and a low-cost place to put points behind housing and equity results.

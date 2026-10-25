@@ -2,9 +2,9 @@
 title: "Housing Production Strategies"
 type: council-decision-reference
 date_saved: 2026-09-25
-date_updated: 2026-10-18
-source_reviewed: 2026-10-18
-last_synthesized: 2026-10-18
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 source: "vault research, official plans, legislation, and program records"
 status: active
 confidence: medium
@@ -132,6 +132,8 @@ The following is an analytical comparison framework. It does not assert that eve
 | Preservation and rehabilitation | Retains useful homes and prevents losses | Physical needs, tenant protections, long-term affordability, and net-unit accounting |
 
 Small-scale local builders are a production channel the table does not capture on its own. In Memphis, a builder trained through the Incremental Development Alliance built Malone Park Commons, a 35-unit for-rent pocket neighborhood of cottages and fourplexes, in phases over five years, revising the pro forma more than 30 times and stabilizing each phase before starting the next; his earlier work pushed Memphis to reduce minimum lot sizes ([[Incremental Developer Builds a 35-Unit Affordable For-Rent Pocket Neighborhood in Memphis]]). The account comes from an Alliance faculty member, so treat it as a case study. For Frederick, the lesson is that phased small projects depend on predictable small-lot rules and small-loan financing more than on large subsidies.
+
+A small-nonprofit variant of this channel is reported in Raleigh, where CASA paired a $2.7 million financing stack, City of Raleigh bond funds, a Wake County HOME CHDO set-aside, a federal Community Project Funding earmark, and other grants, with a transit-area zoning allowance to convert a single deteriorating triplex into nine supportive-housing units for youth aging out of foster care; see [[Building Types and Codes]] for the zoning mechanism that made the project possible without a rezoning.[^casa] The reported lesson for a Frederick production program is that a layered small-project financing stack, local bond funds, a county HOME set-aside, and a federal earmark, can substitute for a single large subsidy source, provided a nonprofit partner can hold construction-timeline risk and a supportive-service partner is lined up for occupancy.
 
 Financing details belong in [[Housing Finance and Preservation]], zoning in [[Zoning Reform]], and design/code options in [[Building Types and Codes]]. The production strategy should connect those instruments to one implementation schedule.
 
@@ -273,6 +275,7 @@ Footnotes support the main article. The original vault list remains below for co
 [^nycpublicland]: Zachary Whalen, [“NYC to turn city-owned property into thousands of homes,”](https://www.planetizen.com/news/2026/09/138515-nyc-turn-city-owned-property-thousands-homes) Planetizen, September 29, 2026, summarizing Willow Higgins, Gothamist, September 28, 2026, and the NYC Mayor's Office press release cited at [^nyclift].
 [^transitplan]: CBS News Baltimore, April 2026, reporting the Baltimore Regional Transit-Oriented Development Strategy; original via [Planetizen](https://www.planetizen.com/news/2026/04/137321-maryland-unveils-plan-5000-homes-near-transit) and [CBS News Baltimore](https://www.cbsnews.com/baltimore/news/metro-subway-maryland-development-plan/).
 [^dillard]: Tre Spencer, [“A former school finds new life as affordable housing for NC seniors”](https://www.governing.com/urban/north-carolina-turns-a-historic-school-into-affordable-senior-housing), NC Newsline, republished by Governing, October 15–16, 2026.
+[^casa]: Rachel Eberhard, ["How CASA Turned an Aging Triplex Into Housing for Post-Foster Care Youth,"](https://citybuildernc.org/p/how-casa-turned-an-aging-triplex) CityBuilder NC, October 22, 2026.
 
 ### Original vault research trail
 
@@ -307,7 +310,10 @@ Note: [[AI for Housing Permitting Use Cases and Guardrails]] was already listed 
 **Cited in place, added 2026-10-18 (1)**
 - [[A Vacant Historic Black School Became 53 Units of HUD-Financed Senior Housing in Rural North Carolina]]
 
-19 notes total: 12 archived from 100 - Housing and 7 cited in place.
+**Cited in place, added 2026-10-25 (1)**
+- [[CASA Method Road Triplex Conversion for Post-Foster Care Youth]]
+
+20 notes total: 12 archived from 100 - Housing and 8 cited in place.
 
 ## Wiki navigation
 

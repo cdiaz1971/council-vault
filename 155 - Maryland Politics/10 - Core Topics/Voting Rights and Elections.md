@@ -3,9 +3,9 @@ title: Voting Rights and Elections
 type: council-decision-reference
 area: Maryland Politics
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-18
-source_reviewed: 2026-10-18
-last_synthesized: 2026-10-18
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium-high
 tags: [council, voting-rights, elections, redistricting, ranked-choice-voting, election-administration]
@@ -22,6 +22,7 @@ This page supports Council decisions and positions on voting rights, redistricti
 - In *Louisiana v. Callais* (April 2026), the Supreme Court struck down Louisiana's congressional map with two majority-Black districts and narrowed Section 2 of the Voting Rights Act to require a strong inference of intentional discrimination. Justice Kagan's dissent called Section 2 "all but a dead letter" ([SCOTUSblog](https://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/); [[SCOTUS Louisiana Redistricting -- Voting Rights Act Narrowed]]).
 - Fair Fight projected up to 19 additional safe Republican House seats from new Southern maps ([[Louisiana v Callais SCOTUS Guts Voting Rights Act Section 2]]). Federal courts are no longer the main arena for challenging minority vote dilution ([[Callais Ruling Guts Section 2 and Ends the Courts as the Primary Arena]]).
 - A federal court ruled the administration's SAVE voter database illegal under the Privacy Act and ordered it dismantled; States had used it to purge rolls, wrongly flagging citizens as noncitizens ([[SAVE Voter Database Ruled Illegal -- Federal Court Orders Dismantling]]).
+- The Supreme Court will hear *RNC v. Mi Familia Vota* on December 8, 2026, on whether the National Voter Registration Act preempts Arizona laws requiring documentary proof of citizenship to register and allowing removal of registered voters who lack it; Demos estimates 21.3 million Americans lack ready access to such documents, with the burden falling hardest on low-income voters and voters of color. A ruling for Arizona would not directly bind Maryland but could embolden similar state proposals and is the registration-side counterpart to the SAVE database purges and the *Callais* ruling on Section 2. A decision is expected by June 2027 ([[RNC v Mi Familia Vota and Documentary Proof of Citizenship]]).
 
 ## Maryland Voting Rights Act (2026)
 

@@ -3,9 +3,9 @@ title: Digital Services and Accessibility
 type: council-decision-reference
 area: GovTech
 jurisdiction: [City of Frederick, Maryland, Federal]
-date_updated: 2026-10-18
-source_reviewed: 2026-10-18
-last_synthesized: 2026-10-18
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 status: active
 confidence: medium
 tags: [council, govtech, accessibility, ada, digital-services, broadband, service-design]
@@ -35,6 +35,7 @@ This page supports Council decisions on how residents reach City services online
 - **Federal systems.** Federal tools do not always fit local needs; most states declined CMS's free Medicaid verification tools.
 - **Identity.** States are building unified digital ID to cut fraud and simplify access; any City use must respect immigrant residents' privacy under the [[City Values Act]].
 - **Operations data.** Connecting IT with operational systems lets cities move from reactive to proactive service. Baltimore uses drones to inspect vacant properties on public land under community notice rules.
+- **Dedicated digital service teams.** A Beeck Center report frames dedicated digital service teams as critical infrastructure for resident-facing modernization, not a discretionary add-on; Lebanon, New Hampshire's small team uses AI to move faster than larger jurisdictions, treating its small size as an agility advantage rather than a constraint. Frederick has no dedicated digital service team; technology work is distributed across departments and vendors, which the report frames as a structural gap rather than only a staffing one ([[Digital Service Teams as Government Modernization Infrastructure]]).
 
 ## Language access
 
@@ -80,6 +81,9 @@ Maryland is expanding fiber to rural western counties with federal funds. Treati
 
 **Cited in place, added 2026-10-18 (1)**
 - [[Government Websites Need AI-Readable Structure as Residents Shift to AI Assistants for Public Information]]
+
+**Cited in place, added 2026-10-25 (1)**
+- [[Digital Service Teams as Government Modernization Infrastructure]]
 
 ## Related pages
 

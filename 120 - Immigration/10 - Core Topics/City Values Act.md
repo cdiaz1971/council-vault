@@ -8,7 +8,7 @@ aliases:
 type: council-decision-reference
 jurisdiction: [City of Frederick]
 date_updated: 2026-09-29
-source_reviewed: 2026-09-29
+source_reviewed: 2026-10-25
 status: active
 confidence: high
 tags: [immigration, city-values-act, ordinance, frederick, chapter-33]

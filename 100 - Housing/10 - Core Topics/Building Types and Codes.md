@@ -2,8 +2,9 @@
 title: "Building Types and Codes"
 type: council-decision-reference
 date_saved: 2026-09-25
-date_updated: 2026-09-27
-source_reviewed: 2026-10-18
+date_updated: 2026-10-25
+source_reviewed: 2026-10-25
+last_synthesized: 2026-10-25
 source: "official codes and legislation, published research, and retained vault research"
 status: active
 confidence: medium
@@ -87,6 +88,8 @@ The following is an analytical comparison, not a schedule of permitted uses.
 The relevant comparison is the **total cost and usefulness of an occupied home**. A form with fewer common areas may save construction space but sacrifice amenities. A walk-up may have lower capital costs but serve fewer people with mobility limitations. Shared facilities may reduce private floor area while increasing management needs.
 
 Do not apply the original research notes' elevator, parking, staircase, or prefab prices as Frederick estimates. They lack a common local specification, price date, and cost boundary. Request comparable designs and estimates instead.
+
+**A reported by-right form change: Raleigh's Method Road conversion.** CASA, a Raleigh nonprofit, replaced a deteriorating 1960s triplex with a nine-unit building for young adults aging out of foster care without a rezoning hearing, according to a planning newsletter's account of the project. The reported mechanism combines three tools already in Raleigh's base zoning: a frequent-transit-area density allowance that set the unit count by lot area rather than a use-specific cap, the citywide elimination of parking minimums (so no parking waiver was needed), and a pre-2001 stormwater exemption that applied because the lot predated 2001 and impervious surface stayed under the exemption's limit. CASA reportedly learned the rezoning was unnecessary only when city staff mentioned it during an unrelated pre-application meeting, which is itself a caution that even development-friendly code tools can go unused if they are not visible to applicants and reviewers. The account also names an implementation problem worth stating directly: a by-right reform can underdeliver if staff review still proceeds as discretionary review, since the project reportedly went through four rounds of site-plan review for a half-acre parcel that had neither a parking nor a stormwater question to resolve, with substantive comments arriving only in the final round.[^casa] This is a single case from a specialized planning newsletter, not an evaluated program or a primary document; it illustrates how transit-area density, parking policy, and a legacy exemption can combine to allow a form change like this one, and it is a caution that a Frederick missing-middle or parking package should pair any by-right allowance with a defined, front-loaded review timeline.
 
 ## 4. Single-stair buildings: mechanism, evidence, and legal status
 
@@ -208,6 +211,7 @@ Official sources establish the rules described here; research supports the state
 [^definitions]: Maryland Department of Labor, [What is a Modular and a Manufactured (Mobile) Home?](https://www.labor.maryland.gov/labor/build/buildmoddef.shtml). Its chassis language predates the change described in Public Law 119-101; use the newer statute for that change.
 [^plans]: City of Eugene, [Pre-Approved Accessory Dwelling Unit Program](https://www.eugene-or.gov/4707/Pre-Approved-Accessory-Dwelling-Unit-Pro), program requirements and permitting.
 [^hud]: U.S. Department of Housing and Urban Development, [Programs of HUD](https://www.hud.gov/hudprograms), Fair Housing Act design and construction coverage.
+[^casa]: Rachel Eberhard, ["How CASA Turned an Aging Triplex Into Housing for Post-Foster Care Youth,"](https://citybuildernc.org/p/how-casa-turned-an-aging-triplex) CityBuilder NC, October 22, 2026.
 
 ## Retained research trail
 
@@ -236,6 +240,7 @@ These original links preserve the research history and examples that informed th
 - [[Pre-Approved Architectural Plans and Electronic Permitting as Supply-Side Tools]]
 - [[Building Deconstruction as Housing Policy -- Design for Disassembly and Circular Construction]]
 - [[Circular Architecture and the Case Against Single-Use Buildings]]
+- [[CASA Method Road Triplex Conversion for Post-Foster Care Youth]]
 
 **Cited in place (3)**
 - [[Frederick Housing Policy Baseline]]
@@ -245,7 +250,7 @@ These original links preserve the research history and examples that informed th
 **Original secondary web clipping (retained as research history)**
 - [McGuireWoods Consulting, "21st Century ROAD To Housing Act: Section By Section Guide"](https://mwcllc.com/2026/07/17/21st-century-road-to-housing-act-section-by-section-guide/)
 
-23 notes total: 20 archived from 100 - Housing and 3 cited in place, plus one web source.
+24 notes total: 21 archived from 100 - Housing and 3 cited in place, plus one web source.
 
 ## Wiki navigation
 
