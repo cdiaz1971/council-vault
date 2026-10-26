@@ -34,7 +34,7 @@ Order of points, about five minutes:
 
 1. **What it is.** A process amendment to § 306. It changes who signs a text amendment application and adds a public first look by the Council. It does not change any zoning district, any use, or any map.
 2. **Why now.** Recent text amendments came from data center, gas station, mixed-use, and hospital applicants, most prepared by the same firm, each rewriting citywide rules around one project. Residents described them as "one-off wonders." The Commission has seen these applications. You know the pattern.
-3. **What changes for the Commission.** You still hold your public hearing and make your recommendation. You will receive applications that have already had a public Council discussion of Comprehensive Plan fit, so you get clearer direction on what the elected body is weighing. That is the gap the Commission has raised before, when conditions it attached did not reach Council.
+3. **What changes for the Commission.** You still hold your public hearing and make your recommendation. You will receive applications that have already had a public Council discussion of Comprehensive Plan fit, so you get clearer direction on what the elected body is weighing. That speaks to the friction over Commission conditions not reaching Council, as happened with the ADU recommendation.
 4. **Peer practice.** Rockville's 2026 zoning ordinance lets only the Mayor and Council apply. Montgomery County and Frederick County put initiation with their councils. Gaithersburg requires every applicant to name a public sponsor. Frederick's version is less restrictive than Rockville's.
 5. **Legal footing.** State law, Land Use § 4-203, leaves "the manner in which" zoning is amended to the legislative body and guarantees the public hearing, which this keeps.
 6. **The ask.** Recommend approval as submitted.
@@ -104,7 +104,7 @@ Small, and offset by staff time saved. We have asked Planning for five years of 
 The rewrite has no adoption date, and private applications keep coming in the meantime. This is a small process fix that makes the rewrite easier, because the code won't be changing underneath it one site at a time.
 
 **"Why the Council President and not the Mayor?"**
-The old language comes from when the Board of Aldermen was the legislative body and the Mayor sat with it. The Mayor isn't a member of the Council now. Text amendments become ordinances, and the Council schedules its own ordinance hearings. The Mayor still files amendments and still has the veto.
+The old language comes from when the Board of Aldermen was the legislative body and the Mayor sat with it *(verify against the pre-2024 Charter before saying this)*. The Mayor isn't a member of the Council now. Text amendments become ordinances, and the Council schedules its own ordinance hearings. The Mayor still files amendments and still has the veto.
 
 **"Can the Mayor still file?"**
 Yes. Any elected City official can, and the Mayor's applications get the same public Council review.

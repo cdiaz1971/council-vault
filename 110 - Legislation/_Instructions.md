@@ -35,6 +35,7 @@ Every bill César works on gets a **packet**: one folder in `110 - Legislation`,
 | EPMD | E-Bike Ordinance, micromobility | [[EPMD Ordinance -- File Index]] | Folder only |
 | Data Center ZTA | PC25-626ZTA | [[Data Center ZTA -- File Index]] | Folder only |
 | Housing Production Target | Resolution 26-15, Affordable Housing Action | [[Housing Production Target Resolution -- File Index]] | Folder only (passed Oct 1, 2026; final) |
+| Text Amendment Filing | § 306 amendment, filing authority ZTA, Brehm ZTA on submission eligibility | [[Text Amendment Filing - File Index]] | Packet (opposition research note covers stakeholder map and opposition arguments); text final Oct 26, 2026 |
 
 Add a row whenever a new packet is built.
 

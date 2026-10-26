@@ -3,7 +3,7 @@ title: "Brehm ZTA -- Text Amendment Submission Eligibility"
 date_saved: "2026-10-13"
 source: "[[Council Active Threads#Brehm ZTAs -- Text Amendment Submission and Council Site Plan Review]]"
 tags: ["council","tracker"]
-summary: "Díaz and Brehm LMC Sec. 306 amendment limiting text amendment filing to elected City officials and the Planning Division, with a Council review before Planning Commission. Draft dated October 8; presented at the October 22, 2026 workshop."
+summary: "Díaz and Brehm LMC Sec. 306 amendment limiting text amendment filing to elected City officials and the Planning Division, with a non-voting Council review before Planning Commission. Presented at the October 22, 2026 workshop; final 10/26 text going to the Planning Division as is."
 council_tracker: true
 tracker_title: "Brehm ZTA -- Text Amendment Submission Eligibility"
 track: "Legislation"
@@ -11,16 +11,16 @@ topics: ["Land Management Code"]
 lead: "Díaz"
 queue: "Active"
 stage: "Workshop"
-next_action: "Get the 10/19 revision (non-voting review) to the Clerk and members before the October 22 workshop, and present it in place of the packet version."
+next_action: "File the final 10/26 text with the Planning Division; confirm completeness, case number, and Commission hearing date. Request text amendment filing data from Planning and meet Director Collard before the staff report."
 blocker: ""
-review_on: "2026-10-22"
+review_on: "2026-11-02"
 migration_review: false
 coverage_added_on: "2026-10-13"
-stage_source_date: "2026-10-19"
+stage_source_date: "2026-10-26"
 legal_review: "Unknown"
 priority: "High"
-target_date: "2026-10-22"
-tracker_sources: ["[[Council Active Threads#Brehm ZTAs -- Text Amendment Submission and Council Site Plan Review]]", "[[Text Amendment Filing Authority Policy Brief 2026-10-19]]", "[[Workshop Brief 2026-10-22]]"]
+target_date: ""
+tracker_sources: ["[[Text Amendment Filing - File Index]]", "[[Council Active Threads#Text Amendment Filing (LMC Sec. 306) -- César's First Text Amendment]]", "[[Council Active Threads#Brehm ZTAs -- Text Amendment Submission and Council Site Plan Review]]", "[[Text Amendment Filing Authority Policy Brief 2026-10-19]]", "[[Workshop Brief 2026-10-22]]"]
 ---
 
 # Brehm ZTA -- Text Amendment Submission Eligibility
@@ -37,7 +37,10 @@ Drafts: packet items D.1 and D.2 in `G:\My Drive\City council\01 - Meetings\Work
 - October 9, 2026: packet version with binding Council vote prepared.
 - October 19, 2026: Drive revision with non-voting review.
 - October 19, 2026: César chose to present the 10/19 revision at the workshop instead of the packet version.
-- October 22, 2026: workshop Item IV.D, feedback only.
+- October 22, 2026: workshop Item IV.D, feedback only. Hempel Irani the only other member present (FNP, October 23).
+- October 26, 2026: César finalized the text (10/26 version) and decided to submit it to the Planning Division as is, with no further cleanup. Gaps are handled in testimony, Council Rules, and practice. Stage left at Workshop until the Division confirms the submission.
+
+Packet: [[Text Amendment Filing - File Index]].
 
 ## Analysis and open questions
 
@@ -53,7 +56,7 @@ Full analysis, opposition map, and options in [[Text Amendment Filing Authority 
 - No public process or disclosure for requests that a Council member sponsor an amendment, and no fee recovery for sponsored amendments.
 - Cleanup of a garbled sentence in the Commission hearing subsection and list lettering.
 
-Drafting work is flagged for chat (TickTick, Council list).
+As of October 26 the text is final; these items are now defense points, with answers in [[Text Amendment Filing - Legislative Case]].
 
 ## Sources
 
