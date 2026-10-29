@@ -64,6 +64,3 @@ Snapshot list of legislation the council has accomplished and items still in pro
 - IST Housing
 - Floating Zone/Overlay
 - Relief to those overdue on water and sewer
-
-## Source
-Photo of a printed list, transcribed October 29, 2026. "Filing" and "IST Housing" were hard to read in the photo and should be checked against the original.
